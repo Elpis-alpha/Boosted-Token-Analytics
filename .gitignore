@@ -2,3 +2,4 @@ node_modules
 src/data/*
 env
 .env
+!src/data/2/750.json
