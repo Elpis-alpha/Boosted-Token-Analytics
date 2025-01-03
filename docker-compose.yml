@@ -2,6 +2,7 @@ services:
   data-retriever:
     build: .
     restart: unless-stopped
+    container_name: boost-analyzer
     volumes:
       - .:/app # Sync local code changes
       - /app/node_modules # Prevent overwriting node_modules

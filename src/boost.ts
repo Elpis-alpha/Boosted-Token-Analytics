@@ -55,6 +55,11 @@ const checkAndSaveTokens = async () => {
   const boostedTokens = await getBoosted();
   if (!boostedTokens) return;
 
+  const specialTokens: {
+    token: basicBoostParsedResponse;
+    existingToken: DetectedToken | undefined;
+    MC: number;
+  }[] = [];
   for (let i = 0; i < boostedTokens.length; i++) {
     const token = boostedTokens[i];
     const existingToken = detectedTokens.get(token.address);
@@ -86,30 +91,78 @@ const checkAndSaveTokens = async () => {
       // );
       continue;
     }
-    detectedTokenMarketCap.set(token.address, MC);
+
+    const tokensSaved = detectedTokens.size;
+    if (tokensSaved >= 200 && !existingToken) {
+      console.log(
+        chalk.redBright(
+          `\nMore than 200 tokens saved. Skipping new token ${token.address}\n`
+        )
+      );
+      continue;
+    }
+
+    specialTokens.push({ token, existingToken, MC });
+  }
+  if (specialTokens.length <= 0) return false;
+
+  const _prices = await fetchPricesV2(
+    specialTokens.map((x) => x.token.address)
+  );
+  const prices =
+    _prices ?? (await fetchPricesV2(specialTokens.map((x) => x.token.address)));
+  if (!prices) {
+    console.log(chalk.red("\nFailed to get token prices from jupiter api\n"));
+    return false;
+  }
+
+  for (let i = 0; i < specialTokens.length; i++) {
+    const { token, existingToken, MC } = specialTokens[i];
+    const priceData = prices?.[token.address];
+    const price = Number(priceData?.price);
+    if (!priceData || !priceData?.price || isNaN(price)) {
+      console.log(
+        chalk.red(`\nFailed to get the price of token ${token.address}\n`)
+      );
+      continue;
+    }
 
     if (!existingToken) {
-      const hpData = await getTopHolderInfo(token.address);
+      let hpData = await getTopHolderInfo(token.address);
+      if (!hpData) {
+        console.log(
+          chalk.red(`\nFailed to get the hp data of token ${token.address}\n`)
+        );
+        hpData = {
+          text: "Not Available",
+          top10HP: 0,
+          top25HP: 0,
+          top50HP: 0,
+        };
+      }
       // New token detected
       console.log(chalk.cyan(`\nNew Token Detected`));
       console.log(chalk.cyanBright(`- Address: ${token.address}`));
       console.log(chalk.cyanBright(`- Boost: ${token.boost}`));
+      console.log(chalk.cyanBright(`- Price: ${price}`));
+      console.log(chalk.cyanBright(`- Holders: ${hpData.text}`));
       console.log(chalk.cyanBright(`- Market Cap: ${shortenNumber(MC)} USD\n`));
 
       const newToken: DetectedToken = {
         address: token.address,
         url: token.url,
+        initialMC: MC,
         hpData,
-        initialMC: {
-          MC: MC,
+        initialPrice: {
+          price,
           date: new Date(),
         },
-        highestMC: {
-          MC: MC,
+        highestPrice: {
+          price,
           date: new Date(),
         },
-        currentMC: {
-          MC: MC,
+        currentPrice: {
+          price,
           date: new Date(),
         },
         intialBoost: token.boost,
@@ -137,7 +190,8 @@ const checkAndSaveTokens = async () => {
       );
 
       existingToken.history.push({
-        MC: MC,
+        MC,
+        price,
         boost: token.boost,
         date: new Date(),
       });
@@ -152,34 +206,121 @@ const checkAndSaveTokens = async () => {
 const checkDetectedTokensMarketCapChange = async () => {
   const allTokens = Array.from(detectedTokens.keys());
 
+  const _prices = await fetchPricesV2(allTokens);
+  const prices = _prices ?? (await fetchPricesV2(allTokens));
+  if (!prices) {
+    console.log(chalk.red("\nFailed to get token prices from jupiter api\n"));
+    return false;
+  }
+
   for (let i = 0; i < allTokens.length; i++) {
     const token = allTokens[i];
-    const MC =
-      detectedTokenMarketCap.get(token) || (await fetchMarketCap(token));
-    if (!MC || typeof MC !== "number" || MC <= 0) continue;
-    if (MC > 2_000_000) {
-      moreThan2MTokens.set(token, 1);
-      // console.log(chalk.redBright(`\nToken ${token} MC is more than 2M`));
+    const priceData = prices?.[token];
+    const price = Number(priceData?.price);
+    if (!priceData || !priceData?.price || isNaN(price)) {
+      console.log(chalk.red(`\nFailed to get the price of token ${token}\n`));
       continue;
     }
 
     const existingToken = detectedTokens.get(token);
     if (!existingToken) continue;
 
-    existingToken.currentMC = {
-      MC: MC,
+    existingToken.currentPrice = {
+      price,
       date: new Date(),
     };
 
-    const isHighest = MC > existingToken.highestMC.MC;
+    const isHighest = price > existingToken.highestPrice.price;
     if (isHighest) {
-      existingToken.highestMC = {
-        MC: MC,
+      existingToken.highestPrice = {
+        price,
         date: new Date(),
       };
     }
 
     detectedTokens.set(token, existingToken);
+  }
+};
+
+const fetchPrices = async (contractAddresses: string[]) => {
+  try {
+    const ids = contractAddresses.map((c) => c.trim()).join(",");
+    const response = await fetch(`https://api.jup.ag/price/v2?ids=${ids}`);
+    const data = await response.json();
+    if (!data || !data.data) return null;
+    if (!data.timeTaken || data.timeTaken <= 0) return null;
+
+    interface AllMarketCapsData {
+      [key: string]: {
+        id: string;
+        type: string;
+        price: string;
+      };
+    }
+
+    console.log(
+      chalk.blue(
+        `\nTime taken to fetch ${contractAddresses.length} tokens: ${data.timeTaken}s\n`
+      )
+    );
+    return data.data as AllMarketCapsData;
+  } catch (error) {
+    console.error("Error fetching market cap:", error);
+    return null;
+  }
+};
+
+const fetchPricesV2 = async (contractAddresses: string[]) => {
+  try {
+    const batchSize = 100;
+    const batches = [];
+
+    for (let i = 0; i < contractAddresses.length; i += batchSize) {
+      const batch = contractAddresses.slice(i, i + batchSize);
+      batches.push(batch);
+    }
+
+    let allData: {
+      [key: string]: {
+        id: string;
+        type: string;
+        price: string;
+      };
+    } = {};
+    let totalTimeTaken = 0;
+
+    for (let i = 0; i < batches.length; i++) {
+      const batch = batches[i];
+      if (!batch || batch.length <= 0) return null;
+      if (i > 0) await new Promise((resolve) => setTimeout(resolve, 1000));
+
+      const ids = batch.map((c) => c.trim()).join(",");
+      const response = await fetch(`https://api.jup.ag/price/v2?ids=${ids}`);
+      const data = await response.json();
+
+      if (!data || !data.data) return null;
+      if (!data.timeTaken || data.timeTaken <= 0) return null;
+
+      allData = { ...allData, ...data.data };
+      totalTimeTaken += data.timeTaken;
+
+      console.log(
+        chalk.blue(
+          `Fetched batch of ${batch.length} tokens in ${data.timeTaken}s`
+        )
+      );
+    }
+
+    console.log(
+      chalk.green(
+        `\nTotal time taken to fetch ${contractAddresses.length} tokens: ${totalTimeTaken}s\n`
+      )
+    );
+
+    return Object.keys(allData).length ? allData : null;
+  } catch (error) {
+    console.error("Error fetching market cap:", error);
+    return null;
   }
 };
 
@@ -262,7 +403,7 @@ export const analyzePerformance = async () => {
       console.log(
         chalk.blueBright(`${timeString}. Waiting for 5 seconds...\n\n`)
       );
-      await new Promise((resolve) => setTimeout(resolve, 5000));
+      await new Promise((resolve) => setTimeout(resolve, 7000));
     } catch (error) {
       console.log("Error in main loop:", error);
     }
@@ -297,67 +438,74 @@ function createFile(
 }
 
 const getTopHolderInfo = async (mint: string) => {
-  const connection = new Connection(process.env.RPC ?? "", "finalized");
-  const tokenPublicKey = new PublicKey(mint);
-  const mintInfo = await getMint(connection, tokenPublicKey);
-  const supply = Number(mintInfo.supply);
+  try {
+    const connection = new Connection(process.env.RPC ?? "", "finalized");
+    const tokenPublicKey = new PublicKey(mint);
+    const mintInfo = await getMint(connection, tokenPublicKey);
+    const supply = Number(mintInfo.supply);
 
-  const allAccounts = await connection.getProgramAccounts(TOKEN_PROGRAM_ID, {
-    filters: [
-      { dataSize: 165 }, // Size of token account
-      { memcmp: { offset: 0, bytes: mint } }, // Filter for token mint
-    ],
-  });
+    const allAccounts = await connection.getProgramAccounts(TOKEN_PROGRAM_ID, {
+      filters: [
+        { dataSize: 165 }, // Size of token account
+        { memcmp: { offset: 0, bytes: mint } }, // Filter for token mint
+      ],
+    });
 
-  const holders = allAccounts
-    .map((accountInfo) => {
-      const data = accountInfo.account.data;
-      const amount = Number(data.readBigUInt64LE(64));
-      const ownerAddress = new PublicKey(data.slice(32, 64)).toBase58();
-      if (ownerAddress === "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1") {
-        // RAYDIUM.AUTHORITY_V4
-        return null;
-      }
-      const percentage = (amount / supply) * 100;
+    const holders = allAccounts
+      .map((accountInfo) => {
+        const data = accountInfo.account.data;
+        const amount = Number(data.readBigUInt64LE(64));
+        const ownerAddress = new PublicKey(data.slice(32, 64)).toBase58();
+        if (ownerAddress === "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1") {
+          // RAYDIUM.AUTHORITY_V4
+          return null;
+        }
+        const percentage = (amount / supply) * 100;
 
-      //   if (ownerAddress === BURN_ADDRESS) {
-      //     console.log(`Skipping burn address: ${BURN_ADDRESS}`);
-      //     return null;
-      //   }
+        //   if (ownerAddress === BURN_ADDRESS) {
+        //     console.log(`Skipping burn address: ${BURN_ADDRESS}`);
+        //     return null;
+        //   }
 
-      return {
-        walletAddress: ownerAddress,
-        amount,
-        percentage,
-      };
-    })
-    .filter((holder) => holder !== null);
+        return {
+          walletAddress: ownerAddress,
+          amount,
+          percentage,
+        };
+      })
+      .filter((holder) => holder !== null);
 
-  holders.sort((a, b) => b.amount - a.amount);
+    holders.sort((a, b) => b.amount - a.amount);
 
-  const top10 = holders.slice(0, 10);
-  const top25 = holders.slice(0, 25);
-  const top50 = holders.slice(0, 50);
+    const top10 = holders.slice(0, 10);
+    const top25 = holders.slice(0, 25);
+    const top50 = holders.slice(0, 50);
 
-  interface TopHolder {
-    walletAddress: string;
-    amount: number;
-    percentage: number;
+    interface TopHolder {
+      walletAddress: string;
+      amount: number;
+      percentage: number;
+    }
+
+    const calculateTotalPercentage = (holders: TopHolder[]) => {
+      return holders.reduce((total, holder) => total + holder.percentage, 0);
+    };
+
+    const top10HP = calculateTotalPercentage(top10);
+    const top25HP = calculateTotalPercentage(top25);
+    const top50HP = calculateTotalPercentage(top50);
+
+    return {
+      top10HP,
+      top25HP,
+      top50HP,
+      text: `10-${top10HP.toFixed(2)}%, 25-${top25HP.toFixed(
+        2
+      )}%, 50-${top50HP.toFixed(2)}%`,
+    };
+  } catch (error) {
+    return null;
   }
-
-  const calculateTotalPercentage = (holders: TopHolder[]) => {
-    return holders.reduce((total, holder) => total + holder.percentage, 0);
-  };
-
-  const top10HP = calculateTotalPercentage(top10);
-  const top25HP = calculateTotalPercentage(top25);
-  const top50HP = calculateTotalPercentage(top50);
-
-  return {
-    top10HP,
-    top25HP,
-    top50HP,
-  };
 };
 
 analyzePerformance();

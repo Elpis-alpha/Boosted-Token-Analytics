@@ -26,30 +26,32 @@ interface basicBoostParsedResponse {
 interface DetectedToken {
   url: string;
   address: string;
+  initialMC: number;
   hpData: {
     top10HP: number;
     top25HP: number;
     top50HP: number;
   };
 
-  initialMC: {
-    MC: number;
+  initialPrice: {
+    price: number;
     date: Date;
   };
-  highestMC: {
-    MC: number;
+  highestPrice: {
+    price: number;
     date: Date;
   };
-  currentMC: {
-    MC: number;
+  currentPrice: {
+    price: number;
     date: Date;
   };
   intialBoost: number;
   history: {
     MC: number;
+    price: number;
     boost: number;
     date: Date;
   }[];
 }
 
-type PKEY = PublicKey
+type PKEY = PublicKey;
