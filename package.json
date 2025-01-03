@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "src/boost.ts",
   "scripts": {
-    "start": "ts-node -r dotenv/config src/idk.ts",
-    "dev": "ts-node-dev -r dotenv/config src/idk.ts",
+    "start": "ts-node -r dotenv/config src/boost.ts",
+    "dev": "ts-node-dev -r dotenv/config src/boost.ts",
     "devb": "ts-node-dev -r dotenv/config src/boost.ts",
     "deploy": "git add . && git commit -m",
     "postdeploy": "git push "
