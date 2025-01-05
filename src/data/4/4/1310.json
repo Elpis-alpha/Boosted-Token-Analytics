@@ -1,0 +1,6480 @@
+[
+  {
+    "address": "LS7KzyqgYwdZZA9ekzxkMTBkED9YiJfiCSuYgiNpump",
+    "url": "https://dexscreener.com/solana/ls7kzyqgywdzza9ekzxkmtbked9yijficsuyginpump",
+    "initialMC": 429750,
+    "hpData": {
+      "top10HP": 14.634457102032199,
+      "top25HP": 32.23321960498151,
+      "top50HP": 56.58428207817141,
+      "text": "10-14.63%, 25-32.23%, 50-56.58%"
+    },
+    "initialPrice": {
+      "price": 0.000408082,
+      "date": "2025-01-03T09:28:39.194Z"
+    },
+    "highestPrice": {
+      "price": 0.000638087,
+      "date": "2025-01-03T11:38:01.120Z"
+    },
+    "currentPrice": {
+      "price": 0.00000941542,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 1000,
+    "history": []
+  },
+  {
+    "address": "E9qtRNVuXL3L1HUShwvhkkAFQuBxbAchfPiQ1z4Mpump",
+    "url": "https://dexscreener.com/solana/e9qtrnvuxl3l1hushwvhkkafqubxbachfpiq1z4mpump",
+    "initialMC": 163519,
+    "hpData": {
+      "top10HP": 10.631427004020072,
+      "top25HP": 24.32451607149844,
+      "top50HP": 42.2607494535662,
+      "text": "10-10.63%, 25-24.32%, 50-42.26%"
+    },
+    "initialPrice": {
+      "price": 0.000160129,
+      "date": "2025-01-03T09:28:40.424Z"
+    },
+    "highestPrice": {
+      "price": 0.000160129,
+      "date": "2025-01-03T09:28:40.424Z"
+    },
+    "currentPrice": {
+      "price": 0.00000493618,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "2r63DCiFcKK2XdMoLT7bTeXMRDJkKXSjSmkpAeiwpump",
+    "url": "https://dexscreener.com/solana/2r63dcifckk2xdmolt7btexmrdjkkxsjsmkpaeiwpump",
+    "initialMC": 352937,
+    "hpData": {
+      "top10HP": 10.454854718940783,
+      "top25HP": 22.173291749204655,
+      "top50HP": 36.37760162500268,
+      "text": "10-10.45%, 25-22.17%, 50-36.38%"
+    },
+    "initialPrice": {
+      "price": 0.000324863,
+      "date": "2025-01-03T09:28:42.217Z"
+    },
+    "highestPrice": {
+      "price": 0.00101081,
+      "date": "2025-01-03T10:13:37.509Z"
+    },
+    "currentPrice": {
+      "price": 0.00000637159,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": [
+      {
+        "MC": 10568,
+        "price": 0.0000107424,
+        "boost": 550,
+        "date": "2025-01-03T19:21:48.349Z"
+      }
+    ]
+  },
+  {
+    "address": "H4iSABxCygF5caEvqZeVY4ELqqXAUBkMhGh1z4GEpump",
+    "url": "https://dexscreener.com/solana/h4isabxcygf5caevqzevy4elqqxaubkmhgh1z4gepump",
+    "initialMC": 38798,
+    "hpData": {
+      "top10HP": 17.534637778302855,
+      "top25HP": 30.479918579633356,
+      "top50HP": 39.282678782574635,
+      "text": "10-17.53%, 25-30.48%, 50-39.28%"
+    },
+    "initialPrice": {
+      "price": 0.0000386731,
+      "date": "2025-01-03T09:28:43.594Z"
+    },
+    "highestPrice": {
+      "price": 0.0000480368,
+      "date": "2025-01-04T00:00:35.850Z"
+    },
+    "currentPrice": {
+      "price": 0.0000402212,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "HMewAFQ1EEywoKf5DDBhkFYLLfPu6aAVBjJraPYNpump",
+    "url": "https://dexscreener.com/solana/hmewafq1eeywokf5ddbhkfyllfpu6aavbjjrapynpump",
+    "initialMC": 5515,
+    "hpData": {
+      "top10HP": 10.921311733400929,
+      "top25HP": 14.926707163156522,
+      "top50HP": 16.765696064052516,
+      "text": "10-10.92%, 25-14.93%, 50-16.77%"
+    },
+    "initialPrice": {
+      "price": 0.00000545933,
+      "date": "2025-01-03T09:28:44.058Z"
+    },
+    "highestPrice": {
+      "price": 0.00000590928,
+      "date": "2025-01-03T11:38:01.120Z"
+    },
+    "currentPrice": {
+      "price": 0.00000427776,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "GC7Q7DwRhT87g34oKrtMJNAnfy73evb5W4KR76SZmoon",
+    "url": "https://dexscreener.com/solana/gc7q7dwrht87g34okrtmjnanfy73evb5w4kr76szmoon",
+    "initialMC": 13614.73,
+    "hpData": {
+      "top10HP": 74.468247479652,
+      "top25HP": 86.72006628353057,
+      "top50HP": 96.8910666294344,
+      "text": "10-74.47%, 25-86.72%, 50-96.89%"
+    },
+    "initialPrice": {
+      "price": 0.0000140318545,
+      "date": "2025-01-03T09:28:44.355Z"
+    },
+    "highestPrice": {
+      "price": 0.0000183672074,
+      "date": "2025-01-03T21:52:52.208Z"
+    },
+    "currentPrice": {
+      "price": 0.0000103171107,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "2GX175ujeJVyq7z68D8Jyp4h4z1fevbVJn7RBjdMNyYd",
+    "url": "https://dexscreener.com/solana/2gx175ujejvyq7z68d8jyp4h4z1fevbvjn7rbjdmnyyd",
+    "initialMC": 69856,
+    "hpData": {
+      "top10HP": 65.34602480907088,
+      "top25HP": 89.92994449093794,
+      "top50HP": 96.179048015776,
+      "text": "10-65.35%, 25-89.93%, 50-96.18%"
+    },
+    "initialPrice": {
+      "price": 0.0000798453,
+      "date": "2025-01-03T09:28:44.995Z"
+    },
+    "highestPrice": {
+      "price": 0.0000798453,
+      "date": "2025-01-03T09:28:44.995Z"
+    },
+    "currentPrice": {
+      "price": 0.0000430925,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": [
+      {
+        "MC": 60530,
+        "price": 0.0000688682,
+        "boost": 60,
+        "date": "2025-01-03T10:52:33.695Z"
+      }
+    ]
+  },
+  {
+    "address": "5bUZRnpfCyH5ABXAUDyZjBPTk39nwtetZQNz9P8Hpump",
+    "url": "https://dexscreener.com/solana/5buzrnpfcyh5abxaudyzjbptk39nwtetzqnz9p8hpump",
+    "initialMC": 272138,
+    "hpData": {
+      "top10HP": 20.09228457338867,
+      "top25HP": 34.640356956303876,
+      "top50HP": 46.24042824744959,
+      "text": "10-20.09%, 25-34.64%, 50-46.24%"
+    },
+    "initialPrice": {
+      "price": 0.000261868,
+      "date": "2025-01-03T09:28:45.942Z"
+    },
+    "highestPrice": {
+      "price": 0.000262644,
+      "date": "2025-01-03T09:29:00.282Z"
+    },
+    "currentPrice": {
+      "price": 0.0000082523,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "CJ9Au2VLjxY5y4vBpdwuq7Rmrt4Lsd8e8CjoUeUhpump",
+    "url": "https://dexscreener.com/solana/cj9au2vljxy5y4vbpdwuq7rmrt4lsd8e8cjoueuhpump",
+    "initialMC": 422458,
+    "hpData": {
+      "top10HP": 44.18395485738257,
+      "top25HP": 71.79774147678984,
+      "top50HP": 80.21630039006493,
+      "text": "10-44.18%, 25-71.80%, 50-80.22%"
+    },
+    "initialPrice": {
+      "price": 0.000435004,
+      "date": "2025-01-03T09:28:46.860Z"
+    },
+    "highestPrice": {
+      "price": 0.000712971,
+      "date": "2025-01-03T10:06:10.932Z"
+    },
+    "currentPrice": {
+      "price": 0.0000159693,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "Bi4qsnWfuRjmj3D5kQQHJTwwQ9mUuC7rvX3CsK85moon",
+    "url": "https://dexscreener.com/solana/bi4qsnwfurjmj3d5kqqhjtwwq9muuc7rvx3csk85moon",
+    "initialMC": 11502.77,
+    "hpData": {
+      "top10HP": 98.73283727929108,
+      "top25HP": 99.97895756776374,
+      "top50HP": 100,
+      "text": "10-98.73%, 25-99.98%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000118840607,
+      "date": "2025-01-03T09:28:49.331Z"
+    },
+    "highestPrice": {
+      "price": 0.0000130628466,
+      "date": "2025-01-03T17:40:54.725Z"
+    },
+    "currentPrice": {
+      "price": 0.00000671640316,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 20,
+    "history": []
+  },
+  {
+    "address": "5tuxQ7AWSYWbTNLuUW3w1bi91Yra8H7xmKD9bo99pump",
+    "url": "https://dexscreener.com/solana/5tuxq7awsywbtnluuw3w1bi91yra8h7xmkd9bo99pump",
+    "initialMC": 30724,
+    "hpData": {
+      "top10HP": 20.90529801667541,
+      "top25HP": 33.4088602811583,
+      "top50HP": 44.44493135849354,
+      "text": "10-20.91%, 25-33.41%, 50-44.44%"
+    },
+    "initialPrice": {
+      "price": 0.0000306635,
+      "date": "2025-01-03T09:28:52.666Z"
+    },
+    "highestPrice": {
+      "price": 0.0000739473,
+      "date": "2025-01-03T11:00:50.629Z"
+    },
+    "currentPrice": {
+      "price": 0.00000996669,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 20,
+    "history": []
+  },
+  {
+    "address": "CMDKx3TGVJryRDQ2MnAkTRNSyguQLrKgiCPZ3Jc6r8r2",
+    "url": "https://dexscreener.com/solana/cmdkx3tgvjryrdq2mnaktrnsyguqlrkgicpz3jc6r8r2",
+    "initialMC": 1152236,
+    "hpData": {
+      "top10HP": 21.36005667675602,
+      "top25HP": 38.949655295810516,
+      "top50HP": 52.30597804763971,
+      "text": "10-21.36%, 25-38.95%, 50-52.31%"
+    },
+    "initialPrice": {
+      "price": 0.00114928,
+      "date": "2025-01-03T09:28:54.592Z"
+    },
+    "highestPrice": {
+      "price": 0.00197406,
+      "date": "2025-01-04T16:18:46.967Z"
+    },
+    "currentPrice": {
+      "price": 0.00134704,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "81NcWboM96HFkX1UFVAGuBstRaNgAnyQtzAC76Vxmoon",
+    "url": "https://dexscreener.com/solana/81ncwbom96hfkx1ufvagubstranganyqtzac76vxmoon",
+    "initialMC": 7614.66,
+    "hpData": {
+      "top10HP": 99.99999999999999,
+      "top25HP": 99.99999999999999,
+      "top50HP": 99.99999999999999,
+      "text": "10-100.00%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.00000790874536,
+      "date": "2025-01-03T09:28:54.863Z"
+    },
+    "highestPrice": {
+      "price": 0.00000876237642,
+      "date": "2025-01-03T16:40:02.811Z"
+    },
+    "currentPrice": {
+      "price": 0.00000848488305,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "FnGtKTAKhBgWJiUQYNfy26QCFYvXRXkfW5BkhTZqmoon",
+    "url": "https://dexscreener.com/solana/fngtktakhbgwjiuqynfy26qcfyvxrxkfw5bkhtzqmoon",
+    "initialMC": 5972.8,
+    "hpData": {
+      "top10HP": 99.99999999999999,
+      "top25HP": 99.99999999999999,
+      "top50HP": 99.99999999999999,
+      "text": "10-100.00%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000062160164,
+      "date": "2025-01-03T09:28:55.271Z"
+    },
+    "highestPrice": {
+      "price": 0.00000640946173,
+      "date": "2025-01-03T16:40:02.811Z"
+    },
+    "currentPrice": {
+      "price": 0.00000625297326,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "BSjDHu5TJK4sQAc7wXRtBbNyeFohW6qvuh1gaAWMpump",
+    "url": "https://dexscreener.com/solana/bsjdhu5tjk4sqac7wxrtbbnyefohw6qvuh1gaawmpump",
+    "initialMC": 115847,
+    "hpData": {
+      "top10HP": 21.17832932976557,
+      "top25HP": 34.90759867665258,
+      "top50HP": 46.3222248930973,
+      "text": "10-21.18%, 25-34.91%, 50-46.32%"
+    },
+    "initialPrice": {
+      "price": 0.000096649,
+      "date": "2025-01-03T09:28:56.287Z"
+    },
+    "highestPrice": {
+      "price": 0.000119365,
+      "date": "2025-01-03T09:53:49.826Z"
+    },
+    "currentPrice": {
+      "price": 0.00000773497,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "6BRPpGZJiRMMsJyxZW9Jxu5YiZK9LXGKuAuPh8PkEQWf",
+    "url": "https://dexscreener.com/solana/6brppgzjirmmsjyxzw9jxu5yizk9lxgkuauph8pkeqwf",
+    "initialMC": 165,
+    "hpData": {
+      "top10HP": 51.19258564898915,
+      "top25HP": 62.21527514208762,
+      "top50HP": 62.37548577327184,
+      "text": "10-51.19%, 25-62.22%, 50-62.38%"
+    },
+    "initialPrice": {
+      "price": 4.27304e-10,
+      "date": "2025-01-03T09:28:56.805Z"
+    },
+    "highestPrice": {
+      "price": 6.82702e-10,
+      "date": "2025-01-03T11:55:21.248Z"
+    },
+    "currentPrice": {
+      "price": 3.41297e-10,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "7CPBU6CL7GpjzM2DRr7HVoy7TGJxvHkPHWxfvEZypump",
+    "url": "https://dexscreener.com/solana/7cpbu6cl7gpjzm2drr7hvoy7tgjxvhkphwxfvezypump",
+    "initialMC": 302072,
+    "hpData": {
+      "top10HP": 21.430405951004637,
+      "top25HP": 38.69976926712774,
+      "top50HP": 55.60023993052551,
+      "text": "10-21.43%, 25-38.70%, 50-55.60%"
+    },
+    "initialPrice": {
+      "price": 0.000300646,
+      "date": "2025-01-03T09:28:58.763Z"
+    },
+    "highestPrice": {
+      "price": 0.000563972,
+      "date": "2025-01-04T23:19:14.854Z"
+    },
+    "currentPrice": {
+      "price": 0.000480145,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "f4NMCNnGR7qiCxDfGgFoXp6B4JFTHsHVn7eDYJ9pump",
+    "url": "https://dexscreener.com/solana/f4nmcnngr7qicxdfggfoxp6b4jfthshvn7edyj9pump",
+    "initialMC": 61162,
+    "hpData": {
+      "top10HP": 25.686679609521995,
+      "top25HP": 38.833220175377264,
+      "top50HP": 49.133533516683,
+      "text": "10-25.69%, 25-38.83%, 50-49.13%"
+    },
+    "initialPrice": {
+      "price": 0.0000612308,
+      "date": "2025-01-03T09:29:00.104Z"
+    },
+    "highestPrice": {
+      "price": 0.000164225,
+      "date": "2025-01-03T14:41:47.255Z"
+    },
+    "currentPrice": {
+      "price": 0.0000288464,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "Ch1JYYcXVqfoDgNLDjRMLNHRo4N9NuSJGcgCV8Q8fNs4",
+    "url": "https://dexscreener.com/solana/ch1jyycxvqfodgnldjrmlnhro4n9nusjgcgcv8q8fns4",
+    "initialMC": 259690,
+    "hpData": {
+      "top10HP": 14.764914561411004,
+      "top25HP": 26.727737998742157,
+      "top50HP": 37.53600507578544,
+      "text": "10-14.76%, 25-26.73%, 50-37.54%"
+    },
+    "initialPrice": {
+      "price": 0.000254660866,
+      "date": "2025-01-03T09:29:10.324Z"
+    },
+    "highestPrice": {
+      "price": 0.000304655059,
+      "date": "2025-01-03T09:53:49.826Z"
+    },
+    "currentPrice": {
+      "price": 0.0000644451932,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 134801,
+        "price": 0.000135620814,
+        "boost": 20,
+        "date": "2025-01-04T00:24:13.590Z"
+      },
+      {
+        "MC": 162546,
+        "price": 0.00016231279,
+        "boost": 30,
+        "date": "2025-01-04T01:19:46.703Z"
+      }
+    ]
+  },
+  {
+    "address": "61wU8YgLMVCSic5KQWPQjQHorzctndcFBEREYS5Nmoon",
+    "url": "https://dexscreener.com/solana/61wu8yglmvcsic5kqwpqjqhorzctndcfbereys5nmoon",
+    "initialMC": 12356.48,
+    "hpData": {
+      "top10HP": 96.30626488546613,
+      "top25HP": 99.83571321015788,
+      "top50HP": 100,
+      "text": "10-96.31%, 25-99.84%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000128586637,
+      "date": "2025-01-03T09:36:42.307Z"
+    },
+    "highestPrice": {
+      "price": 0.0000904033089,
+      "date": "2025-01-05T02:20:34.054Z"
+    },
+    "currentPrice": {
+      "price": 0.0000040431176,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 60662.19,
+        "price": 0.0000619190486,
+        "boost": 100,
+        "date": "2025-01-04T23:21:40.466Z"
+      }
+    ]
+  },
+  {
+    "address": "3SfA83uLUtekDK9g2CsawCY9v79wa5sBmn5s3NoNmoon",
+    "url": "https://dexscreener.com/solana/3sfa83ulutekdk9g2csawcy9v79wa5sbmn5s3nonmoon",
+    "initialMC": 9910.54,
+    "hpData": {
+      "top10HP": 99.3936496637484,
+      "top25HP": 100,
+      "top50HP": 100,
+      "text": "10-99.39%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000102539368,
+      "date": "2025-01-03T09:40:14.369Z"
+    },
+    "highestPrice": {
+      "price": 0.0000158106453,
+      "date": "2025-01-03T10:58:19.586Z"
+    },
+    "currentPrice": {
+      "price": 0.00000630528441,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "7YmCznQAGqDeR7Av4KtLZpz8JXodoidvmSZGkCR7pump",
+    "url": "https://dexscreener.com/solana/7ymcznqagqder7av4ktlzpz8jxodoidvmszgkcr7pump",
+    "initialMC": 18297,
+    "hpData": {
+      "top10HP": 25.156604519363004,
+      "top25HP": 36.04539079915408,
+      "top50HP": 41.57638618886666,
+      "text": "10-25.16%, 25-36.05%, 50-41.58%"
+    },
+    "initialPrice": {
+      "price": 0.000018109,
+      "date": "2025-01-03T09:45:33.399Z"
+    },
+    "highestPrice": {
+      "price": 0.000019722,
+      "date": "2025-01-03T10:53:23.165Z"
+    },
+    "currentPrice": {
+      "price": 0.000011773,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "3fdS6oZS79y6MahDRpk1rZq5DS4SdtqsMhNrDrc4pump",
+    "url": "https://dexscreener.com/solana/3fds6ozs79y6mahdrpk1rzq5ds4sdtqsmhnrdrc4pump",
+    "initialMC": 69740,
+    "hpData": {
+      "top10HP": 28.665236596396863,
+      "top25HP": 49.85764067579027,
+      "top50HP": 61.93201059194964,
+      "text": "10-28.67%, 25-49.86%, 50-61.93%"
+    },
+    "initialPrice": {
+      "price": 0.0000746054,
+      "date": "2025-01-03T09:49:06.124Z"
+    },
+    "highestPrice": {
+      "price": 0.000258996,
+      "date": "2025-01-05T16:59:29.991Z"
+    },
+    "currentPrice": {
+      "price": 0.000105164,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "HB99pDdRG7mBpzWXkmvDJF3XCaDQ5HBEow5zAj6RadF6",
+    "url": "https://dexscreener.com/solana/hb99pddrg7mbpzwxkmvdjf3xcadq5hbeow5zaj6radf6",
+    "initialMC": 902184,
+    "hpData": {
+      "top10HP": 21.073832331836783,
+      "top25HP": 38.60613296846565,
+      "top50HP": 54.70623665231028,
+      "text": "10-21.07%, 25-38.61%, 50-54.71%"
+    },
+    "initialPrice": {
+      "price": 0.000897688,
+      "date": "2025-01-03T09:50:18.267Z"
+    },
+    "highestPrice": {
+      "price": 0.00193829,
+      "date": "2025-01-03T23:54:51.385Z"
+    },
+    "currentPrice": {
+      "price": 0.000997082,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 1054430,
+        "price": 0.00111682,
+        "boost": 20,
+        "date": "2025-01-03T10:16:12.870Z"
+      },
+      {
+        "MC": 1054430,
+        "price": 0.00111682,
+        "boost": 20,
+        "date": "2025-01-03T10:16:12.870Z"
+      }
+    ]
+  },
+  {
+    "address": "GZ72kAX1RcpHS7Z47Ry5N8kPMPDaTmqFFYGCcFTVUR9n",
+    "url": "https://dexscreener.com/solana/gz72kax1rcphs7z47ry5n8kpmpdatmqffygccftvur9n",
+    "initialMC": 20786,
+    "hpData": {
+      "top10HP": 28.28908355239356,
+      "top25HP": 62.652474780495375,
+      "top50HP": 74.27498216077262,
+      "text": "10-28.29%, 25-62.65%, 50-74.27%"
+    },
+    "initialPrice": {
+      "price": 0.0000208001389,
+      "date": "2025-01-03T10:05:35.555Z"
+    },
+    "highestPrice": {
+      "price": 0.0000704173539,
+      "date": "2025-01-03T11:03:22.972Z"
+    },
+    "currentPrice": {
+      "price": 0.00000223369557,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "7XDdFgh8uWPE8HgdWwsy4oirLw27urWA4sHAUnKUhXDV",
+    "url": "https://dexscreener.com/solana/7xddfgh8uwpe8hgdwwsy4oirlw27urwa4shaunkuhxdv",
+    "initialMC": 115357,
+    "hpData": {
+      "top10HP": 34.056550199169905,
+      "top25HP": 53.6439753895388,
+      "top50HP": 73.10619491585018,
+      "text": "10-34.06%, 25-53.64%, 50-73.11%"
+    },
+    "initialPrice": {
+      "price": 0.000114872924,
+      "date": "2025-01-03T10:08:32.941Z"
+    },
+    "highestPrice": {
+      "price": 0.000195907437,
+      "date": "2025-01-03T13:19:46.250Z"
+    },
+    "currentPrice": {
+      "price": 0.0000306158233,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "5dKFN6hkhUnsUK7LbtQThg73aZ4ZNRWH4eD78cZpvDQc",
+    "url": "https://dexscreener.com/solana/5dkfn6hkhunsuk7lbtqthg73az4znrwh4ed78czpvdqc",
+    "initialMC": 44193,
+    "hpData": {
+      "top10HP": 53.78831525404728,
+      "top25HP": 74.71463329505073,
+      "top50HP": 89.8408311472456,
+      "text": "10-53.79%, 25-74.71%, 50-89.84%"
+    },
+    "initialPrice": {
+      "price": 0.0000456610175,
+      "date": "2025-01-03T10:12:05.830Z"
+    },
+    "highestPrice": {
+      "price": 0.0000698420085,
+      "date": "2025-01-03T16:53:00.880Z"
+    },
+    "currentPrice": {
+      "price": 0.0000240989694,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 20,
+    "history": [
+      {
+        "MC": 46483,
+        "price": 0.0000480544083,
+        "boost": 10,
+        "date": "2025-01-04T03:53:03.971Z"
+      }
+    ]
+  },
+  {
+    "address": "AMfjfjtEovryuPE5Yypucb1sfKdF9hEJTUJxL1XWfJQw",
+    "url": "https://dexscreener.com/solana/amfjfjteovryupe5yypucb1sfkdf9hejtujxl1xwfjqw",
+    "initialMC": 147077,
+    "hpData": {
+      "top10HP": 20.916172797967704,
+      "top25HP": 37.35792355821374,
+      "top50HP": 49.068737440041794,
+      "text": "10-20.92%, 25-37.36%, 50-49.07%"
+    },
+    "initialPrice": {
+      "price": 0.000142366,
+      "date": "2025-01-03T10:19:11.385Z"
+    },
+    "highestPrice": {
+      "price": 0.000145274,
+      "date": "2025-01-03T10:31:06.298Z"
+    },
+    "currentPrice": {
+      "price": 0.0000172544,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "JDRB7JQ4Fqf4z5rXsLRQKuyrXmafnejxDNvviBUswJ2k",
+    "url": "https://dexscreener.com/solana/jdrb7jq4fqf4z5rxslrqkuyrxmafnejxdnvvibuswj2k",
+    "initialMC": 133234,
+    "hpData": {
+      "top10HP": 94.64328170394823,
+      "top25HP": 99.09981355894045,
+      "top50HP": 99.94945834016423,
+      "text": "10-94.64%, 25-99.10%, 50-99.95%"
+    },
+    "initialPrice": {
+      "price": 3.415194e-7,
+      "date": "2025-01-03T10:26:14.969Z"
+    },
+    "highestPrice": {
+      "price": 3.601736e-7,
+      "date": "2025-01-03T10:36:02.275Z"
+    },
+    "currentPrice": {
+      "price": 2.124612e-7,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": [
+      {
+        "MC": 124203,
+        "price": 3.383837e-7,
+        "boost": 100,
+        "date": "2025-01-03T10:28:44.052Z"
+      },
+      {
+        "MC": 124203,
+        "price": 3.383837e-7,
+        "boost": 100,
+        "date": "2025-01-03T10:28:44.052Z"
+      }
+    ]
+  },
+  {
+    "address": "AUdUEc98MGfEHJiJfCgMaW8gKdcfNDio8BFzGKBwjztC",
+    "url": "https://dexscreener.com/solana/auduec98mgfehjijfcgmaw8gkdcfndio8bfzgkbwjztc",
+    "initialMC": 1127871,
+    "hpData": {
+      "top10HP": 39.522490759415795,
+      "top25HP": 49.925709617299745,
+      "top50HP": 58.76233019468647,
+      "text": "10-39.52%, 25-49.93%, 50-58.76%"
+    },
+    "initialPrice": {
+      "price": 5.65281e-8,
+      "date": "2025-01-03T10:28:44.052Z"
+    },
+    "highestPrice": {
+      "price": 7.04196e-8,
+      "date": "2025-01-03T10:55:51.517Z"
+    },
+    "currentPrice": {
+      "price": 3.66747e-8,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "6yUoLKSJtLejPNbHfk6FaUBXLJHVkjdqgTtgqaYSpump",
+    "url": "https://dexscreener.com/solana/6yuolksjtlejpnbhfk6faubxljhvkjdqgttgqayspump",
+    "initialMC": 269588,
+    "hpData": {
+      "top10HP": 24.11424247562549,
+      "top25HP": 39.58924957828825,
+      "top50HP": 50.87201703978823,
+      "text": "10-24.11%, 25-39.59%, 50-50.87%"
+    },
+    "initialPrice": {
+      "price": 0.000258713,
+      "date": "2025-01-03T10:30:59.078Z"
+    },
+    "highestPrice": {
+      "price": 0.0055232,
+      "date": "2025-01-05T20:48:22.596Z"
+    },
+    "currentPrice": {
+      "price": 0.00476267,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 981635,
+        "price": 0.0010059,
+        "boost": 50,
+        "date": "2025-01-04T04:51:35.264Z"
+      },
+      {
+        "MC": 881283,
+        "price": 0.000919818,
+        "boost": 100,
+        "date": "2025-01-04T21:49:19.994Z"
+      }
+    ]
+  },
+  {
+    "address": "7rdeLkyfmxujFthUNYZM7jWGEKZnT9mkeSGG1c9hpump",
+    "url": "https://dexscreener.com/solana/7rdelkyfmxujfthunyzm7jwgekznt9mkesgg1c9hpump",
+    "initialMC": 103437,
+    "hpData": {
+      "top10HP": 23.417403166581703,
+      "top25HP": 40.58333451396501,
+      "top50HP": 56.791837541014544,
+      "text": "10-23.42%, 25-40.58%, 50-56.79%"
+    },
+    "initialPrice": {
+      "price": 0.000103071,
+      "date": "2025-01-03T10:44:59.907Z"
+    },
+    "highestPrice": {
+      "price": 0.000144446,
+      "date": "2025-01-04T22:05:40.159Z"
+    },
+    "currentPrice": {
+      "price": 0.000125119,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "7VRySrCUpwRD3k2o3AAAH2cXSB561vHHYU7MyvzJpump",
+    "url": "https://dexscreener.com/solana/7vrysrcupwrd3k2o3aaah2cxsb561vhhyu7myvzjpump",
+    "initialMC": 38116,
+    "hpData": {
+      "top10HP": 19.796723407771623,
+      "top25HP": 29.24311460620015,
+      "top50HP": 34.79652546241069,
+      "text": "10-19.80%, 25-29.24%, 50-34.80%"
+    },
+    "initialPrice": {
+      "price": 0.0000117483,
+      "date": "2025-01-03T10:47:14.874Z"
+    },
+    "highestPrice": {
+      "price": 0.0000143091,
+      "date": "2025-01-03T14:11:59.717Z"
+    },
+    "currentPrice": {
+      "price": 0.00000607629,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": [
+      {
+        "MC": 38116,
+        "price": 0.0000117499,
+        "boost": 40,
+        "date": "2025-01-03T10:49:00.860Z"
+      },
+      {
+        "MC": 38116,
+        "price": 0.0000129777,
+        "boost": 10,
+        "date": "2025-01-03T11:33:12.231Z"
+      }
+    ]
+  },
+  {
+    "address": "J8njvmBmUYS4RfdQdoszQj3QcbaobbBwjD37Zr36pump",
+    "url": "https://dexscreener.com/solana/j8njvmbmuys4rfdqdoszqj3qcbaobbbwjd37zr36pump",
+    "initialMC": 393568,
+    "hpData": {
+      "top10HP": 20.96040768049297,
+      "top25HP": 33.76269375428382,
+      "top50HP": 46.39985931237258,
+      "text": "10-20.96%, 25-33.76%, 50-46.40%"
+    },
+    "initialPrice": {
+      "price": 0.000465689,
+      "date": "2025-01-03T10:49:01.844Z"
+    },
+    "highestPrice": {
+      "price": 0.011988,
+      "date": "2025-01-05T06:35:26.582Z"
+    },
+    "currentPrice": {
+      "price": 0.0064038,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "GYPxyPtu6g1NmnEPPkTcCdSZz7ZMs6A1S3wTjnLdpump",
+    "url": "https://dexscreener.com/solana/gypxyptu6g1nmneppktccdszz7zms6a1s3wtjnldpump",
+    "initialMC": 1962185,
+    "hpData": {
+      "top10HP": 15.010804510562055,
+      "top25HP": 28.476067387141217,
+      "top50HP": 41.52848267290214,
+      "text": "10-15.01%, 25-28.48%, 50-41.53%"
+    },
+    "initialPrice": {
+      "price": 0.0045972,
+      "date": "2025-01-03T11:00:50.464Z"
+    },
+    "highestPrice": {
+      "price": 0.0045972,
+      "date": "2025-01-03T11:00:50.464Z"
+    },
+    "currentPrice": {
+      "price": 0.00310841,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "D8gYwMaJLmCQkAJxvyKjnQSrrgxboAD9xDwpBJtzpump",
+    "url": "https://dexscreener.com/solana/d8gywmajlmcqkajxvykjnqsrrgxboad9xdwpbjtzpump",
+    "initialMC": 14909,
+    "hpData": {
+      "top10HP": 20.316359999999992,
+      "top25HP": 50.632719999999985,
+      "top50HP": 74.97019641904693,
+      "text": "10-20.32%, 25-50.63%, 50-74.97%"
+    },
+    "initialPrice": {
+      "price": 0.0000167462256,
+      "date": "2025-01-03T11:01:54.701Z"
+    },
+    "highestPrice": {
+      "price": 0.0000167462256,
+      "date": "2025-01-03T11:01:54.701Z"
+    },
+    "currentPrice": {
+      "price": 9.05324781e-7,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "CRVd8oQ3TuncK3d7ETtQZaxUTZMd2bKp8Rx8LXtbEEnT",
+    "url": "https://dexscreener.com/solana/crvd8oq3tunck3d7ettqzaxutzmd2bkp8rx8lxtbeent",
+    "initialMC": 73123,
+    "hpData": {
+      "top10HP": 24.01480719417697,
+      "top25HP": 49.134702708471764,
+      "top50HP": 81.01617702808078,
+      "text": "10-24.01%, 25-49.13%, 50-81.02%"
+    },
+    "initialPrice": {
+      "price": 0.0000785727026,
+      "date": "2025-01-03T11:03:08.717Z"
+    },
+    "highestPrice": {
+      "price": 0.000250474032,
+      "date": "2025-01-03T15:31:57.557Z"
+    },
+    "currentPrice": {
+      "price": 0.00000714708511,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "maYXfJXvmC4ryoJBDpKMork5S3BAE9S5NhyvVvUpump",
+    "url": "https://dexscreener.com/solana/mayxfjxvmc4ryojbdpkmork5s3bae9s5nhyvvvupump",
+    "initialMC": 132700,
+    "hpData": {
+      "top10HP": 13.316006098282703,
+      "top25HP": 26.567532890194304,
+      "top50HP": 46.49091661402801,
+      "text": "10-13.32%, 25-26.57%, 50-46.49%"
+    },
+    "initialPrice": {
+      "price": 0.000146976,
+      "date": "2025-01-03T11:08:28.656Z"
+    },
+    "highestPrice": {
+      "price": 0.000180453,
+      "date": "2025-01-03T11:10:50.596Z"
+    },
+    "currentPrice": {
+      "price": 0.00000714167,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "Eag87fYaUWp6cW2ZZZL4ed9rKVySan9hfXdSsNV5pump",
+    "url": "https://dexscreener.com/solana/eag87fyauwp6cw2zzzl4ed9rkvysan9hfxdssnv5pump",
+    "initialMC": 23454,
+    "hpData": {
+      "top10HP": 25.558396245782212,
+      "top25HP": 42.29995387449496,
+      "top50HP": 53.175378555544725,
+      "text": "10-25.56%, 25-42.30%, 50-53.18%"
+    },
+    "initialPrice": {
+      "price": 0.0000235534,
+      "date": "2025-01-03T11:09:40.071Z"
+    },
+    "highestPrice": {
+      "price": 0.0000283448,
+      "date": "2025-01-03T22:45:15.620Z"
+    },
+    "currentPrice": {
+      "price": 0.0000139931,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "Be5NcALmQqAGa3SVLpiAxTTMwbX6ddBqkwXRx54mpump",
+    "url": "https://dexscreener.com/solana/be5ncalmqqaga3svlpiaxttmwbx6ddbqkwxrx54mpump",
+    "initialMC": 290319,
+    "hpData": {
+      "top10HP": 17.9344684611307,
+      "top25HP": 34.131482398558695,
+      "top50HP": 55.472287022696996,
+      "text": "10-17.93%, 25-34.13%, 50-55.47%"
+    },
+    "initialPrice": {
+      "price": 0.000309108,
+      "date": "2025-01-03T11:27:18.543Z"
+    },
+    "highestPrice": {
+      "price": 0.000378394,
+      "date": "2025-01-03T11:40:30.007Z"
+    },
+    "currentPrice": {
+      "price": 0.00000940605,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 1500,
+    "history": [
+      {
+        "MC": 342337,
+        "price": 0.000372189,
+        "boost": 2000,
+        "date": "2025-01-03T11:29:39.646Z"
+      },
+      {
+        "MC": 342337,
+        "price": 0.000372189,
+        "boost": 2000,
+        "date": "2025-01-03T11:29:39.646Z"
+      },
+      {
+        "MC": 342337,
+        "price": 0.000372189,
+        "boost": 2000,
+        "date": "2025-01-03T11:29:39.646Z"
+      },
+      {
+        "MC": 342337,
+        "price": 0.000372189,
+        "boost": 2000,
+        "date": "2025-01-03T11:29:39.646Z"
+      },
+      {
+        "MC": 232798,
+        "price": 0.000255643,
+        "boost": 3000,
+        "date": "2025-01-03T12:22:00.958Z"
+      },
+      {
+        "MC": 232798,
+        "price": 0.000255643,
+        "boost": 3000,
+        "date": "2025-01-03T12:22:00.958Z"
+      },
+      {
+        "MC": 232798,
+        "price": 0.000255643,
+        "boost": 3000,
+        "date": "2025-01-03T12:22:00.958Z"
+      },
+      {
+        "MC": 232798,
+        "price": 0.000255643,
+        "boost": 3000,
+        "date": "2025-01-03T12:22:00.958Z"
+      },
+      {
+        "MC": 232798,
+        "price": 0.000255643,
+        "boost": 3000,
+        "date": "2025-01-03T12:22:00.958Z"
+      },
+      {
+        "MC": 232798,
+        "price": 0.000255643,
+        "boost": 3000,
+        "date": "2025-01-03T12:22:00.959Z"
+      }
+    ]
+  },
+  {
+    "address": "HmJ5ospo7my38GhCSApxc32BnQZMmdS3PwkD1fnto8RK",
+    "url": "https://dexscreener.com/solana/hmj5ospo7my38ghcsapxc32bnqzmmds3pwkd1fnto8rk",
+    "initialMC": 11351,
+    "hpData": {
+      "top10HP": 33.51342992547515,
+      "top25HP": 54.233656908455565,
+      "top50HP": 69.3647340371528,
+      "text": "10-33.51%, 25-54.23%, 50-69.36%"
+    },
+    "initialPrice": {
+      "price": 0.0000109593,
+      "date": "2025-01-03T11:31:26.215Z"
+    },
+    "highestPrice": {
+      "price": 0.0000409782,
+      "date": "2025-01-03T13:34:44.863Z"
+    },
+    "currentPrice": {
+      "price": 0.0000156577,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 10232,
+        "price": 0.00000991435,
+        "boost": 20,
+        "date": "2025-01-03T11:33:12.231Z"
+      },
+      {
+        "MC": 16191,
+        "price": 0.000022158,
+        "boost": 30,
+        "date": "2025-01-03T12:22:00.959Z"
+      },
+      {
+        "MC": 16191,
+        "price": 0.000022158,
+        "boost": 30,
+        "date": "2025-01-03T12:22:00.959Z"
+      },
+      {
+        "MC": 27997,
+        "price": 0.000026686,
+        "boost": 40,
+        "date": "2025-01-03T13:05:37.160Z"
+      },
+      {
+        "MC": 27252,
+        "price": 0.0000270535,
+        "boost": 30,
+        "date": "2025-01-03T13:11:29.559Z"
+      },
+      {
+        "MC": 20188,
+        "price": 0.0000190668,
+        "boost": 40,
+        "date": "2025-01-03T14:45:57.237Z"
+      },
+      {
+        "MC": 30003,
+        "price": 0.0000297725,
+        "boost": 50,
+        "date": "2025-01-03T14:59:37.842Z"
+      }
+    ]
+  },
+  {
+    "address": "BMQDNYaHTCVQRkT16BjNr36apcQCqBYuNHS59dShmoon",
+    "url": "https://dexscreener.com/solana/bmqdnyahtcvqrkt16bjnr36apcqcqbyunhs59dshmoon",
+    "initialMC": 12210.66,
+    "hpData": {
+      "top10HP": 92.77630063441809,
+      "top25HP": 99.98884073717403,
+      "top50HP": 100,
+      "text": "10-92.78%, 25-99.99%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000126141197,
+      "date": "2025-01-03T11:39:40.339Z"
+    },
+    "highestPrice": {
+      "price": 0.0000139291364,
+      "date": "2025-01-03T13:14:48.315Z"
+    },
+    "currentPrice": {
+      "price": 0.00000958110749,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": [
+      {
+        "MC": 12210.66,
+        "price": 0.0000125963953,
+        "boost": 60,
+        "date": "2025-01-03T11:40:15.744Z"
+      }
+    ]
+  },
+  {
+    "address": "ewaM2xcskjjYJsNJspz6D3SCudWSEJ8U435kLXvpump",
+    "url": "https://dexscreener.com/solana/ewam2xcskjjyjsnjspz6d3scudwsej8u435klxvpump",
+    "initialMC": 174482,
+    "hpData": {
+      "top10HP": 13.509808159745496,
+      "top25HP": 25.499525173247694,
+      "top50HP": 43.92511655474269,
+      "text": "10-13.51%, 25-25.50%, 50-43.93%"
+    },
+    "initialPrice": {
+      "price": 0.000168128,
+      "date": "2025-01-03T11:42:37.692Z"
+    },
+    "highestPrice": {
+      "price": 0.000941748,
+      "date": "2025-01-03T13:04:54.700Z"
+    },
+    "currentPrice": {
+      "price": 0.0000301589,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "2fEygj7TnfNeQPe73tMz6pWoo3MoJuWwAFahizF7moon",
+    "url": "https://dexscreener.com/solana/2feygj7tnfneqpe73tmz6pwoo3mojuwwafahizf7moon",
+    "initialMC": 13413.22,
+    "hpData": {
+      "top10HP": 84.22232056029124,
+      "top25HP": 97.69866615137312,
+      "top50HP": 99.99951477404763,
+      "text": "10-84.22%, 25-97.70%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000138934085,
+      "date": "2025-01-03T11:42:37.963Z"
+    },
+    "highestPrice": {
+      "price": 0.000038853595,
+      "date": "2025-01-03T18:49:01.647Z"
+    },
+    "currentPrice": {
+      "price": 0.00000753567684,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 29180.18,
+        "price": 0.0000298862213,
+        "boost": 20,
+        "date": "2025-01-03T14:13:31.557Z"
+      },
+      {
+        "MC": 33056.75,
+        "price": 0.0000337351215,
+        "boost": 30,
+        "date": "2025-01-03T20:06:49.221Z"
+      }
+    ]
+  },
+  {
+    "address": "GQB9j8P9hREr7oGDSy2UWgq48QUgZwsHFoMcBF7upump",
+    "url": "https://dexscreener.com/solana/gqb9j8p9hrer7ogdsy2uwgq48qugzwshfomcbf7upump",
+    "initialMC": 32932,
+    "hpData": {
+      "top10HP": 26.136002807014073,
+      "top25HP": 46.650220007488585,
+      "top50HP": 61.143814814973375,
+      "text": "10-26.14%, 25-46.65%, 50-61.14%"
+    },
+    "initialPrice": {
+      "price": 0.0000328451,
+      "date": "2025-01-03T11:46:10.594Z"
+    },
+    "highestPrice": {
+      "price": 0.0000381931,
+      "date": "2025-01-03T12:30:05.250Z"
+    },
+    "currentPrice": {
+      "price": 0.0000229054,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "G8J5DBuDMCZPW455DySgJubNKSSubNvSE9rCrvriZBw9",
+    "url": "https://dexscreener.com/solana/g8j5dbudmczpw455dysgjubnkssubnvse9rcrvrizbw9",
+    "initialMC": 25174,
+    "hpData": {
+      "top10HP": 16.9669379774035,
+      "top25HP": 39.4086922774035,
+      "top50HP": 72.24815004165201,
+      "text": "10-16.97%, 25-39.41%, 50-72.25%"
+    },
+    "initialPrice": {
+      "price": 0.0000253993,
+      "date": "2025-01-03T11:52:39.044Z"
+    },
+    "highestPrice": {
+      "price": 0.0000374015,
+      "date": "2025-01-04T04:18:42.368Z"
+    },
+    "currentPrice": {
+      "price": 0.00000271922,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "EE2cngKxSV1x1mh6y6JqoSnB9fuYHE1r5oC3Ubhi7W2t",
+    "url": "https://dexscreener.com/solana/ee2cngkxsv1x1mh6y6jqosnb9fuyhe1r5oc3ubhi7w2t",
+    "initialMC": 25170,
+    "hpData": {
+      "top10HP": 29.799860156432345,
+      "top25HP": 65.06538435110117,
+      "top50HP": 77.59511996601076,
+      "text": "10-29.80%, 25-65.07%, 50-77.60%"
+    },
+    "initialPrice": {
+      "price": 0.0000243068602,
+      "date": "2025-01-03T12:03:49.327Z"
+    },
+    "highestPrice": {
+      "price": 0.0000361616115,
+      "date": "2025-01-03T12:17:38.466Z"
+    },
+    "currentPrice": {
+      "price": 0.00000269114606,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "H4RLHiehZo8cwd7KntPFApsvunmBagaWjcdHZx8YFhdp",
+    "url": "https://dexscreener.com/solana/h4rlhiehzo8cwd7kntpfapsvunmbagawjcdhzx8yfhdp",
+    "initialMC": 380183,
+    "hpData": {
+      "top10HP": 9.046035338958042,
+      "top25HP": 22.387511877049466,
+      "top50HP": 44.098832736434474,
+      "text": "10-9.05%, 25-22.39%, 50-44.10%"
+    },
+    "initialPrice": {
+      "price": 8.72151e-12,
+      "date": "2025-01-03T12:12:04.190Z"
+    },
+    "highestPrice": {
+      "price": 1.03693e-10,
+      "date": "2025-01-05T08:27:25.954Z"
+    },
+    "currentPrice": {
+      "price": 5.39417e-11,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "G46KJY96QZTRafaxvFyKLNw1XdbMJAtmF3mkdJvLpump",
+    "url": "https://dexscreener.com/solana/g46kjy96qztrafaxvfyklnw1xdbmjatmf3mkdjvlpump",
+    "initialMC": 90876,
+    "hpData": {
+      "top10HP": 21.324113987161976,
+      "top25HP": 36.78309887235591,
+      "top50HP": 52.93160497044784,
+      "text": "10-21.32%, 25-36.78%, 50-52.93%"
+    },
+    "initialPrice": {
+      "price": 0.0000910929,
+      "date": "2025-01-03T12:12:05.112Z"
+    },
+    "highestPrice": {
+      "price": 0.000108042,
+      "date": "2025-01-03T13:12:19.024Z"
+    },
+    "currentPrice": {
+      "price": 0.0000107301,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 20,
+    "history": [
+      {
+        "MC": 88758,
+        "price": 0.0000876529,
+        "boost": 10,
+        "date": "2025-01-03T12:20:14.967Z"
+      }
+    ]
+  },
+  {
+    "address": "4VDX7GkkNbiYfDwVtdV7W46mCPSynJVbHUqRAqThpump",
+    "url": "https://dexscreener.com/solana/4vdx7gkknbiyfdwvtdv7w46mcpsynjvbhuqraqthpump",
+    "initialMC": 71106,
+    "hpData": {
+      "top10HP": 26.348664173542147,
+      "top25HP": 40.46817180437356,
+      "top50HP": 51.89807715413415,
+      "text": "10-26.35%, 25-40.47%, 50-51.90%"
+    },
+    "initialPrice": {
+      "price": 0.0000698597,
+      "date": "2025-01-03T12:17:17.189Z"
+    },
+    "highestPrice": {
+      "price": 0.000100576,
+      "date": "2025-01-03T12:27:33.405Z"
+    },
+    "currentPrice": {
+      "price": 0.0000127883,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 66703,
+        "price": 0.0000708647,
+        "boost": 20,
+        "date": "2025-01-03T12:39:43.528Z"
+      }
+    ]
+  },
+  {
+    "address": "CerzSQRYf5kBRAmGgdm5E3EfuLP3YgaaB79TQJUWpump",
+    "url": "https://dexscreener.com/solana/cerzsqryf5kbramggdm5e3efulp3ygaab79tqjuwpump",
+    "initialMC": 5316,
+    "hpData": {
+      "top10HP": 65.78335932300794,
+      "top25HP": 80.07474991122461,
+      "top50HP": 83.04797835918812,
+      "text": "10-65.78%, 25-80.07%, 50-83.05%"
+    },
+    "initialPrice": {
+      "price": 0.00000538429863,
+      "date": "2025-01-03T12:18:28.931Z"
+    },
+    "highestPrice": {
+      "price": 0.00000943621115,
+      "date": "2025-01-03T12:45:02.380Z"
+    },
+    "currentPrice": {
+      "price": 3.81908378e-7,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "FDhKMxYtbKyNtAH96FsH4znyd5YfX28UVZ3ix5GseDWV",
+    "url": "https://dexscreener.com/solana/fdhkmxytbkyntah96fsh4znyd5yfx28uvz3ix5gsedwv",
+    "initialMC": 49235,
+    "hpData": {
+      "top10HP": 20,
+      "top25HP": 49.76927197602774,
+      "top50HP": 86.29571170473795,
+      "text": "10-20.00%, 25-49.77%, 50-86.30%"
+    },
+    "initialPrice": {
+      "price": 0.0000480719921,
+      "date": "2025-01-03T12:26:43.954Z"
+    },
+    "highestPrice": {
+      "price": 0.0000498007352,
+      "date": "2025-01-03T12:37:33.834Z"
+    },
+    "currentPrice": {
+      "price": 0.00000224403521,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "jUMyCTPLP6zbbye7amiGvRCWp6YNvndMUaFHqYkpump",
+    "url": "https://dexscreener.com/solana/jumyctplp6zbbye7amigvrcwp6ynvndmuafhqykpump",
+    "initialMC": 1774327,
+    "hpData": {
+      "top10HP": 22.816280460179843,
+      "top25HP": 40.074729881470525,
+      "top50HP": 57.760830238397354,
+      "text": "10-22.82%, 25-40.07%, 50-57.76%"
+    },
+    "initialPrice": {
+      "price": 0.00179867,
+      "date": "2025-01-03T12:29:43.947Z"
+    },
+    "highestPrice": {
+      "price": 0.00325996,
+      "date": "2025-01-04T17:39:14.377Z"
+    },
+    "currentPrice": {
+      "price": 0.00113676,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 40,
+    "history": []
+  },
+  {
+    "address": "veaN4uDFQfxMmPvV5aLb8RiZRofjpwi8pDqw8grEhif",
+    "url": "https://dexscreener.com/solana/vean4udfqfxmmpvv5alb8rizrofjpwi8pdqw8grehif",
+    "initialMC": 1059355,
+    "hpData": {
+      "top10HP": 95.41117168137461,
+      "top25HP": 99.87246210372005,
+      "top50HP": 99.88359650092772,
+      "text": "10-95.41%, 25-99.87%, 50-99.88%"
+    },
+    "initialPrice": {
+      "price": 0.011053,
+      "date": "2025-01-03T12:30:48.322Z"
+    },
+    "highestPrice": {
+      "price": 0.01877,
+      "date": "2025-01-04T19:09:04.692Z"
+    },
+    "currentPrice": {
+      "price": 0.000291531,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "EPrrcQ3d8yC8LoSoRNrFdQPcCY8Ut68hstu2brkppump",
+    "url": "https://dexscreener.com/solana/eprrcq3d8yc8losornrfdqpccy8ut68hstu2brkppump",
+    "initialMC": 55459,
+    "hpData": {
+      "top10HP": 18.90284409806761,
+      "top25HP": 32.02722313845961,
+      "top50HP": 45.28125871637151,
+      "text": "10-18.90%, 25-32.03%, 50-45.28%"
+    },
+    "initialPrice": {
+      "price": 0.0000494783,
+      "date": "2025-01-03T12:35:31.880Z"
+    },
+    "highestPrice": {
+      "price": 0.000141535,
+      "date": "2025-01-03T13:27:13.322Z"
+    },
+    "currentPrice": {
+      "price": 0.00000720176,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "4WofTGKAUzocLp147ZeNAk5bvUFm4DHTJLx9G5T6moon",
+    "url": "https://dexscreener.com/solana/4woftgkauzoclp147zenak5bvufm4dhtjlx9g5t6moon",
+    "initialMC": 47179.92,
+    "hpData": {
+      "top10HP": 62.71427633846401,
+      "top25HP": 99.46402213168568,
+      "top50HP": 100,
+      "text": "10-62.71%, 25-99.46%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000481754088,
+      "date": "2025-01-03T12:37:19.340Z"
+    },
+    "highestPrice": {
+      "price": 0.0000779959636,
+      "date": "2025-01-03T16:58:05.494Z"
+    },
+    "currentPrice": {
+      "price": 0.00000632532021,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "4NzCkMwXDtLodPJDBtNX7rGNzWZkYqgs3dtmQ5MVjAK2",
+    "url": "https://dexscreener.com/solana/4nzckmwxdtlodpjdbtnx7rgnzwzkyqgs3dtmq5mvjak2",
+    "initialMC": 16827,
+    "hpData": {
+      "top10HP": 26.354969208354397,
+      "top25HP": 48.104969208354426,
+      "top50HP": 75.49125781423292,
+      "text": "10-26.35%, 25-48.10%, 50-75.49%"
+    },
+    "initialPrice": {
+      "price": 0.0000174332,
+      "date": "2025-01-03T12:37:55.885Z"
+    },
+    "highestPrice": {
+      "price": 0.0000366361,
+      "date": "2025-01-03T14:24:28.475Z"
+    },
+    "currentPrice": {
+      "price": 0.000021744,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "AFFes7YSd4kCtB3f193B21R9sU1R691zNFDKsGzUYgYm",
+    "url": "https://dexscreener.com/solana/affes7ysd4kctb3f193b21r9su1r691znfdksgzuygym",
+    "initialMC": 19362,
+    "hpData": {
+      "top10HP": 24.869004541236553,
+      "top25HP": 53.07443971429724,
+      "top50HP": 73.75669539272003,
+      "text": "10-24.87%, 25-53.07%, 50-73.76%"
+    },
+    "initialPrice": {
+      "price": 0.0000189230514,
+      "date": "2025-01-03T12:38:46.405Z"
+    },
+    "highestPrice": {
+      "price": 0.000020193753,
+      "date": "2025-01-04T02:40:38.794Z"
+    },
+    "currentPrice": {
+      "price": 0.00000631321417,
+      "date": "2025-01-04T04:24:27.194Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "9oGjgfgSZwy2qrHzphhYw6E7PP2oCaZwR7uKrNjjmoon",
+    "url": "https://dexscreener.com/solana/9ogjgfgszwy2qrhzphhyw6e7pp2ocazwr7ukrnjjmoon",
+    "initialMC": 7359.12,
+    "hpData": {
+      "top10HP": 99.81585946590998,
+      "top25HP": 100.00000000000001,
+      "top50HP": 100.00000000000001,
+      "text": "10-99.82%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000076410588,
+      "date": "2025-01-03T12:39:08.084Z"
+    },
+    "highestPrice": {
+      "price": 0.0000106405799,
+      "date": "2025-01-03T13:04:54.700Z"
+    },
+    "currentPrice": {
+      "price": 0.0000071317248,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump",
+    "url": "https://dexscreener.com/solana/5kso7gm3pwjjr1ygtfsy5g1x5c6fgdhiazm7cpzppump",
+    "initialMC": 14984,
+    "hpData": {
+      "top10HP": 98.67204259456307,
+      "top25HP": 99.99746155171113,
+      "top50HP": 99.99999999999997,
+      "text": "10-98.67%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000095291,
+      "date": "2025-01-03T12:43:51.800Z"
+    },
+    "highestPrice": {
+      "price": 0.0000209667,
+      "date": "2025-01-04T09:10:59.912Z"
+    },
+    "currentPrice": {
+      "price": 0.0000122608,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "EkHfvx6vRqpN1nK7M7JYRvTPUmzTKVTWUaXN2WTdpump",
+    "url": "https://dexscreener.com/solana/ekhfvx6vrqpn1nk7m7jyrvtpumztkvtwuaxn2wtdpump",
+    "initialMC": 495013,
+    "hpData": {
+      "top10HP": 16.479637111211108,
+      "top25HP": 31.359304043785652,
+      "top50HP": 47.299366875282836,
+      "text": "10-16.48%, 25-31.36%, 50-47.30%"
+    },
+    "initialPrice": {
+      "price": 0.000494057,
+      "date": "2025-01-03T12:45:40.006Z"
+    },
+    "highestPrice": {
+      "price": 0.000555838,
+      "date": "2025-01-03T13:07:22.854Z"
+    },
+    "currentPrice": {
+      "price": 0.00016982,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "88dnPHaZDxwCm9xiDgB15uPwGdgE2y7ALcqsgRTopump",
+    "url": "https://dexscreener.com/solana/88dnphazdxwcm9xidgb15upwgdge2y7alcqsgrtopump",
+    "initialMC": 1106017,
+    "hpData": {
+      "top10HP": 24.411969077692234,
+      "top25HP": 40.441226746028484,
+      "top50HP": 58.21905311372507,
+      "text": "10-24.41%, 25-40.44%, 50-58.22%"
+    },
+    "initialPrice": {
+      "price": 0.00116723,
+      "date": "2025-01-03T12:46:09.731Z"
+    },
+    "highestPrice": {
+      "price": 0.00359849,
+      "date": "2025-01-05T15:29:21.736Z"
+    },
+    "currentPrice": {
+      "price": 0.00289067,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 1646034,
+        "price": 0.00163202,
+        "boost": 110,
+        "date": "2025-01-03T14:23:31.467Z"
+      }
+    ]
+  },
+  {
+    "address": "6LDi9rKMpD3gYqeNnGmMwtRycpQxgzr7Fk58cCY24br7",
+    "url": "https://dexscreener.com/solana/6ldi9rkmpd3gyqenngmmwtrycpqxgzr7fk58ccy24br7",
+    "initialMC": 24488,
+    "hpData": {
+      "top10HP": 20,
+      "top25HP": 40.99529822153163,
+      "top50HP": 61.15153979729544,
+      "text": "10-20.00%, 25-41.00%, 50-61.15%"
+    },
+    "initialPrice": {
+      "price": 0.000199587252,
+      "date": "2025-01-03T12:52:03.086Z"
+    },
+    "highestPrice": {
+      "price": 0.000228218793,
+      "date": "2025-01-03T13:12:19.024Z"
+    },
+    "currentPrice": {
+      "price": 0.0000153901879,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "9w9myBVKvNqtGdXB2VqoLMmaFdPCuRzwULtjWjPVATXZ",
+    "url": "https://dexscreener.com/solana/9w9mybvkvnqtgdxb2vqolmmafdpcurzwultjwjpvatxz",
+    "initialMC": 432995,
+    "hpData": {
+      "top10HP": 11.12132312243047,
+      "top25HP": 25.12023706495412,
+      "top50HP": 46.02713359101613,
+      "text": "10-11.12%, 25-25.12%, 50-46.03%"
+    },
+    "initialPrice": {
+      "price": 0.000421958883,
+      "date": "2025-01-03T13:02:38.915Z"
+    },
+    "highestPrice": {
+      "price": 0.00103928367,
+      "date": "2025-01-04T13:24:20.072Z"
+    },
+    "currentPrice": {
+      "price": 0.00013002451,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "9T2mDpMW3CqMaBTm3JH2PVy9hzDNXF7jUrmyfZbYpump",
+    "url": "https://dexscreener.com/solana/9t2mdpmw3cqmabtm3jh2pvy9hzdnxf7jurmyfzbypump",
+    "initialMC": 806808,
+    "hpData": {
+      "top10HP": 82.71668643058092,
+      "top25HP": 87.69911072832033,
+      "top50HP": 90.96415942530699,
+      "text": "10-82.72%, 25-87.70%, 50-90.96%"
+    },
+    "initialPrice": {
+      "price": 0.000790045,
+      "date": "2025-01-03T13:03:14.923Z"
+    },
+    "highestPrice": {
+      "price": 0.000967523,
+      "date": "2025-01-03T13:22:16.418Z"
+    },
+    "currentPrice": {
+      "price": 0.000135545,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "tGSHqcbojd4uSmirz9iXHvuRBBFwbHaDjSatbuupump",
+    "url": "https://dexscreener.com/solana/tgshqcbojd4usmirz9ixhvurbbfwbhadjsatbuupump",
+    "initialMC": 900305,
+    "hpData": {
+      "top10HP": 26.229974293348846,
+      "top25HP": 43.57426239160846,
+      "top50HP": 59.18068373309348,
+      "text": "10-26.23%, 25-43.57%, 50-59.18%"
+    },
+    "initialPrice": {
+      "price": 0.00090236,
+      "date": "2025-01-03T13:03:51.252Z"
+    },
+    "highestPrice": {
+      "price": 0.00176368,
+      "date": "2025-01-04T08:06:01.595Z"
+    },
+    "currentPrice": {
+      "price": 0.00168948,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "5jsN5gKijZRYiaD6ZJLzLFZBWNRq6JQgS9dQsXWcmoon",
+    "url": "https://dexscreener.com/solana/5jsn5gkijzryiad6zjlzlfzbwnrq6jqgs9dqsxwcmoon",
+    "initialMC": 61194.07,
+    "hpData": {
+      "top10HP": 65.71096748464207,
+      "top25HP": 89.04292145067647,
+      "top50HP": 94.66255898153892,
+      "text": "10-65.71%, 25-89.04%, 50-94.66%"
+    },
+    "initialPrice": {
+      "price": 0.0000623675019,
+      "date": "2025-01-03T13:13:51.861Z"
+    },
+    "highestPrice": {
+      "price": 0.0000811086172,
+      "date": "2025-01-04T01:30:37.626Z"
+    },
+    "currentPrice": {
+      "price": 0.00000778926974,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 510,
+    "history": []
+  },
+  {
+    "address": "3MFWCsDePuYXdeRw5FbczKRfTdpcPMPxvrQRWQ9hmoon",
+    "url": "https://dexscreener.com/solana/3mfwcsdepuyxderw5fbczkrftdpcpmpxvrqrwq9hmoon",
+    "initialMC": 18773.49,
+    "hpData": {
+      "top10HP": 87.11059013490451,
+      "top25HP": 98.41140231262747,
+      "top50HP": 99.9999995116025,
+      "text": "10-87.11%, 25-98.41%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000192213229,
+      "date": "2025-01-03T13:16:48.642Z"
+    },
+    "highestPrice": {
+      "price": 0.0000487894,
+      "date": "2025-01-03T23:28:55.116Z"
+    },
+    "currentPrice": {
+      "price": 0.00000757640638,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 25669.64,
+        "price": 0.000026374561,
+        "boost": 40,
+        "date": "2025-01-03T19:50:05.758Z"
+      }
+    ]
+  },
+  {
+    "address": "5ABhEwJgZLeQxyB25z88nFbHjjm1LJEs8iDJ2CSmpump",
+    "url": "https://dexscreener.com/solana/5abhewjgzleqxyb25z88nfbhjjm1ljes8idj2csmpump",
+    "initialMC": 129811,
+    "hpData": {
+      "top10HP": 36.01502731946221,
+      "top25HP": 71.43163537754745,
+      "top50HP": 78.96823254337647,
+      "text": "10-36.02%, 25-71.43%, 50-78.97%"
+    },
+    "initialPrice": {
+      "price": 0.000127156,
+      "date": "2025-01-03T13:19:46.081Z"
+    },
+    "highestPrice": {
+      "price": 0.000142799,
+      "date": "2025-01-03T17:43:26.119Z"
+    },
+    "currentPrice": {
+      "price": 0.0000040347,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "BiTbpHw253ceCPXke9k1uFSzjFhoqjdobVemLq6pump",
+    "url": "https://dexscreener.com/solana/bitbphw253cecpxke9k1ufszjfhoqjdobvemlq6pump",
+    "initialMC": 195194,
+    "hpData": {
+      "top10HP": 14.378911570558024,
+      "top25HP": 25.573511983333105,
+      "top50HP": 43.06198523603865,
+      "text": "10-14.38%, 25-25.57%, 50-43.06%"
+    },
+    "initialPrice": {
+      "price": 0.000214604,
+      "date": "2025-01-03T13:20:22.544Z"
+    },
+    "highestPrice": {
+      "price": 0.000243884,
+      "date": "2025-01-03T13:24:44.872Z"
+    },
+    "currentPrice": {
+      "price": 0.0000234124,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "7C6DYeYFZRUjysPeHTVEsopxkXynNNz9sskjBwUspump",
+    "url": "https://dexscreener.com/solana/7c6dyeyfzrujyspehtvesopxkxynnnz9sskjbwuspump",
+    "initialMC": 53501,
+    "hpData": {
+      "top10HP": 19.254617007673335,
+      "top25HP": 34.518171630607156,
+      "top50HP": 48.90700150831483,
+      "text": "10-19.25%, 25-34.52%, 50-48.91%"
+    },
+    "initialPrice": {
+      "price": 0.0000551268,
+      "date": "2025-01-03T13:20:58.737Z"
+    },
+    "highestPrice": {
+      "price": 0.0000613194,
+      "date": "2025-01-03T13:24:44.872Z"
+    },
+    "currentPrice": {
+      "price": 0.00000792252,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "DWHuypFN5CNX54fWs5PJkG1JoSc842kjotLqo5Hupump",
+    "url": "https://dexscreener.com/solana/dwhuypfn5cnx54fws5pjkg1josc842kjotlqo5hupump",
+    "initialMC": 131416,
+    "hpData": {
+      "top10HP": 14.672422311777979,
+      "top25HP": 27.254387541743174,
+      "top50HP": 38.17123785528117,
+      "text": "10-14.67%, 25-27.25%, 50-38.17%"
+    },
+    "initialPrice": {
+      "price": 0.000132144,
+      "date": "2025-01-03T13:30:57.537Z"
+    },
+    "highestPrice": {
+      "price": 0.000446509,
+      "date": "2025-01-04T09:05:14.351Z"
+    },
+    "currentPrice": {
+      "price": 0.0000487152,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 20,
+    "history": [
+      {
+        "MC": 148533,
+        "price": 0.000156266,
+        "boost": 10,
+        "date": "2025-01-05T01:12:45.611Z"
+      }
+    ]
+  },
+  {
+    "address": "8TrD8Lto7Tx3LsRmMBgPB7i8yeWgDju5MWnJ12HCpump",
+    "url": "https://dexscreener.com/solana/8trd8lto7tx3lsrmmbgpb7i8yewgdju5mwnj12hcpump",
+    "initialMC": 17395,
+    "hpData": {
+      "top10HP": 27.162829947415712,
+      "top25HP": 56.76258295901964,
+      "top50HP": 80.29793094271452,
+      "text": "10-27.16%, 25-56.76%, 50-80.30%"
+    },
+    "initialPrice": {
+      "price": 0.0000169918434,
+      "date": "2025-01-03T13:31:26.416Z"
+    },
+    "highestPrice": {
+      "price": 0.0000183136749,
+      "date": "2025-01-03T13:37:12.993Z"
+    },
+    "currentPrice": {
+      "price": 0.00000252348157,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "DdyoGjgQVT8UV8o7DoyVrBt5AfjrdZr32cfBMvbbPNHM",
+    "url": "https://dexscreener.com/solana/ddyogjgqvt8uv8o7doyvrbt5afjrdzr32cfbmvbbpnhm",
+    "initialMC": 77978,
+    "hpData": {
+      "top10HP": 23.028053943531116,
+      "top25HP": 40.66338737175269,
+      "top50HP": 59.65574962909746,
+      "text": "10-23.03%, 25-40.66%, 50-59.66%"
+    },
+    "initialPrice": {
+      "price": 0.0000779214061,
+      "date": "2025-01-03T13:33:13.043Z"
+    },
+    "highestPrice": {
+      "price": 0.000110946785,
+      "date": "2025-01-03T19:35:00.172Z"
+    },
+    "currentPrice": {
+      "price": 0.0000784295883,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "ADQSLY4o2VchdAvAuG3ttHSA91qqc8H5VKaZ4NW6pump",
+    "url": "https://dexscreener.com/solana/adqsly4o2vchdavaug3tthsa91qqc8h5vkaz4nw6pump",
+    "initialMC": 55064,
+    "hpData": {
+      "top10HP": 23.150914963032264,
+      "top25HP": 40.85561705522301,
+      "top50HP": 54.8099721673136,
+      "text": "10-23.15%, 25-40.86%, 50-54.81%"
+    },
+    "initialPrice": {
+      "price": 0.0000561467,
+      "date": "2025-01-03T13:54:59.648Z"
+    },
+    "highestPrice": {
+      "price": 0.0000588174,
+      "date": "2025-01-03T13:57:03.623Z"
+    },
+    "currentPrice": {
+      "price": 0.0000275862,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "AUVCoo9Hj9fHModbQsADvoCd3UCHcwMB1gyiMJSupump",
+    "url": "https://dexscreener.com/solana/auvcoo9hj9fhmodbqsadvocd3uchcwmb1gyimjsupump",
+    "initialMC": 11197,
+    "hpData": {
+      "top10HP": 27.076622232896263,
+      "top25HP": 54.04714363663005,
+      "top50HP": 69.16182711227462,
+      "text": "10-27.08%, 25-54.05%, 50-69.16%"
+    },
+    "initialPrice": {
+      "price": 0.0000124875379,
+      "date": "2025-01-03T13:55:00.026Z"
+    },
+    "highestPrice": {
+      "price": 0.0000170902559,
+      "date": "2025-01-03T14:02:06.627Z"
+    },
+    "currentPrice": {
+      "price": 8.45445063e-7,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "J5CpjMaYHYdZu2WBUPT79mALDJM14FKCiVVPwUDcpump",
+    "url": "https://dexscreener.com/solana/j5cpjmayhydzu2wbupt79maldjm14fkcivvpwudcpump",
+    "initialMC": 223798,
+    "hpData": {
+      "top10HP": 31.205345862515447,
+      "top25HP": 41.821522556838566,
+      "top50HP": 51.983050187488324,
+      "text": "10-31.21%, 25-41.82%, 50-51.98%"
+    },
+    "initialPrice": {
+      "price": 0.000223628,
+      "date": "2025-01-03T13:56:42.283Z"
+    },
+    "highestPrice": {
+      "price": 0.000837015,
+      "date": "2025-01-04T14:17:19.070Z"
+    },
+    "currentPrice": {
+      "price": 0.000212854,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": [
+      {
+        "MC": 223326,
+        "price": 0.000225964,
+        "boost": 60,
+        "date": "2025-01-03T13:57:17.325Z"
+      },
+      {
+        "MC": 223326,
+        "price": 0.000225964,
+        "boost": 60,
+        "date": "2025-01-03T13:57:17.325Z"
+      }
+    ]
+  },
+  {
+    "address": "4CCRDcWzKTDVBe9qEMViPmqX2sAv1hQ1Z66geVwEmoon",
+    "url": "https://dexscreener.com/solana/4ccrdcwzktdvbe9qemvipmqx2sav1hq1z66gevwemoon",
+    "initialMC": 12317.35,
+    "hpData": {
+      "top10HP": 90.25293505240083,
+      "top25HP": 99.9762679886424,
+      "top50HP": 99.99999999999999,
+      "text": "10-90.25%, 25-99.98%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000127169555,
+      "date": "2025-01-03T14:06:28.241Z"
+    },
+    "highestPrice": {
+      "price": 0.0000140574397,
+      "date": "2025-01-03T14:17:00.931Z"
+    },
+    "currentPrice": {
+      "price": 0.00000629781743,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "Fo2k8GDfXjD8EGfKaJ7HVAcgaNziXtEun37pRLQSmoon",
+    "url": "https://dexscreener.com/solana/fo2k8gdfxjd8egfkaj7hvacganzixteun37prlqsmoon",
+    "initialMC": 11650.78,
+    "hpData": {
+      "top10HP": 94.6269392986403,
+      "top25HP": 99.958356410181,
+      "top50HP": 100.00000000000003,
+      "text": "10-94.63%, 25-99.96%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000120467053,
+      "date": "2025-01-03T14:14:07.558Z"
+    },
+    "highestPrice": {
+      "price": 0.0000121069706,
+      "date": "2025-01-03T14:17:00.931Z"
+    },
+    "currentPrice": {
+      "price": 0.00000629393664,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "At9GXBNR14hzyWSjLcqy8sSeFUuCGVvfxCDuJTfxR4Us",
+    "url": "https://dexscreener.com/solana/at9gxbnr14hzywsjlcqy8ssefuucgvvfxcdujtfxr4us",
+    "initialMC": 245080,
+    "hpData": {
+      "top10HP": 13.4683924365894,
+      "top25HP": 26.540102048496596,
+      "top50HP": 45.5872287787355,
+      "text": "10-13.47%, 25-26.54%, 50-45.59%"
+    },
+    "initialPrice": {
+      "price": 0.000248016,
+      "date": "2025-01-03T14:14:44.717Z"
+    },
+    "highestPrice": {
+      "price": 0.000465996,
+      "date": "2025-01-03T15:41:59.130Z"
+    },
+    "currentPrice": {
+      "price": 0.0000147549,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "6BAca3mCciRbiPo9roD1Nx91C5CgK6uNGdjnPCoGmoon",
+    "url": "https://dexscreener.com/solana/6baca3mccirbipo9rod1nx91c5cgk6ungdjnpcogmoon",
+    "initialMC": 55050.04,
+    "hpData": {
+      "top10HP": 58.68936952526339,
+      "top25HP": 78.02529807722253,
+      "top50HP": 92.63017447177525,
+      "text": "10-58.69%, 25-78.03%, 50-92.63%"
+    },
+    "initialPrice": {
+      "price": 0.0000564442424,
+      "date": "2025-01-03T14:14:45.072Z"
+    },
+    "highestPrice": {
+      "price": 0.000104689881,
+      "date": "2025-01-04T20:13:44.944Z"
+    },
+    "currentPrice": {
+      "price": 0.0000665919893,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 50,
+    "history": [
+      {
+        "MC": 55050.04,
+        "price": 0.0000564840685,
+        "boost": 80,
+        "date": "2025-01-03T14:16:24.078Z"
+      },
+      {
+        "MC": 74437,
+        "price": 0.0000679568676,
+        "boost": 100,
+        "date": "2025-01-04T21:04:09.964Z"
+      }
+    ]
+  },
+  {
+    "address": "Ga4oZoNRLkZkruJpS8NLwa8DJCwKP9hbTBSNDQZ9V43v",
+    "url": "https://dexscreener.com/solana/ga4ozonrlkzkrujps8nlwa8djcwkp9hbtbsndqz9v43v",
+    "initialMC": 107574,
+    "hpData": {
+      "top10HP": 53.647697577827245,
+      "top25HP": 74.95017666193955,
+      "top50HP": 83.49579914840673,
+      "text": "10-53.65%, 25-74.95%, 50-83.50%"
+    },
+    "initialPrice": {
+      "price": 0.00000122354,
+      "date": "2025-01-03T14:16:25.577Z"
+    },
+    "highestPrice": {
+      "price": 0.0000016062,
+      "date": "2025-01-04T03:41:10.180Z"
+    },
+    "currentPrice": {
+      "price": 0.00000114818,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "3szLtB2NLN1K3Jq91jf9sfGLobW8zMvxkc7UQ7qumoon",
+    "url": "https://dexscreener.com/solana/3szltb2nln1k3jq91jf9sfglobw8zmvxkc7uq7qumoon",
+    "initialMC": 28642,
+    "hpData": {
+      "top10HP": 61.51013223840108,
+      "top25HP": 85.27646173562648,
+      "top50HP": 96.63270294477454,
+      "text": "10-61.51%, 25-85.28%, 50-96.63%"
+    },
+    "initialPrice": {
+      "price": 0.0000296081823,
+      "date": "2025-01-03T14:21:44.949Z"
+    },
+    "highestPrice": {
+      "price": 0.0000339660729,
+      "date": "2025-01-05T18:21:02.226Z"
+    },
+    "currentPrice": {
+      "price": 0.0000330785927,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "3TDQp1TkKUW5QuRgfap5VZ88JF99RQsyuoZhpTCqevAk",
+    "url": "https://dexscreener.com/solana/3tdqp1tkkuw5qurgfap5vz88jf99rqsyuozhptcqevak",
+    "initialMC": 4537,
+    "hpData": {
+      "top10HP": 54.80250964601682,
+      "top25HP": 86.07152231696938,
+      "top50HP": 98.91701052023075,
+      "text": "10-54.80%, 25-86.07%, 50-98.92%"
+    },
+    "initialPrice": {
+      "price": 0.00000548063633,
+      "date": "2025-01-03T14:21:45.290Z"
+    },
+    "highestPrice": {
+      "price": 0.00000548063633,
+      "date": "2025-01-03T14:21:45.290Z"
+    },
+    "currentPrice": {
+      "price": 0.00000141506684,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "LDK9TCQNkcFgTiFnbYtmbPToUXgxJL55eGqq817cqDx",
+    "url": "https://dexscreener.com/solana/ldk9tcqnkcfgtifnbytmbptouxgxjl55egqq817cqdx",
+    "initialMC": 85907,
+    "hpData": {
+      "top10HP": 9.7206873,
+      "top25HP": 23.379871299999998,
+      "top50HP": 43.326393399999986,
+      "text": "10-9.72%, 25-23.38%, 50-43.33%"
+    },
+    "initialPrice": {
+      "price": 0.0000863039,
+      "date": "2025-01-03T14:23:31.891Z"
+    },
+    "highestPrice": {
+      "price": 0.000291734,
+      "date": "2025-01-04T22:52:32.684Z"
+    },
+    "currentPrice": {
+      "price": 0.000207467,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "55wm6uoBSw9pnqhLgC6DNPAkr911KruPskG6fdTodMhF",
+    "url": "https://dexscreener.com/solana/55wm6uobsw9pnqhlgc6dnpakr911krupskg6fdtodmhf",
+    "initialMC": 152844,
+    "hpData": {
+      "top10HP": 21.67661935234568,
+      "top25HP": 40.560896868114554,
+      "top50HP": 58.923745839957164,
+      "text": "10-21.68%, 25-40.56%, 50-58.92%"
+    },
+    "initialPrice": {
+      "price": 0.000150394,
+      "date": "2025-01-03T14:40:01.323Z"
+    },
+    "highestPrice": {
+      "price": 0.000210941,
+      "date": "2025-01-04T00:32:52.125Z"
+    },
+    "currentPrice": {
+      "price": 0.0000855956,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": [
+      {
+        "MC": 139056,
+        "price": 0.000139385,
+        "boost": 50,
+        "date": "2025-01-04T14:34:06.856Z"
+      },
+      {
+        "MC": 105027,
+        "price": 0.000105171,
+        "boost": 100,
+        "date": "2025-01-05T03:49:40.795Z"
+      }
+    ]
+  },
+  {
+    "address": "51xFCqyqpxcUs6wx2wYk5SWNJcgNp1YXvg6HcN2Ypump",
+    "url": "https://dexscreener.com/solana/51xfcqyqpxcus6wx2wyk5swnjcgnp1yxvg6hcn2ypump",
+    "initialMC": 94007,
+    "hpData": {
+      "top10HP": 21.79671231935704,
+      "top25HP": 33.479250434754086,
+      "top50HP": 45.252446179179266,
+      "text": "10-21.80%, 25-33.48%, 50-45.25%"
+    },
+    "initialPrice": {
+      "price": 0.000147663,
+      "date": "2025-01-03T14:43:34.563Z"
+    },
+    "highestPrice": {
+      "price": 0.000147663,
+      "date": "2025-01-03T14:43:34.563Z"
+    },
+    "currentPrice": {
+      "price": 0.00001016,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "9KVDm82fYmZDGPMtdKMopeYggVdUcKXNZAwbs6d6Md7t",
+    "url": "https://dexscreener.com/solana/9kvdm82fymzdgpmtdkmopeyggvduckxnzawbs6d6md7t",
+    "initialMC": 13779,
+    "hpData": {
+      "top10HP": 28.762109061466997,
+      "top25HP": 50.51210906146703,
+      "top50HP": 77.21901011988174,
+      "text": "10-28.76%, 25-50.51%, 50-77.22%"
+    },
+    "initialPrice": {
+      "price": 0.0000134687,
+      "date": "2025-01-03T14:44:46.228Z"
+    },
+    "highestPrice": {
+      "price": 0.0000157824,
+      "date": "2025-01-03T14:49:18.445Z"
+    },
+    "currentPrice": {
+      "price": 0.00000112136,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "54LC25PEyqZWBjztoGekTSxVv3wWjJic7uBUhL4Qpump",
+    "url": "https://dexscreener.com/solana/54lc25peyqzwbjztogektsxvv3wwjjic7ubuhl4qpump",
+    "initialMC": 137079,
+    "hpData": {
+      "top10HP": 20.021380248827917,
+      "top25HP": 34.71109608469467,
+      "top50HP": 46.87546763499246,
+      "text": "10-20.02%, 25-34.71%, 50-46.88%"
+    },
+    "initialPrice": {
+      "price": 0.000131159,
+      "date": "2025-01-03T14:45:58.219Z"
+    },
+    "highestPrice": {
+      "price": 0.000131324,
+      "date": "2025-01-03T14:46:50.191Z"
+    },
+    "currentPrice": {
+      "price": 0.00000524532,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "5uPM6F46jUFemuPBCRG7iN9JRK5fN9bmMXtLveWXpump",
+    "url": "https://dexscreener.com/solana/5upm6f46jufemupbcrg7in9jrk5fn9bmmxtlvewxpump",
+    "initialMC": 71361,
+    "hpData": {
+      "top10HP": 23.84826106969533,
+      "top25HP": 40.297125857671396,
+      "top50HP": 53.464779581539325,
+      "text": "10-23.85%, 25-40.30%, 50-53.46%"
+    },
+    "initialPrice": {
+      "price": 0.0000708581,
+      "date": "2025-01-03T14:46:35.670Z"
+    },
+    "highestPrice": {
+      "price": 0.000101135,
+      "date": "2025-01-03T16:04:37.834Z"
+    },
+    "currentPrice": {
+      "price": 0.000051106,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "HdNuRreYMH34MtEucyrdsF82kiDZ5naREJgNtgAzgcZG",
+    "url": "https://dexscreener.com/solana/hdnurreymh34mteucyrdsf82kidz5narejgntgazgczg",
+    "initialMC": 82800,
+    "hpData": {
+      "top10HP": 25.45010332142205,
+      "top25HP": 45.0009210754217,
+      "top50HP": 64.88315203468568,
+      "text": "10-25.45%, 25-45.00%, 50-64.88%"
+    },
+    "initialPrice": {
+      "price": 0.0000835248,
+      "date": "2025-01-03T14:50:08.900Z"
+    },
+    "highestPrice": {
+      "price": 0.000113492,
+      "date": "2025-01-03T15:59:36.083Z"
+    },
+    "currentPrice": {
+      "price": 0.00000589657,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 62207,
+        "price": 0.000064189,
+        "boost": 110,
+        "date": "2025-01-03T15:19:05.568Z"
+      }
+    ]
+  },
+  {
+    "address": "91xDatdjG4C7Pkc4FmW1cKayb7HSVQEswtupr8xppump",
+    "url": "https://dexscreener.com/solana/91xdatdjg4c7pkc4fmw1ckayb7hsvqeswtupr8xppump",
+    "initialMC": 224316,
+    "hpData": {
+      "top10HP": 31.64455174458178,
+      "top25HP": 51.39763010996371,
+      "top50HP": 70.31214444231,
+      "text": "10-31.64%, 25-51.40%, 50-70.31%"
+    },
+    "initialPrice": {
+      "price": 0.000224945,
+      "date": "2025-01-03T14:51:21.177Z"
+    },
+    "highestPrice": {
+      "price": 0.000348387,
+      "date": "2025-01-04T22:58:37.871Z"
+    },
+    "currentPrice": {
+      "price": 0.000294764,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "G6kCtTu6pvHQnXwdnqvKq2hezaYfZuqdZoUUfRWAmoon",
+    "url": "https://dexscreener.com/solana/g6kcttu6pvhqnxwdnqvkq2hezayfzuqdzouufrwamoon",
+    "initialMC": 7605.95,
+    "hpData": {
+      "top10HP": 100,
+      "top25HP": 100,
+      "top50HP": 100,
+      "text": "10-100.00%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000080121306,
+      "date": "2025-01-03T14:57:16.163Z"
+    },
+    "highestPrice": {
+      "price": 0.00000981132296,
+      "date": "2025-01-04T02:23:17.081Z"
+    },
+    "currentPrice": {
+      "price": 0.00000820538994,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 8468.58,
+        "price": 0.00000878834269,
+        "boost": 20,
+        "date": "2025-01-04T02:03:22.207Z"
+      }
+    ]
+  },
+  {
+    "address": "b3pfVMgcHKyeQ2HPNZucsgYcLvef98ZBqrYyjesiDER",
+    "url": "https://dexscreener.com/solana/b3pfvmgchkyeq2hpnzucsgyclvef98zbqryyjesider",
+    "initialMC": 318645,
+    "hpData": {
+      "top10HP": 14.126158715594283,
+      "top25HP": 29.25352764447022,
+      "top50HP": 50.58008595984265,
+      "text": "10-14.13%, 25-29.25%, 50-50.58%"
+    },
+    "initialPrice": {
+      "price": 0.000316221219,
+      "date": "2025-01-03T15:00:14.591Z"
+    },
+    "highestPrice": {
+      "price": 0.000316221219,
+      "date": "2025-01-03T15:00:14.591Z"
+    },
+    "currentPrice": {
+      "price": 0.000213227729,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "DUXshJbwHnAmHmxxEz7g3ZeRpiGhayCvGEHGD92RSRzJ",
+    "url": "https://dexscreener.com/solana/duxshjbwhnamhmxxez7g3zerpighaycvgehgd92rsrzj",
+    "initialMC": 71697,
+    "hpData": {
+      "top10HP": 25.619383868942077,
+      "top25HP": 41.411295929473305,
+      "top50HP": 56.341133576544,
+      "text": "10-25.62%, 25-41.41%, 50-56.34%"
+    },
+    "initialPrice": {
+      "price": 0.0000652641,
+      "date": "2025-01-03T15:03:48.119Z"
+    },
+    "highestPrice": {
+      "price": 0.000114371,
+      "date": "2025-01-03T15:04:23.573Z"
+    },
+    "currentPrice": {
+      "price": 0.00000580242,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "Hu3y3opVzubpF1tHfx8Y9ieVVKPrEyuD8RxUcMJHQzfg",
+    "url": "https://dexscreener.com/solana/hu3y3opvzubpf1thfx8y9ievvkpreyud8rxucmjhqzfg",
+    "initialMC": 7531,
+    "hpData": {
+      "top10HP": 29.106340237482407,
+      "top25HP": 52.056340237482424,
+      "top50HP": 71.57423848990501,
+      "text": "10-29.11%, 25-52.06%, 50-71.57%"
+    },
+    "initialPrice": {
+      "price": 0.00000733191,
+      "date": "2025-01-03T15:05:34.870Z"
+    },
+    "highestPrice": {
+      "price": 0.00000875436,
+      "date": "2025-01-03T15:09:21.749Z"
+    },
+    "currentPrice": {
+      "price": 9.80173e-7,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "5nsh4N1D4GBw25gLPhjRzuUdnR6Ufeo2CvDLDbscBnr",
+    "url": "https://dexscreener.com/solana/5nsh4n1d4gbw25glphjrzuudnr6ufeo2cvdldbscbnr",
+    "initialMC": 7691,
+    "hpData": {
+      "top10HP": 99.91783307409722,
+      "top25HP": 100,
+      "top50HP": 100,
+      "text": "10-99.92%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.00000797670905,
+      "date": "2025-01-03T15:07:56.946Z"
+    },
+    "highestPrice": {
+      "price": 0.0000666919763,
+      "date": "2025-01-03T16:27:26.361Z"
+    },
+    "currentPrice": {
+      "price": 0.00000113772273,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 50580,
+        "price": 0.0000535734911,
+        "boost": 40,
+        "date": "2025-01-03T16:33:13.176Z"
+      }
+    ]
+  },
+  {
+    "address": "CGsh728EjbHY6yp9QrDS8F5joTArpSt1PQm8wj6kpump",
+    "url": "https://dexscreener.com/solana/cgsh728ejbhy6yp9qrds8f5jotarpst1pqm8wj6kpump",
+    "initialMC": 354823,
+    "hpData": {
+      "top10HP": 23.715069169468666,
+      "top25HP": 50.032121628692344,
+      "top50HP": 68.92106737023435,
+      "text": "10-23.72%, 25-50.03%, 50-68.92%"
+    },
+    "initialPrice": {
+      "price": 0.000352567,
+      "date": "2025-01-03T15:09:45.133Z"
+    },
+    "highestPrice": {
+      "price": 0.000467105,
+      "date": "2025-01-03T15:16:57.981Z"
+    },
+    "currentPrice": {
+      "price": 0.000018202,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 500,
+    "history": [
+      {
+        "MC": 354823,
+        "price": 0.000358209,
+        "boost": 1000,
+        "date": "2025-01-03T15:10:13.535Z"
+      }
+    ]
+  },
+  {
+    "address": "BxF8zwmkZxsA8aVu4VAezv5GFCe72fGUiTkzFB4Mpump",
+    "url": "https://dexscreener.com/solana/bxf8zwmkzxsa8avu4vaezv5gfce72fguitkzfb4mpump",
+    "initialMC": 27493,
+    "hpData": {
+      "top10HP": 32.192774632954766,
+      "top25HP": 44.8103497745043,
+      "top50HP": 51.81741618493718,
+      "text": "10-32.19%, 25-44.81%, 50-51.82%"
+    },
+    "initialPrice": {
+      "price": 0.0000274587,
+      "date": "2025-01-03T15:12:36.396Z"
+    },
+    "highestPrice": {
+      "price": 0.0000321411,
+      "date": "2025-01-03T15:29:27.921Z"
+    },
+    "currentPrice": {
+      "price": 0.0000125386,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "AKj4TNQRq9QTPGERs51p2cN4ueLJxvHzqwgeeUrgyuuC",
+    "url": "https://dexscreener.com/solana/akj4tnqrq9qtpgers51p2cn4ueljxvhzqwgeeurgyuuc",
+    "initialMC": 57116,
+    "hpData": {
+      "top10HP": 17.06977459674,
+      "top25HP": 39.066008045306006,
+      "top50HP": 60.72116629186502,
+      "text": "10-17.07%, 25-39.07%, 50-60.72%"
+    },
+    "initialPrice": {
+      "price": 0.000585229,
+      "date": "2025-01-03T15:13:13.281Z"
+    },
+    "highestPrice": {
+      "price": 0.000947816,
+      "date": "2025-01-03T15:39:28.396Z"
+    },
+    "currentPrice": {
+      "price": 0.0000975557,
+      "date": "2025-01-05T22:26:21.098Z"
+    },
+    "intialBoost": 100,
+    "history": [
+      {
+        "MC": 89626,
+        "price": 0.000883753,
+        "boost": 200,
+        "date": "2025-01-03T15:39:50.076Z"
+      },
+      {
+        "MC": 89626,
+        "price": 0.000883753,
+        "boost": 200,
+        "date": "2025-01-03T15:39:50.076Z"
+      },
+      {
+        "MC": 65176,
+        "price": 0.000646571,
+        "boost": 300,
+        "date": "2025-01-03T16:29:43.233Z"
+      },
+      {
+        "MC": 44518,
+        "price": 0.000389256,
+        "boost": 400,
+        "date": "2025-01-03T17:32:07.146Z"
+      },
+      {
+        "MC": 57827,
+        "price": 0.000616344,
+        "boost": 500,
+        "date": "2025-01-03T17:38:39.235Z"
+      },
+      {
+        "MC": 57827,
+        "price": 0.000616344,
+        "boost": 500,
+        "date": "2025-01-03T17:38:39.235Z"
+      },
+      {
+        "MC": 92156,
+        "price": 0.00092223,
+        "boost": 600,
+        "date": "2025-01-03T18:14:06.896Z"
+      }
+    ]
+  },
+  {
+    "address": "4C8y1L7ya9ke2SyJuiLhArMDJNqiqFgi4hRK6j1Ehc8D",
+    "url": "https://dexscreener.com/solana/4c8y1l7ya9ke2syjuilharmdjnqiqfgi4hrk6j1ehc8d",
+    "initialMC": 766500,
+    "hpData": {
+      "top10HP": 21.301178974384484,
+      "top25HP": 38.61587107569013,
+      "top50HP": 55.33865219875276,
+      "text": "10-21.30%, 25-38.62%, 50-55.34%"
+    },
+    "initialPrice": {
+      "price": 0.000766549,
+      "date": "2025-01-03T15:13:14.675Z"
+    },
+    "highestPrice": {
+      "price": 0.000766549,
+      "date": "2025-01-03T15:13:14.675Z"
+    },
+    "currentPrice": {
+      "price": 0.000329625,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 50,
+    "history": [
+      {
+        "MC": 757929,
+        "price": 0.000751992,
+        "boost": 80,
+        "date": "2025-01-03T15:16:07.284Z"
+      },
+      {
+        "MC": 757929,
+        "price": 0.000751992,
+        "boost": 80,
+        "date": "2025-01-03T15:16:07.284Z"
+      }
+    ]
+  },
+  {
+    "address": "7SNgc4DdgivmR8DcWCfxCYmMEuh94cAtTUEg8xzqdXW3",
+    "url": "https://dexscreener.com/solana/7sngc4ddgivmr8dcwcfxcymmeuh94cattueg8xzqdxw3",
+    "initialMC": 99959,
+    "hpData": {
+      "top10HP": 30.937665706790366,
+      "top25HP": 44.39578334876878,
+      "top50HP": 55.753060382562055,
+      "text": "10-30.94%, 25-44.40%, 50-55.75%"
+    },
+    "initialPrice": {
+      "price": 0.0000951916,
+      "date": "2025-01-03T15:13:15.490Z"
+    },
+    "highestPrice": {
+      "price": 0.000145261,
+      "date": "2025-01-03T15:47:01.909Z"
+    },
+    "currentPrice": {
+      "price": 0.000046764,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "D7fmveRzDJESitoQb7mRzceBzobdxPdFCEWfhTqtdQ8P",
+    "url": "https://dexscreener.com/solana/d7fmverzdjesitoqb7mrzcebzobdxpdfcewfhtqtdq8p",
+    "initialMC": 42142,
+    "hpData": {
+      "top10HP": 21.303199681694792,
+      "top25HP": 38.56283489476713,
+      "top50HP": 54.71598777583837,
+      "text": "10-21.30%, 25-38.56%, 50-54.72%"
+    },
+    "initialPrice": {
+      "price": 0.0000659249,
+      "date": "2025-01-03T15:13:16.343Z"
+    },
+    "highestPrice": {
+      "price": 0.000154442,
+      "date": "2025-01-03T15:19:28.023Z"
+    },
+    "currentPrice": {
+      "price": 0.0000087324,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "GgHk1Enwtt5bvgx9kEEQybQ6Tndo4NNc8cbfgBzHmoon",
+    "url": "https://dexscreener.com/solana/gghk1enwtt5bvgx9keeqybq6tndo4nnc8cbfgbzhmoon",
+    "initialMC": 14684.88,
+    "hpData": {
+      "top10HP": 99.46820765481853,
+      "top25HP": 100,
+      "top50HP": 100,
+      "text": "10-99.47%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000151686983,
+      "date": "2025-01-03T15:22:40.668Z"
+    },
+    "highestPrice": {
+      "price": 0.0000193440062,
+      "date": "2025-01-03T17:43:26.119Z"
+    },
+    "currentPrice": {
+      "price": 0.00000630175711,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "CQVG5F3d8JEhGgwcFY95PX4Ms1tYg2yeu3h5HF7twFin",
+    "url": "https://dexscreener.com/solana/cqvg5f3d8jehggwcfy95px4ms1tyg2yeu3h5hf7twfin",
+    "initialMC": 48511,
+    "hpData": {
+      "top10HP": 16.151568432045725,
+      "top25HP": 33.74046465940981,
+      "top50HP": 52.648138382408526,
+      "text": "10-16.15%, 25-33.74%, 50-52.65%"
+    },
+    "initialPrice": {
+      "price": 0.0000542517,
+      "date": "2025-01-03T15:29:12.566Z"
+    },
+    "highestPrice": {
+      "price": 0.0000994691,
+      "date": "2025-01-03T15:57:05.105Z"
+    },
+    "currentPrice": {
+      "price": 0.00000450114,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "4bGG7aeaJmF7GBZ3mR7UMe4PMgJMUKXzW3GNwsvvhhat",
+    "url": "https://dexscreener.com/solana/4bgg7aeajmf7gbz3mr7ume4pmgjmukxzw3gnwsvvhhat",
+    "initialMC": 199808,
+    "hpData": {
+      "top10HP": 25.351184241515547,
+      "top25HP": 47.17369547536777,
+      "top50HP": 65.02676174650517,
+      "text": "10-25.35%, 25-47.17%, 50-65.03%"
+    },
+    "initialPrice": {
+      "price": 0.000200034,
+      "date": "2025-01-03T15:33:51.675Z"
+    },
+    "highestPrice": {
+      "price": 0.000322565,
+      "date": "2025-01-04T14:49:12.500Z"
+    },
+    "currentPrice": {
+      "price": 0.000182612,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 199808,
+        "price": 0.000199998,
+        "boost": 20,
+        "date": "2025-01-03T15:35:39.105Z"
+      },
+      {
+        "MC": 150060,
+        "price": 0.0001511,
+        "boost": 40,
+        "date": "2025-01-03T19:56:37.952Z"
+      },
+      {
+        "MC": 197819,
+        "price": 0.00019711,
+        "boost": 50,
+        "date": "2025-01-04T09:48:43.259Z"
+      },
+      {
+        "MC": 264949,
+        "price": 0.000264764,
+        "boost": 60,
+        "date": "2025-01-04T21:38:09.802Z"
+      },
+      {
+        "MC": 250835,
+        "price": 0.000247166,
+        "boost": 40,
+        "date": "2025-01-05T06:38:07.250Z"
+      },
+      {
+        "MC": 231279,
+        "price": 0.000234022,
+        "boost": 130,
+        "date": "2025-01-05T11:05:13.725Z"
+      }
+    ]
+  },
+  {
+    "address": "98HiCTmxRUwRaZLGY3vhGYohfVctJvawy6Brm6k9moon",
+    "url": "https://dexscreener.com/solana/98hictmxruwrazlgy3vhgyohfvctjvawy6brm6k9moon",
+    "initialMC": 10755.25,
+    "hpData": {
+      "top10HP": 99.19278449561241,
+      "top25HP": 99.99999999999997,
+      "top50HP": 99.99999999999997,
+      "text": "10-99.19%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.000011120357,
+      "date": "2025-01-03T15:38:02.470Z"
+    },
+    "highestPrice": {
+      "price": 0.0000121015534,
+      "date": "2025-01-03T21:06:19.792Z"
+    },
+    "currentPrice": {
+      "price": 0.00000632582718,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "CTx6YkMUKRdTwCkbdMXKGH9JAVbEQEEEHTNh91Hwmoon",
+    "url": "https://dexscreener.com/solana/ctx6ykmukrdtwckbdmxkgh9javbeqeeehtnh91hwmoon",
+    "initialMC": 29161.07,
+    "hpData": {
+      "top10HP": 70.44313475375515,
+      "top25HP": 91.07705076485182,
+      "top50HP": 99.29936617333543,
+      "text": "10-70.44%, 25-91.08%, 50-99.30%"
+    },
+    "initialPrice": {
+      "price": 0.000029204843,
+      "date": "2025-01-03T15:39:50.820Z"
+    },
+    "highestPrice": {
+      "price": 0.000115533136,
+      "date": "2025-01-03T22:51:22.951Z"
+    },
+    "currentPrice": {
+      "price": 0.00000459901805,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": [
+      {
+        "MC": 97919,
+        "price": 0.000103451275,
+        "boost": 600,
+        "date": "2025-01-03T22:45:40.474Z"
+      }
+    ]
+  },
+  {
+    "address": "7nVQ4vis8AQiESkovprKHnq2n1fw4NVwCXpiBNv5pump",
+    "url": "https://dexscreener.com/solana/7nvq4vis8aqieskovprkhnq2n1fw4nvwcxpibnv5pump",
+    "initialMC": 168190,
+    "hpData": {
+      "top10HP": 71.1989456529464,
+      "top25HP": 84.16875917893537,
+      "top50HP": 85.43392655945917,
+      "text": "10-71.20%, 25-84.17%, 50-85.43%"
+    },
+    "initialPrice": {
+      "price": 0.00016991,
+      "date": "2025-01-03T15:42:49.132Z"
+    },
+    "highestPrice": {
+      "price": 0.00024725,
+      "date": "2025-01-04T13:21:33.417Z"
+    },
+    "currentPrice": {
+      "price": 0.000179173,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 150,
+    "history": [
+      {
+        "MC": 239846,
+        "price": 0.000240084,
+        "boost": 30,
+        "date": "2025-01-04T09:39:28.401Z"
+      },
+      {
+        "MC": 165689,
+        "price": 0.000184169,
+        "boost": 100,
+        "date": "2025-01-05T09:31:38.174Z"
+      },
+      {
+        "MC": 196130,
+        "price": 0.000196341,
+        "boost": 250,
+        "date": "2025-01-05T11:50:39.302Z"
+      },
+      {
+        "MC": 200810,
+        "price": 0.000200915,
+        "boost": 300,
+        "date": "2025-01-05T16:08:06.284Z"
+      },
+      {
+        "MC": 174999,
+        "price": 0.000174841,
+        "boost": 400,
+        "date": "2025-01-05T16:33:58.252Z"
+      },
+      {
+        "MC": 174999,
+        "price": 0.000174841,
+        "boost": 400,
+        "date": "2025-01-05T16:33:58.252Z"
+      },
+      {
+        "MC": 174999,
+        "price": 0.000174921,
+        "boost": 500,
+        "date": "2025-01-05T16:34:31.468Z"
+      }
+    ]
+  },
+  {
+    "address": "8iXF6i3huvtCTa4PQNGo2MnqCFLgsd2cCrSdXS7krog",
+    "url": "https://dexscreener.com/solana/8ixf6i3huvtcta4pqngo2mnqcflgsd2ccrsdxs7krog",
+    "initialMC": 20431,
+    "hpData": {
+      "top10HP": 18.8792077252966,
+      "top25HP": 38.024503775476695,
+      "top50HP": 59.91713617411719,
+      "text": "10-18.88%, 25-38.02%, 50-59.92%"
+    },
+    "initialPrice": {
+      "price": 0.0000155984,
+      "date": "2025-01-03T15:43:25.653Z"
+    },
+    "highestPrice": {
+      "price": 0.0000437144,
+      "date": "2025-01-03T17:25:43.023Z"
+    },
+    "currentPrice": {
+      "price": 0.00000118755,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "7BR6YQupV2STMYpVwCmSpxCfgEfvJvACj1QXUrNYRAUD",
+    "url": "https://dexscreener.com/solana/7br6yqupv2stmypvwcmspxcfgefvjvacj1qxurnyraud",
+    "initialMC": 200816,
+    "hpData": {
+      "top10HP": 17.486014969459873,
+      "top25HP": 34.765997705023494,
+      "top50HP": 54.305081978890854,
+      "text": "10-17.49%, 25-34.77%, 50-54.31%"
+    },
+    "initialPrice": {
+      "price": 0.000201037,
+      "date": "2025-01-03T15:44:02.824Z"
+    },
+    "highestPrice": {
+      "price": 0.000202588,
+      "date": "2025-01-03T15:52:01.154Z"
+    },
+    "currentPrice": {
+      "price": 0.000160982,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "Aj4CcLfQkHFEJD3LVApyRctQPZaFAkUzYiztDeHeMmnF",
+    "url": "https://dexscreener.com/solana/aj4cclfqkhfejd3lvapyrctqpzafakuzyiztdehemmnf",
+    "initialMC": 56849,
+    "hpData": {
+      "top10HP": 18.04726514582177,
+      "top25HP": 30.229453477697703,
+      "top50HP": 41.846008588478284,
+      "text": "10-18.05%, 25-30.23%, 50-41.85%"
+    },
+    "initialPrice": {
+      "price": 0.0000569136,
+      "date": "2025-01-03T15:53:28.154Z"
+    },
+    "highestPrice": {
+      "price": 0.0000918235,
+      "date": "2025-01-03T16:47:35.543Z"
+    },
+    "currentPrice": {
+      "price": 0.0000291082,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 56849,
+        "price": 0.0000569518,
+        "boost": 40,
+        "date": "2025-01-03T15:54:31.956Z"
+      }
+    ]
+  },
+  {
+    "address": "A3Pt3ahWrRLRsSgLuWEHTcv3sBjj6hLcsFnhjXHCCxy7",
+    "url": "https://dexscreener.com/solana/a3pt3ahwrrlrssgluwehtcv3sbjj6hlcsfnhjxhccxy7",
+    "initialMC": 7383,
+    "hpData": {
+      "top10HP": 33.47061786668193,
+      "top25HP": 56.25420628847547,
+      "top50HP": 71.1529996538105,
+      "text": "10-33.47%, 25-56.25%, 50-71.15%"
+    },
+    "initialPrice": {
+      "price": 0.00000738778581,
+      "date": "2025-01-03T15:54:32.592Z"
+    },
+    "highestPrice": {
+      "price": 0.00000870270837,
+      "date": "2025-01-03T18:21:13.308Z"
+    },
+    "currentPrice": {
+      "price": 7.39212648e-7,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "6Mk8wxizQGE5cCu6uJWNDoL74upgzMsjd2mPSjEzpump",
+    "url": "https://dexscreener.com/solana/6mk8wxizqge5ccu6ujwndol74upgzmsjd2mpsjezpump",
+    "initialMC": 8820,
+    "hpData": {
+      "top10HP": 22.490051443628882,
+      "top25HP": 30.41787325237152,
+      "top50HP": 33.82222976722597,
+      "text": "10-22.49%, 25-30.42%, 50-33.82%"
+    },
+    "initialPrice": {
+      "price": 0.00000899407,
+      "date": "2025-01-03T15:56:13.612Z"
+    },
+    "highestPrice": {
+      "price": 0.000012362,
+      "date": "2025-01-03T16:02:08.301Z"
+    },
+    "currentPrice": {
+      "price": 0.00000834476,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "3xfabUTtSoFDf2T4ayKhBqrGC6z7vt5awpp8acUKmoon",
+    "url": "https://dexscreener.com/solana/3xfabuttsofdf2t4aykhbqrgc6z7vt5awpp8acukmoon",
+    "initialMC": 6166.2,
+    "hpData": {
+      "top10HP": 100,
+      "top25HP": 100,
+      "top50HP": 100,
+      "text": "10-100.00%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.00000646488794,
+      "date": "2025-01-03T15:56:49.688Z"
+    },
+    "highestPrice": {
+      "price": 0.00000660938439,
+      "date": "2025-01-03T16:40:02.812Z"
+    },
+    "currentPrice": {
+      "price": 0.00000625146106,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "5KqVYSTopR8obDFwCJuoaw6ysLXDma1b5xKBf1BMMNKb",
+    "url": "https://dexscreener.com/solana/5kqvystopr8obdfwcjuoaw6yslxdma1b5xkbf1bmmnkb",
+    "initialMC": 99210,
+    "hpData": {
+      "top10HP": 13.976853624276862,
+      "top25HP": 28.19225129841235,
+      "top50HP": 48.11313046573809,
+      "text": "10-13.98%, 25-28.19%, 50-48.11%"
+    },
+    "initialPrice": {
+      "price": 0.000920102,
+      "date": "2025-01-03T15:59:06.453Z"
+    },
+    "highestPrice": {
+      "price": 0.00109764,
+      "date": "2025-01-03T16:19:45.478Z"
+    },
+    "currentPrice": {
+      "price": 0.0000150205,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "5D8gLx2sjyZitev4vccp1pBjSe63DzSkE1ptuNEjpump",
+    "url": "https://dexscreener.com/solana/5d8glx2sjyzitev4vccp1pbjse63dzske1ptunejpump",
+    "initialMC": 74498,
+    "hpData": {
+      "top10HP": 25.652102549350523,
+      "top25HP": 43.622561115303164,
+      "top50HP": 57.85123146719388,
+      "text": "10-25.65%, 25-43.62%, 50-57.85%"
+    },
+    "initialPrice": {
+      "price": 0.0000868911,
+      "date": "2025-01-03T16:00:55.209Z"
+    },
+    "highestPrice": {
+      "price": 0.000105039,
+      "date": "2025-01-03T16:04:37.835Z"
+    },
+    "currentPrice": {
+      "price": 0.000010632,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "138mxhGnStDVuPcq3NKWsr75pzdm1g82GYpShfrApump",
+    "url": "https://dexscreener.com/solana/138mxhgnstdvupcq3nkwsr75pzdm1g82gypshfrapump",
+    "initialMC": 239581,
+    "hpData": {
+      "top10HP": 13.728096820794292,
+      "top25HP": 24.92866144539306,
+      "top50HP": 38.856274232419175,
+      "text": "10-13.73%, 25-24.93%, 50-38.86%"
+    },
+    "initialPrice": {
+      "price": 0.000225576,
+      "date": "2025-01-03T16:01:31.637Z"
+    },
+    "highestPrice": {
+      "price": 0.000306915,
+      "date": "2025-01-03T16:09:42.215Z"
+    },
+    "currentPrice": {
+      "price": 0.0000623749,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "CK7UwtyYTo4CmBohCF9RhF6mCNDxnLMcZsCqouP9pump",
+    "url": "https://dexscreener.com/solana/ck7uwtyyto4cmbohcf9rhf6mcndxnlmczscqoup9pump",
+    "initialMC": 279692,
+    "hpData": {
+      "top10HP": 17.7516130170116,
+      "top25HP": 30.134075243674722,
+      "top50HP": 41.95786580910648,
+      "text": "10-17.75%, 25-30.13%, 50-41.96%"
+    },
+    "initialPrice": {
+      "price": 0.000282799,
+      "date": "2025-01-03T16:05:10.048Z"
+    },
+    "highestPrice": {
+      "price": 0.000299219,
+      "date": "2025-01-03T23:40:20.119Z"
+    },
+    "currentPrice": {
+      "price": 0.000250805,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "4FYVWuTjgmGoW4Un6yYUJSuPnUor6tHrNiMFMBd7pump",
+    "url": "https://dexscreener.com/solana/4fyvwutjgmgow4un6yyujsupnuor6thrnimfmbd7pump",
+    "initialMC": 107661,
+    "hpData": {
+      "top10HP": 26.85107848067802,
+      "top25HP": 51.126496563726526,
+      "top50HP": 69.19398513499867,
+      "text": "10-26.85%, 25-51.13%, 50-69.19%"
+    },
+    "initialPrice": {
+      "price": 0.000107524,
+      "date": "2025-01-03T16:09:12.740Z"
+    },
+    "highestPrice": {
+      "price": 0.000126197,
+      "date": "2025-01-03T20:20:25.681Z"
+    },
+    "currentPrice": {
+      "price": 0.0000382448,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 115408,
+        "price": 0.000118519,
+        "boost": 510,
+        "date": "2025-01-03T17:00:13.934Z"
+      },
+      {
+        "MC": 113294,
+        "price": 0.000113325,
+        "boost": 520,
+        "date": "2025-01-03T17:19:09.491Z"
+      },
+      {
+        "MC": 113294,
+        "price": 0.000113325,
+        "boost": 520,
+        "date": "2025-01-03T17:19:09.491Z"
+      },
+      {
+        "MC": 72292,
+        "price": 0.0000805911,
+        "boost": 530,
+        "date": "2025-01-03T18:36:35.085Z"
+      },
+      {
+        "MC": 86182,
+        "price": 0.0000859226,
+        "boost": 540,
+        "date": "2025-01-03T19:12:21.284Z"
+      },
+      {
+        "MC": 87477,
+        "price": 0.0000862007,
+        "boost": 550,
+        "date": "2025-01-03T19:27:47.230Z"
+      },
+      {
+        "MC": 74480,
+        "price": 0.0000744083,
+        "boost": 560,
+        "date": "2025-01-03T23:27:42.257Z"
+      }
+    ]
+  },
+  {
+    "address": "jimBqijNp9yZwgMmxFaLECr5rFypPGZQNEqL9YU4UjT",
+    "url": "https://dexscreener.com/solana/jimbqijnp9yzwgmmxfalecr5rfyppgzqneql9yu4ujt",
+    "initialMC": 1811602,
+    "hpData": {
+      "top10HP": 44.50743148518529,
+      "top25HP": 56.251473402734035,
+      "top50HP": 67.90295707348201,
+      "text": "10-44.51%, 25-56.25%, 50-67.90%"
+    },
+    "initialPrice": {
+      "price": 0.00180719,
+      "date": "2025-01-03T16:12:14.144Z"
+    },
+    "highestPrice": {
+      "price": 0.0075611,
+      "date": "2025-01-04T20:48:08.678Z"
+    },
+    "currentPrice": {
+      "price": 0.00439601,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "E7vih47WnrJqzr1cYECkPMzqQUtW7H813Y3gaB6ppump",
+    "url": "https://dexscreener.com/solana/e7vih47wnrjqzr1cyeckpmzqqutw7h813y3gab6ppump",
+    "initialMC": 427885,
+    "hpData": {
+      "top10HP": 27.296393988352023,
+      "top25HP": 49.44558798461559,
+      "top50HP": 75.2256774267445,
+      "text": "10-27.30%, 25-49.45%, 50-75.23%"
+    },
+    "initialPrice": {
+      "price": 0.000411696,
+      "date": "2025-01-03T16:13:55.557Z"
+    },
+    "highestPrice": {
+      "price": 0.000803941,
+      "date": "2025-01-03T16:55:33.105Z"
+    },
+    "currentPrice": {
+      "price": 0.00000643077,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 1500,
+    "history": []
+  },
+  {
+    "address": "82Zc6NAP3yWb6SHQAHiTCRraaavmDXSKDBdhp62Rpump",
+    "url": "https://dexscreener.com/solana/82zc6nap3ywb6shqahitcrraaavmdxskdbdhp62rpump",
+    "initialMC": 60254,
+    "hpData": {
+      "top10HP": 28.86023282068456,
+      "top25HP": 46.49413136566085,
+      "top50HP": 61.11206704831057,
+      "text": "10-28.86%, 25-46.49%, 50-61.11%"
+    },
+    "initialPrice": {
+      "price": 0.000059987,
+      "date": "2025-01-03T16:20:58.087Z"
+    },
+    "highestPrice": {
+      "price": 0.0000680803,
+      "date": "2025-01-03T16:24:53.130Z"
+    },
+    "currentPrice": {
+      "price": 0.00000986542,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 20,
+    "history": []
+  },
+  {
+    "address": "G9FwFW4KzzNGzA18BgWXxmiXfhFTEjdKHCt6bGWKpump",
+    "url": "https://dexscreener.com/solana/g9fwfw4kzzngza18bgwxxmixfhftejdkhct6bgwkpump",
+    "initialMC": 412064,
+    "hpData": {
+      "top10HP": 16.052749865577695,
+      "top25HP": 28.60892966155881,
+      "top50HP": 41.37987618759344,
+      "text": "10-16.05%, 25-28.61%, 50-41.38%"
+    },
+    "initialPrice": {
+      "price": 0.000414139,
+      "date": "2025-01-03T16:21:00.496Z"
+    },
+    "highestPrice": {
+      "price": 0.00081432,
+      "date": "2025-01-04T09:05:14.351Z"
+    },
+    "currentPrice": {
+      "price": 0.000423094,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 403367,
+        "price": 0.00039718,
+        "boost": 40,
+        "date": "2025-01-03T16:39:05.105Z"
+      },
+      {
+        "MC": 407471,
+        "price": 0.000412222,
+        "boost": 50,
+        "date": "2025-01-03T17:12:34.060Z"
+      },
+      {
+        "MC": 494715,
+        "price": 0.00048561,
+        "boost": 60,
+        "date": "2025-01-03T18:29:26.238Z"
+      }
+    ]
+  },
+  {
+    "address": "6unP2xJGDBDBWYU6ZczWm7gFHqq8v9bzxnMYsadcD3BL",
+    "url": "https://dexscreener.com/solana/6unp2xjgdbdbwyu6zczwm7gfhqq8v9bzxnmysadcd3bl",
+    "initialMC": 4141,
+    "hpData": {
+      "top10HP": 98.82455186865478,
+      "top25HP": 99.99991822281194,
+      "top50HP": 100.00000000000001,
+      "text": "10-98.82%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.00000294220848,
+      "date": "2025-01-03T16:21:00.785Z"
+    },
+    "highestPrice": {
+      "price": 5071156.485706304,
+      "date": "2025-01-03T16:55:33.105Z"
+    },
+    "currentPrice": {
+      "price": 0.00291858354,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "2gnGkpQfM7mQjkY7VjQqD6bEa84tA5EqqYHr5ccNpump",
+    "url": "https://dexscreener.com/solana/2gngkpqfm7mqjky7vjqqd6bea84ta5eqqyhr5ccnpump",
+    "initialMC": 715708,
+    "hpData": {
+      "top10HP": 16.299703823084016,
+      "top25HP": 28.274052897326502,
+      "top50HP": 38.95467824050989,
+      "text": "10-16.30%, 25-28.27%, 50-38.95%"
+    },
+    "initialPrice": {
+      "price": 0.000612979,
+      "date": "2025-01-03T16:24:29.327Z"
+    },
+    "highestPrice": {
+      "price": 0.000868414,
+      "date": "2025-01-03T20:30:50.304Z"
+    },
+    "currentPrice": {
+      "price": 0.000369316,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "5d1qPzxA5ypLCySX7HATjh6Jwjc74t279T4r4t3ipump",
+    "url": "https://dexscreener.com/solana/5d1qpzxa5yplcysx7hatjh6jwjc74t279t4r4t3ipump",
+    "initialMC": 84292,
+    "hpData": {
+      "top10HP": 21.183086328216884,
+      "top25HP": 39.83297905241296,
+      "top50HP": 55.13957032497538,
+      "text": "10-21.18%, 25-39.83%, 50-55.14%"
+    },
+    "initialPrice": {
+      "price": 0.0000847881,
+      "date": "2025-01-03T16:24:30.502Z"
+    },
+    "highestPrice": {
+      "price": 0.000122674,
+      "date": "2025-01-05T18:03:42.683Z"
+    },
+    "currentPrice": {
+      "price": 0.0000953117,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "Ae4G3HTJ4UhGsNdgZfxVNKHpLbrgpzX7XJzKU9LbGeNX",
+    "url": "https://dexscreener.com/solana/ae4g3htj4uhgsndgzfxvnkhplbrgpzx7xjzku9lbgenx",
+    "initialMC": 433990,
+    "hpData": {
+      "top10HP": 7.9163571822301,
+      "top25HP": 12.909738298270694,
+      "top50HP": 16.987734898785188,
+      "text": "10-7.92%, 25-12.91%, 50-16.99%"
+    },
+    "initialPrice": {
+      "price": 0.000435533,
+      "date": "2025-01-03T16:28:03.851Z"
+    },
+    "highestPrice": {
+      "price": 0.00315956,
+      "date": "2025-01-04T15:44:02.945Z"
+    },
+    "currentPrice": {
+      "price": 0.000308574,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 1000,
+    "history": [
+      {
+        "MC": 428189,
+        "price": 0.000379833,
+        "boost": 1500,
+        "date": "2025-01-03T16:46:44.785Z"
+      },
+      {
+        "MC": 428189,
+        "price": 0.000379833,
+        "boost": 1500,
+        "date": "2025-01-03T16:46:44.785Z"
+      },
+      {
+        "MC": 385463,
+        "price": 0.000410351,
+        "boost": 2500,
+        "date": "2025-01-03T16:47:56.925Z"
+      },
+      {
+        "MC": 385463,
+        "price": 0.000410351,
+        "boost": 2500,
+        "date": "2025-01-03T16:47:56.925Z"
+      },
+      {
+        "MC": 406542,
+        "price": 0.000423444,
+        "boost": 3000,
+        "date": "2025-01-03T16:51:55.906Z"
+      },
+      {
+        "MC": 406542,
+        "price": 0.000423444,
+        "boost": 3000,
+        "date": "2025-01-03T16:51:55.906Z"
+      },
+      {
+        "MC": 406542,
+        "price": 0.000423444,
+        "boost": 3000,
+        "date": "2025-01-03T16:51:55.906Z"
+      },
+      {
+        "MC": 406542,
+        "price": 0.000423444,
+        "boost": 3000,
+        "date": "2025-01-03T16:51:55.906Z"
+      },
+      {
+        "MC": 406542,
+        "price": 0.000423444,
+        "boost": 3000,
+        "date": "2025-01-03T16:51:55.906Z"
+      },
+      {
+        "MC": 406542,
+        "price": 0.000423444,
+        "boost": 3000,
+        "date": "2025-01-03T16:51:55.906Z"
+      },
+      {
+        "MC": 371420,
+        "price": 0.000363793,
+        "boost": 3500,
+        "date": "2025-01-03T19:04:09.133Z"
+      },
+      {
+        "MC": 374745,
+        "price": 0.000395524,
+        "boost": 4000,
+        "date": "2025-01-03T19:07:03.881Z"
+      },
+      {
+        "MC": 374745,
+        "price": 0.000395524,
+        "boost": 4000,
+        "date": "2025-01-03T19:07:03.881Z"
+      },
+      {
+        "MC": 973567,
+        "price": 0.000998668,
+        "boost": 4500,
+        "date": "2025-01-04T01:22:30.777Z"
+      },
+      {
+        "MC": 1599269,
+        "price": 0.00162422,
+        "boost": 5500,
+        "date": "2025-01-04T13:28:05.178Z"
+      },
+      {
+        "MC": 1599269,
+        "price": 0.00162422,
+        "boost": 5500,
+        "date": "2025-01-04T13:28:05.178Z"
+      },
+      {
+        "MC": 1599269,
+        "price": 0.00162422,
+        "boost": 5500,
+        "date": "2025-01-04T13:28:05.178Z"
+      },
+      {
+        "MC": 1655642,
+        "price": 0.00164772,
+        "boost": 6000,
+        "date": "2025-01-04T13:29:19.314Z"
+      },
+      {
+        "MC": 1655642,
+        "price": 0.00164772,
+        "boost": 6000,
+        "date": "2025-01-04T13:29:19.314Z"
+      },
+      {
+        "MC": 1655642,
+        "price": 0.00164772,
+        "boost": 6000,
+        "date": "2025-01-04T13:29:19.314Z"
+      },
+      {
+        "MC": 1754387,
+        "price": 0.00181361,
+        "boost": 6500,
+        "date": "2025-01-04T14:08:10.544Z"
+      },
+      {
+        "MC": 1754387,
+        "price": 0.00181361,
+        "boost": 6500,
+        "date": "2025-01-04T14:08:10.545Z"
+      },
+      {
+        "MC": 1754387,
+        "price": 0.00181361,
+        "boost": 6500,
+        "date": "2025-01-04T14:08:10.545Z"
+      },
+      {
+        "MC": 1754387,
+        "price": 0.00181361,
+        "boost": 6500,
+        "date": "2025-01-04T14:08:10.545Z"
+      }
+    ]
+  },
+  {
+    "address": "9he843sgdveqe2f38PE19sRFemZQATvbEPZNYU59pump",
+    "url": "https://dexscreener.com/solana/9he843sgdveqe2f38pe19srfemzqatvbepznyu59pump",
+    "initialMC": 395658,
+    "hpData": {
+      "top10HP": 70.66662359254275,
+      "top25HP": 84.93273216863093,
+      "top50HP": 88.03192612953613,
+      "text": "10-70.67%, 25-84.93%, 50-88.03%"
+    },
+    "initialPrice": {
+      "price": 0.00039488,
+      "date": "2025-01-03T16:29:44.642Z"
+    },
+    "highestPrice": {
+      "price": 0.00262975,
+      "date": "2025-01-04T21:54:36.880Z"
+    },
+    "currentPrice": {
+      "price": 0.00155191,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "EsaHcvuqeg8eJ5rAkuF4An8JUAJRin5fbSXQdBBZmoon",
+    "url": "https://dexscreener.com/solana/esahcvuqeg8ej5rakuf4an8juajrin5fbsxqdbbzmoon",
+    "initialMC": 7014.49,
+    "hpData": {
+      "top10HP": 100.00000000000001,
+      "top25HP": 100.00000000000001,
+      "top50HP": 100.00000000000001,
+      "text": "10-100.00%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.00000729471448,
+      "date": "2025-01-03T16:29:45.695Z"
+    },
+    "highestPrice": {
+      "price": 0.00000734993626,
+      "date": "2025-01-03T16:35:00.512Z"
+    },
+    "currentPrice": {
+      "price": 0.00000625141324,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "m944unFLjPw5fWL6QJoZg4qBWuJJACNuh9XFYYUpump",
+    "url": "https://dexscreener.com/solana/m944unfljpw5fwl6qjozg4qbwujjacnuh9xfyyupump",
+    "initialMC": 73340,
+    "hpData": {
+      "top10HP": 33.4950556019571,
+      "top25HP": 44.52694938245824,
+      "top50HP": 51.43265391877654,
+      "text": "10-33.50%, 25-44.53%, 50-51.43%"
+    },
+    "initialPrice": {
+      "price": 0.0000739533,
+      "date": "2025-01-03T16:38:01.213Z"
+    },
+    "highestPrice": {
+      "price": 0.0000819478,
+      "date": "2025-01-05T06:21:29.437Z"
+    },
+    "currentPrice": {
+      "price": 0.0000488544,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "YQHfsdRNFjEw7g56wdm8qWw52jNdKKc9zJVzP5U5a2h",
+    "url": "https://dexscreener.com/solana/yqhfsdrnfjew7g56wdm8qww52jndkkc9zjvzp5u5a2h",
+    "initialMC": 318549,
+    "hpData": {
+      "top10HP": 33.342133685358704,
+      "top25HP": 51.48625204358429,
+      "top50HP": 69.92991397883101,
+      "text": "10-33.34%, 25-51.49%, 50-69.93%"
+    },
+    "initialPrice": {
+      "price": 0.0000321532,
+      "date": "2025-01-03T16:40:54.394Z"
+    },
+    "highestPrice": {
+      "price": 0.0000322661,
+      "date": "2025-01-03T16:42:34.377Z"
+    },
+    "currentPrice": {
+      "price": 0.0000101831,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "B2wzjjSwaiycYA3ijwCSP8Lnm2Dv7fq4jnK4X9VUpump",
+    "url": "https://dexscreener.com/solana/b2wzjjswaiycya3ijwcsp8lnm2dv7fq4jnk4x9vupump",
+    "initialMC": 30221,
+    "hpData": {
+      "top10HP": 26.143200869688343,
+      "top25HP": 40.57811769152055,
+      "top50HP": 49.12619757690263,
+      "text": "10-26.14%, 25-40.58%, 50-49.13%"
+    },
+    "initialPrice": {
+      "price": 0.0000301869,
+      "date": "2025-01-03T16:43:18.507Z"
+    },
+    "highestPrice": {
+      "price": 0.0000324768,
+      "date": "2025-01-03T17:48:27.671Z"
+    },
+    "currentPrice": {
+      "price": 0.0000172457,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 28895,
+        "price": 0.0000271349,
+        "boost": 20,
+        "date": "2025-01-05T01:51:39.467Z"
+      }
+    ]
+  },
+  {
+    "address": "93LEVqNkwqv1x9jNW2CcYZ6PjvVvroiFtSmAUsoopump",
+    "url": "https://dexscreener.com/solana/93levqnkwqv1x9jnw2ccyz6pjvvvroiftsmausoopump",
+    "initialMC": 44419,
+    "hpData": {
+      "top10HP": 22.780390304758193,
+      "top25HP": 36.72317534106656,
+      "top50HP": 48.301628912551486,
+      "text": "10-22.78%, 25-36.72%, 50-48.30%"
+    },
+    "initialPrice": {
+      "price": 0.0000433675,
+      "date": "2025-01-03T16:53:10.593Z"
+    },
+    "highestPrice": {
+      "price": 0.000171841,
+      "date": "2025-01-03T18:51:37.412Z"
+    },
+    "currentPrice": {
+      "price": 0.00010945,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 124485,
+        "price": 0.000124173,
+        "boost": 20,
+        "date": "2025-01-04T22:17:34.406Z"
+      }
+    ]
+  },
+  {
+    "address": "etiPjszLZ9nJttfHGxBMEbNJWCacLvvyiCjK86Rpump",
+    "url": "https://dexscreener.com/solana/etipjszlz9njttfhgxbmebnjwcaclvvyicjk86rpump",
+    "initialMC": 153308,
+    "hpData": {
+      "top10HP": 22.81233616764493,
+      "top25HP": 37.88666355431307,
+      "top50HP": 51.25074037484926,
+      "text": "10-22.81%, 25-37.89%, 50-51.25%"
+    },
+    "initialPrice": {
+      "price": 0.00016067,
+      "date": "2025-01-03T16:57:14.697Z"
+    },
+    "highestPrice": {
+      "price": 0.000175521,
+      "date": "2025-01-03T21:23:23.706Z"
+    },
+    "currentPrice": {
+      "price": 0.0000630975,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 20,
+    "history": []
+  },
+  {
+    "address": "956PZRQvGDsEe9PtdRRYtKT3LaYmtcwJAW87ajqimoon",
+    "url": "https://dexscreener.com/solana/956pzrqvgdsee9ptdrrytkt3laymtcwjaw87ajqimoon",
+    "initialMC": 16340,
+    "hpData": {
+      "top10HP": 30.431803870741547,
+      "top25HP": 46.97113493792127,
+      "top50HP": 52.81381502801681,
+      "text": "10-30.43%, 25-46.97%, 50-52.81%"
+    },
+    "initialPrice": {
+      "price": 0.0000167144101,
+      "date": "2025-01-03T16:58:27.729Z"
+    },
+    "highestPrice": {
+      "price": 0.0000199713325,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "currentPrice": {
+      "price": 0.0000199713325,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "9HFZnR65MTY6kfcyqmUrgSkbENKviW63C9no7ho4pump",
+    "url": "https://dexscreener.com/solana/9hfznr65mty6kfcyqmurgskbenkviw63c9no7ho4pump",
+    "initialMC": 49961,
+    "hpData": {
+      "top10HP": 25.15486550086854,
+      "top25HP": 57.18514594092803,
+      "top50HP": 83.56735778270907,
+      "text": "10-25.15%, 25-57.19%, 50-83.57%"
+    },
+    "initialPrice": {
+      "price": 0.0000482974259,
+      "date": "2025-01-03T17:00:14.537Z"
+    },
+    "highestPrice": {
+      "price": 0.000330023682,
+      "date": "2025-01-03T18:38:46.188Z"
+    },
+    "currentPrice": {
+      "price": 0.0000128010763,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "4XJGLbo4vLWMHqAD28G1ao4L4xijNyfWHBSUFhhxpump",
+    "url": "https://dexscreener.com/solana/4xjglbo4vlwmhqad28g1ao4l4xijnyfwhbsufhhxpump",
+    "initialMC": 78911,
+    "hpData": {
+      "top10HP": 16.81267636406556,
+      "top25HP": 26.919830665970522,
+      "top50HP": 37.14857039794764,
+      "text": "10-16.81%, 25-26.92%, 50-37.15%"
+    },
+    "initialPrice": {
+      "price": 0.0000784468,
+      "date": "2025-01-03T17:06:08.212Z"
+    },
+    "highestPrice": {
+      "price": 0.0000897589,
+      "date": "2025-01-03T17:23:13.340Z"
+    },
+    "currentPrice": {
+      "price": 0.0000193607,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "5DBF4TVGKKcFj17PafAJCrhrCU5MmwLsuavbZLyPorut",
+    "url": "https://dexscreener.com/solana/5dbf4tvgkkcfj17pafajcrhrcu5mmwlsuavbzlyporut",
+    "initialMC": 454329,
+    "hpData": {
+      "top10HP": 27.62474525722298,
+      "top25HP": 47.444148019088814,
+      "top50HP": 64.54946960812681,
+      "text": "10-27.62%, 25-47.44%, 50-64.55%"
+    },
+    "initialPrice": {
+      "price": 0.000531069145,
+      "date": "2025-01-03T17:06:37.556Z"
+    },
+    "highestPrice": {
+      "price": 0.00078288145,
+      "date": "2025-01-03T18:28:43.407Z"
+    },
+    "currentPrice": {
+      "price": 0.0000443083903,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "GFMUruTvtUHUbuaNrFPSyxMAyPUSDLptiwgy7nRLYCYB",
+    "url": "https://dexscreener.com/solana/gfmurutvtuhubuanrfpsyxmaypusdlptiwgy7nrlycyb",
+    "initialMC": 6683,
+    "hpData": {
+      "top10HP": 12.684487398471575,
+      "top25HP": 13.71430524370123,
+      "top50HP": 13.717324942243227,
+      "text": "10-12.68%, 25-13.71%, 50-13.72%"
+    },
+    "initialPrice": {
+      "price": 0.00000676582443,
+      "date": "2025-01-03T17:07:49.022Z"
+    },
+    "highestPrice": {
+      "price": 0.0000209666716,
+      "date": "2025-01-03T17:23:13.340Z"
+    },
+    "currentPrice": {
+      "price": 0.00000111517691,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "6XFudZ7DDQq633Wad8cQmV7vTN5SdkE82GG6JDUzpump",
+    "url": "https://dexscreener.com/solana/6xfudz7ddqq633wad8cqmv7vtn5sdke82gg6jduzpump",
+    "initialMC": 384851,
+    "hpData": {
+      "top10HP": 19.877760190284025,
+      "top25HP": 31.47078979501321,
+      "top50HP": 43.44426216493737,
+      "text": "10-19.88%, 25-31.47%, 50-43.44%"
+    },
+    "initialPrice": {
+      "price": 0.000385394,
+      "date": "2025-01-03T17:14:23.253Z"
+    },
+    "highestPrice": {
+      "price": 0.0033519,
+      "date": "2025-01-05T20:21:51.799Z"
+    },
+    "currentPrice": {
+      "price": 0.00259171,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "D9yBhcQ2eSk2xBXKRYJYsYdKt9ATiA15paYUrc5Lmoon",
+    "url": "https://dexscreener.com/solana/d9ybhcq2esk2xbxkryjysydkt9atia15payurc5lmoon",
+    "initialMC": 59104.92,
+    "hpData": {
+      "top10HP": 78.22289002755204,
+      "top25HP": 99.78280080127169,
+      "top50HP": 100.00000000000001,
+      "text": "10-78.22%, 25-99.78%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000602850207,
+      "date": "2025-01-03T17:17:21.979Z"
+    },
+    "highestPrice": {
+      "price": 0.0000803547943,
+      "date": "2025-01-03T20:20:25.681Z"
+    },
+    "currentPrice": {
+      "price": 0.000006577838,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 50,
+    "history": [
+      {
+        "MC": 61888.95,
+        "price": 0.0000618891413,
+        "boost": 100,
+        "date": "2025-01-03T17:22:43.788Z"
+      }
+    ]
+  },
+  {
+    "address": "Hb8yCsZquENJdxNoFLLuG62xE5TX37QfeRv9GH5Emoon",
+    "url": "https://dexscreener.com/solana/hb8ycszquenjdxnofllug62xe5tx37qferv9gh5emoon",
+    "initialMC": 6164.91,
+    "hpData": {
+      "top10HP": 100,
+      "top25HP": 100,
+      "top50HP": 100,
+      "text": "10-100.00%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.00000643256422,
+      "date": "2025-01-03T17:20:57.521Z"
+    },
+    "highestPrice": {
+      "price": 0.00000648313909,
+      "date": "2025-01-03T18:46:27.027Z"
+    },
+    "currentPrice": {
+      "price": 0.00000627307046,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "6fejGoLKn3eqxP6fssPce2HfrqrR6dfAdXgBDRcFpump",
+    "url": "https://dexscreener.com/solana/6fejgolkn3eqxp6fsspce2hfrqrr6dfadxgbdrcfpump",
+    "initialMC": 479599,
+    "hpData": {
+      "top10HP": 16.609748062819406,
+      "top25HP": 27.229852825756392,
+      "top50HP": 35.81502666576508,
+      "text": "10-16.61%, 25-27.23%, 50-35.82%"
+    },
+    "initialPrice": {
+      "price": 0.000482038,
+      "date": "2025-01-03T17:32:12.164Z"
+    },
+    "highestPrice": {
+      "price": 0.00062495,
+      "date": "2025-01-04T17:21:49.301Z"
+    },
+    "currentPrice": {
+      "price": 0.000115104,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 40,
+    "history": [
+      {
+        "MC": 370702,
+        "price": 0.000366645,
+        "boost": 10,
+        "date": "2025-01-04T18:39:15.308Z"
+      }
+    ]
+  },
+  {
+    "address": "7rJp1KhptfCXd6K46bQzaGRYYUboyPE1u6fzEYBKffZB",
+    "url": "https://dexscreener.com/solana/7rjp1khptfcxd6k46bqzagryyuboype1u6fzeybkffzb",
+    "initialMC": 1159935,
+    "hpData": {
+      "top10HP": 23.37456442883083,
+      "top25HP": 40.60336337144989,
+      "top50HP": 57.28934227118797,
+      "text": "10-23.37%, 25-40.60%, 50-57.29%"
+    },
+    "initialPrice": {
+      "price": 0.00119561,
+      "date": "2025-01-03T17:32:47.677Z"
+    },
+    "highestPrice": {
+      "price": 0.018944,
+      "date": "2025-01-05T04:57:57.531Z"
+    },
+    "currentPrice": {
+      "price": 0.011724,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "BnMeZw5ifuuc4BZJ7RtUwNWJDAyYnfo4y79eV9msmoon",
+    "url": "https://dexscreener.com/solana/bnmezw5ifuuc4bzj7rtuwnwjdayynfo4y79ev9msmoon",
+    "initialMC": 124900,
+    "hpData": {
+      "top10HP": 41.33365944072226,
+      "top25HP": 41.7067885403054,
+      "top50HP": 41.786384554050244,
+      "text": "10-41.33%, 25-41.71%, 50-41.79%"
+    },
+    "initialPrice": {
+      "price": 0.0000599512735,
+      "date": "2025-01-03T17:36:16.412Z"
+    },
+    "highestPrice": {
+      "price": 0.0000599512735,
+      "date": "2025-01-03T17:36:16.412Z"
+    },
+    "currentPrice": {
+      "price": 0.0000037479478,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "D8bJvhy28yXSezRTZHBeiAZrV2YYMVKNwbpFKn1qpump",
+    "url": "https://dexscreener.com/solana/d8bjvhy28yxsezrtzhbeiazrv2yymvknwbpfkn1qpump",
+    "initialMC": 56017,
+    "hpData": {
+      "top10HP": 8.8790032429402,
+      "top25HP": 19.476925803240402,
+      "top50HP": 34.678537732384605,
+      "text": "10-8.88%, 25-19.48%, 50-34.68%"
+    },
+    "initialPrice": {
+      "price": 0.0000689655,
+      "date": "2025-01-03T17:41:03.220Z"
+    },
+    "highestPrice": {
+      "price": 0.00124285,
+      "date": "2025-01-03T19:14:46.885Z"
+    },
+    "currentPrice": {
+      "price": 0.0000176285,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "ZdAcY4B8emZ2v4XNDPE6vnKyJeoBAFfU2JzAiRopump",
+    "url": "https://dexscreener.com/solana/zdacy4b8emz2v4xndpe6vnkyjeobaffu2jzairopump",
+    "initialMC": 49510,
+    "hpData": {
+      "top10HP": 14.675819967743175,
+      "top25HP": 31.20955173939126,
+      "top50HP": 50.60233632824735,
+      "text": "10-14.68%, 25-31.21%, 50-50.60%"
+    },
+    "initialPrice": {
+      "price": 0.0000526851,
+      "date": "2025-01-03T17:41:03.707Z"
+    },
+    "highestPrice": {
+      "price": 0.0000526851,
+      "date": "2025-01-03T17:41:03.707Z"
+    },
+    "currentPrice": {
+      "price": 0.00000379029,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "Adrcc8NXbaokPqnN2X8unJms6ybzJFBEhXKqgGWDpump",
+    "url": "https://dexscreener.com/solana/adrcc8nxbaokpqnn2x8unjms6ybzjfbehxkqggwdpump",
+    "initialMC": 74568,
+    "hpData": {
+      "top10HP": 14.9528173971768,
+      "top25HP": 33.33332348385405,
+      "top50HP": 55.945147302835984,
+      "text": "10-14.95%, 25-33.33%, 50-55.95%"
+    },
+    "initialPrice": {
+      "price": 0.0000588491,
+      "date": "2025-01-03T17:45:13.173Z"
+    },
+    "highestPrice": {
+      "price": 0.0000636234,
+      "date": "2025-01-03T17:45:56.880Z"
+    },
+    "currentPrice": {
+      "price": 0.0000177011,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "J92p5Synqvr86UnzsozXUzEAcRxxkw34hcUccLTKmoon",
+    "url": "https://dexscreener.com/solana/j92p5synqvr86unzsozxuzeacrxxkw34hcuccltkmoon",
+    "initialMC": 11934.06,
+    "hpData": {
+      "top10HP": 87.91550443853755,
+      "top25HP": 96.0059382151187,
+      "top50HP": 99.65909299987275,
+      "text": "10-87.92%, 25-96.01%, 50-99.66%"
+    },
+    "initialPrice": {
+      "price": 0.0000123332206,
+      "date": "2025-01-03T17:48:12.205Z"
+    },
+    "highestPrice": {
+      "price": 0.000019568872,
+      "date": "2025-01-03T19:24:56.041Z"
+    },
+    "currentPrice": {
+      "price": 0.0000102664581,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "G3EDZoS49NRVKP8X1HggHZJueJeR8d2izUHeXdV3pump",
+    "url": "https://dexscreener.com/solana/g3edzos49nrvkp8x1hgghzjuejer8d2izuhexdv3pump",
+    "initialMC": 1471934,
+    "hpData": {
+      "top10HP": 23.442761447353043,
+      "top25HP": 37.10187278647896,
+      "top50HP": 48.289990609360075,
+      "text": "10-23.44%, 25-37.10%, 50-48.29%"
+    },
+    "initialPrice": {
+      "price": 0.00144753,
+      "date": "2025-01-03T17:49:59.066Z"
+    },
+    "highestPrice": {
+      "price": 0.00265629,
+      "date": "2025-01-03T22:57:23.904Z"
+    },
+    "currentPrice": {
+      "price": 0.0013933,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 1495099,
+        "price": 0.0014878,
+        "boost": 20,
+        "date": "2025-01-03T17:55:51.035Z"
+      },
+      {
+        "MC": 1855758,
+        "price": 0.00186814,
+        "boost": 50,
+        "date": "2025-01-04T04:35:28.508Z"
+      },
+      {
+        "MC": 1549745,
+        "price": 0.0015129,
+        "boost": 30,
+        "date": "2025-01-04T20:41:09.113Z"
+      },
+      {
+        "MC": 1491880,
+        "price": 0.00146991,
+        "boost": 40,
+        "date": "2025-01-04T20:55:23.096Z"
+      },
+      {
+        "MC": 1491880,
+        "price": 0.00146991,
+        "boost": 40,
+        "date": "2025-01-04T20:55:23.096Z"
+      },
+      {
+        "MC": 1502045,
+        "price": 0.00152613,
+        "boost": 540,
+        "date": "2025-01-05T04:34:02.955Z"
+      }
+    ]
+  },
+  {
+    "address": "FWMad1gzugDrifDTxUYFxkAH8SWWSoDT2BfZP8Pnpump",
+    "url": "https://dexscreener.com/solana/fwmad1gzugdrifdtxuyfxkah8swwsodt2bfzp8pnpump",
+    "initialMC": 1133539,
+    "hpData": {
+      "top10HP": 17.248730583474256,
+      "top25HP": 32.04216870712915,
+      "top50HP": 51.06190858864823,
+      "text": "10-17.25%, 25-32.04%, 50-51.06%"
+    },
+    "initialPrice": {
+      "price": 0.00108254,
+      "date": "2025-01-03T17:51:40.806Z"
+    },
+    "highestPrice": {
+      "price": 0.0035312,
+      "date": "2025-01-04T09:54:01.004Z"
+    },
+    "currentPrice": {
+      "price": 0.00203187,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "DueWa5swdDBhjuiQkgEEYx9gmHeGTsZqhTPr35Lwpump",
+    "url": "https://dexscreener.com/solana/duewa5swddbhjuiqkgeeyx9gmhegtszqhtpr35lwpump",
+    "initialMC": 150051,
+    "hpData": {
+      "top10HP": 24.236574907199007,
+      "top25HP": 35.62888047849929,
+      "top50HP": 46.24371946073381,
+      "text": "10-24.24%, 25-35.63%, 50-46.24%"
+    },
+    "initialPrice": {
+      "price": 0.000150963,
+      "date": "2025-01-03T17:55:51.034Z"
+    },
+    "highestPrice": {
+      "price": 0.000327566,
+      "date": "2025-01-04T06:59:13.495Z"
+    },
+    "currentPrice": {
+      "price": 0.000102756,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 20,
+    "history": [
+      {
+        "MC": 239210,
+        "price": 0.000239227,
+        "boost": 10,
+        "date": "2025-01-04T07:37:59.894Z"
+      }
+    ]
+  },
+  {
+    "address": "CDxw9zVsTS8CUaTo1E7cpsGtrdGTL8Y3csXWcD33jwEi",
+    "url": "https://dexscreener.com/solana/cdxw9zvsts8cuato1e7cpsgtrdgtl8y3csxwcd33jwei",
+    "initialMC": 50070,
+    "hpData": {
+      "top10HP": 26.32542170822419,
+      "top25HP": 49.20875312781939,
+      "top50HP": 65.38010555446651,
+      "text": "10-26.33%, 25-49.21%, 50-65.38%"
+    },
+    "initialPrice": {
+      "price": 0.0000626164,
+      "date": "2025-01-03T17:58:07.535Z"
+    },
+    "highestPrice": {
+      "price": 0.0000736767,
+      "date": "2025-01-04T09:36:55.813Z"
+    },
+    "currentPrice": {
+      "price": 0.0000729198,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "AmfnT28qz7fVbdNEsFoFTsB18ERZrGEk4Dh51cWP2xJe",
+    "url": "https://dexscreener.com/solana/amfnt28qz7fvbdnesfoftsb18erzrgek4dh51cwp2xje",
+    "initialMC": 172236,
+    "hpData": {
+      "top10HP": 15.899149452361165,
+      "top25HP": 34.574549452534995,
+      "top50HP": 61.89009553312168,
+      "text": "10-15.90%, 25-34.57%, 50-61.89%"
+    },
+    "initialPrice": {
+      "price": 0.00051097133,
+      "date": "2025-01-03T18:04:42.126Z"
+    },
+    "highestPrice": {
+      "price": 0.00649626164,
+      "date": "2025-01-04T12:05:26.463Z"
+    },
+    "currentPrice": {
+      "price": 0.00184642665,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 500,
+    "history": [
+      {
+        "MC": 591618,
+        "price": 0.00240600412,
+        "boost": 10,
+        "date": "2025-01-04T22:52:15.982Z"
+      }
+    ]
+  },
+  {
+    "address": "Bnxaq2Dd4giGDpLJbMkxcB4W5Re8EzKWRR7zhCeNp2Ny",
+    "url": "https://dexscreener.com/solana/bnxaq2dd4gigdpljbmkxcb4w5re8ezkwrr7zhcenp2ny",
+    "initialMC": 50548,
+    "hpData": {
+      "top10HP": 20,
+      "top25HP": 48.46057361058092,
+      "top50HP": 86.12307904923287,
+      "text": "10-20.00%, 25-48.46%, 50-86.12%"
+    },
+    "initialPrice": {
+      "price": 0.0000516312628,
+      "date": "2025-01-03T18:04:42.535Z"
+    },
+    "highestPrice": {
+      "price": 0.0000536021164,
+      "date": "2025-01-03T18:08:39.425Z"
+    },
+    "currentPrice": {
+      "price": 0.00000289892692,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "Ft3bUWimhfgHBCFvEWednpdFV5ETjFz3hji3X452moon",
+    "url": "https://dexscreener.com/solana/ft3buwimhfghbcfvewednpdfv5etjfz3hji3x452moon",
+    "initialMC": 6215.55,
+    "hpData": {
+      "top10HP": 100,
+      "top25HP": 100,
+      "top50HP": 100,
+      "text": "10-100.00%, 25-100.00%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.00000648259199,
+      "date": "2025-01-03T18:04:42.872Z"
+    },
+    "highestPrice": {
+      "price": 0.00000707034357,
+      "date": "2025-01-03T18:18:38.773Z"
+    },
+    "currentPrice": {
+      "price": 0.0000066689715,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "BrhWtD6xw9kCf8HJycq91KbCaCAyLCQ3JDYN5QaQpump",
+    "url": "https://dexscreener.com/solana/brhwtd6xw9kcf8hjycq91kbcacaylcq3jdyn5qaqpump",
+    "initialMC": 11733,
+    "hpData": {
+      "top10HP": 23.0882310392505,
+      "top25HP": 35.27113764020599,
+      "top50HP": 40.317797642679224,
+      "text": "10-23.09%, 25-35.27%, 50-40.32%"
+    },
+    "initialPrice": {
+      "price": 0.0000114755,
+      "date": "2025-01-03T18:05:12.018Z"
+    },
+    "highestPrice": {
+      "price": 0.00136525,
+      "date": "2025-01-05T17:02:23.238Z"
+    },
+    "currentPrice": {
+      "price": 0.000260744,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 298317,
+        "price": 0.000280139,
+        "boost": 30,
+        "date": "2025-01-05T18:16:03.274Z"
+      }
+    ]
+  },
+  {
+    "address": "9Ui1VRc2Zvw7cJSfub34mFZhvu121TACDnEeEFRdpump",
+    "url": "https://dexscreener.com/solana/9ui1vrc2zvw7cjsfub34mfzhvu121tacdneeefrdpump",
+    "initialMC": 317267,
+    "hpData": {
+      "top10HP": 31.348965033329307,
+      "top25HP": 57.941909090090206,
+      "top50HP": 69.66452587694852,
+      "text": "10-31.35%, 25-57.94%, 50-69.66%"
+    },
+    "initialPrice": {
+      "price": 0.000388306,
+      "date": "2025-01-03T18:15:18.542Z"
+    },
+    "highestPrice": {
+      "price": 0.000582527,
+      "date": "2025-01-03T19:14:46.885Z"
+    },
+    "currentPrice": {
+      "price": 0.0000261563,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 500,
+    "history": [
+      {
+        "MC": 388865,
+        "price": 0.000409797,
+        "boost": 1500,
+        "date": "2025-01-03T18:21:41.743Z"
+      },
+      {
+        "MC": 388865,
+        "price": 0.000409797,
+        "boost": 1500,
+        "date": "2025-01-03T18:21:41.743Z"
+      },
+      {
+        "MC": 397898,
+        "price": 0.000389271,
+        "boost": 2000,
+        "date": "2025-01-03T18:22:52.632Z"
+      },
+      {
+        "MC": 397898,
+        "price": 0.000389271,
+        "boost": 2000,
+        "date": "2025-01-03T18:22:52.632Z"
+      },
+      {
+        "MC": 397898,
+        "price": 0.000389271,
+        "boost": 2000,
+        "date": "2025-01-03T18:22:52.632Z"
+      },
+      {
+        "MC": 397898,
+        "price": 0.000389271,
+        "boost": 2000,
+        "date": "2025-01-03T18:22:52.632Z"
+      },
+      {
+        "MC": 366970,
+        "price": 0.000391331,
+        "boost": 3000,
+        "date": "2025-01-03T18:24:05.049Z"
+      },
+      {
+        "MC": 366970,
+        "price": 0.000391331,
+        "boost": 3000,
+        "date": "2025-01-03T18:24:05.049Z"
+      },
+      {
+        "MC": 366970,
+        "price": 0.000391331,
+        "boost": 3000,
+        "date": "2025-01-03T18:24:05.049Z"
+      },
+      {
+        "MC": 366970,
+        "price": 0.000391331,
+        "boost": 3000,
+        "date": "2025-01-03T18:24:05.049Z"
+      },
+      {
+        "MC": 366970,
+        "price": 0.000391331,
+        "boost": 3000,
+        "date": "2025-01-03T18:24:05.049Z"
+      },
+      {
+        "MC": 366970,
+        "price": 0.000391331,
+        "boost": 3000,
+        "date": "2025-01-03T18:24:05.049Z"
+      },
+      {
+        "MC": 470574,
+        "price": 0.000456398,
+        "boost": 3500,
+        "date": "2025-01-03T18:29:26.237Z"
+      },
+      {
+        "MC": 470574,
+        "price": 0.000456398,
+        "boost": 3500,
+        "date": "2025-01-03T18:29:26.237Z"
+      },
+      {
+        "MC": 470574,
+        "price": 0.000456398,
+        "boost": 3500,
+        "date": "2025-01-03T18:29:26.237Z"
+      },
+      {
+        "MC": 470574,
+        "price": 0.000456398,
+        "boost": 3500,
+        "date": "2025-01-03T18:29:26.237Z"
+      },
+      {
+        "MC": 470574,
+        "price": 0.000456398,
+        "boost": 3500,
+        "date": "2025-01-03T18:29:26.237Z"
+      },
+      {
+        "MC": 470574,
+        "price": 0.000456398,
+        "boost": 3500,
+        "date": "2025-01-03T18:29:26.237Z"
+      },
+      {
+        "MC": 470574,
+        "price": 0.000456398,
+        "boost": 3500,
+        "date": "2025-01-03T18:29:26.238Z"
+      }
+    ]
+  },
+  {
+    "address": "D2UsptJowWDqFc6GXqUTo4mYpuLNqxXb6tfp4FbMmoon",
+    "url": "https://dexscreener.com/solana/d2usptjowwdqfc6gxquto4mypulnqxxb6tfp4fbmmoon",
+    "initialMC": 118371,
+    "hpData": {
+      "top10HP": 56.18501396514483,
+      "top25HP": 79.24682050607086,
+      "top50HP": 95.2844616922026,
+      "text": "10-56.19%, 25-79.25%, 50-95.28%"
+    },
+    "initialPrice": {
+      "price": 0.000119210014,
+      "date": "2025-01-03T18:18:53.572Z"
+    },
+    "highestPrice": {
+      "price": 0.000125205773,
+      "date": "2025-01-03T18:23:43.365Z"
+    },
+    "currentPrice": {
+      "price": 0.0000534995381,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "9fvZcQkCdRwm74uSVf46sfMHiYHtSta8ZdMCaLYFpump",
+    "url": "https://dexscreener.com/solana/9fvzcqkcdrwm74usvf46sfmhiyhtsta8zdmcalyfpump",
+    "initialMC": 73260,
+    "hpData": {
+      "top10HP": 15.441334021214416,
+      "top25HP": 28.617077810046027,
+      "top50HP": 40.89618904859297,
+      "text": "10-15.44%, 25-28.62%, 50-40.90%"
+    },
+    "initialPrice": {
+      "price": 0.0000735023,
+      "date": "2025-01-03T18:21:11.903Z"
+    },
+    "highestPrice": {
+      "price": 0.0000865655,
+      "date": "2025-01-03T19:22:25.041Z"
+    },
+    "currentPrice": {
+      "price": 0.0000264251,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "4hpUx2CB8NEJJCKtaFwGtsaTdGyaNUp72hosnyf6moon",
+    "url": "https://dexscreener.com/solana/4hpux2cb8nejjcktafwgtsatdgyanup72hosnyf6moon",
+    "initialMC": 12933.35,
+    "hpData": {
+      "top10HP": 93.5736444463648,
+      "top25HP": 99.1810672298305,
+      "top50HP": 99.99999999999999,
+      "text": "10-93.57%, 25-99.18%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.0000133447419,
+      "date": "2025-01-03T18:33:00.395Z"
+    },
+    "highestPrice": {
+      "price": 0.0000137545683,
+      "date": "2025-01-03T19:19:55.164Z"
+    },
+    "currentPrice": {
+      "price": 0.00000599965452,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "sG5He387CxaAbN9PcwLywQvVVfJQpdfhu5BYYogpump",
+    "url": "https://dexscreener.com/solana/sg5he387cxaabn9pcwlywqvvvfjqpdfhu5byyogpump",
+    "initialMC": 6757,
+    "hpData": {
+      "top10HP": 26.129470614636492,
+      "top25HP": 34.21537843774337,
+      "top50HP": 36.358519878330746,
+      "text": "10-26.13%, 25-34.22%, 50-36.36%"
+    },
+    "initialPrice": {
+      "price": 0.00000956728,
+      "date": "2025-01-03T18:37:11.531Z"
+    },
+    "highestPrice": {
+      "price": 0.0000108271,
+      "date": "2025-01-03T18:38:46.188Z"
+    },
+    "currentPrice": {
+      "price": 0.00000465261,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "H5mWBj3fejPAxawZtCAKDHvHsEaSGAHBByhmATyCDoge",
+    "url": "https://dexscreener.com/solana/h5mwbj3fejpaxawztcakdhvhseasgahbbyhmatycdoge",
+    "initialMC": 16371,
+    "hpData": {
+      "top10HP": 24.17030976264217,
+      "top25HP": 54.401986433433215,
+      "top50HP": 70.98469396206191,
+      "text": "10-24.17%, 25-54.40%, 50-70.98%"
+    },
+    "initialPrice": {
+      "price": 0.0000151984294,
+      "date": "2025-01-03T18:38:23.156Z"
+    },
+    "highestPrice": {
+      "price": 0.0000321772464,
+      "date": "2025-01-03T18:51:37.412Z"
+    },
+    "currentPrice": {
+      "price": 0.00000167084033,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "7GyKjvBZg8UHyVqXDcx8o4yfEvfRC9B9MfnPziRdpump",
+    "url": "https://dexscreener.com/solana/7gykjvbzg8uhyvqxdcx8o4yfevfrc9b9mfnpzirdpump",
+    "initialMC": 442412,
+    "hpData": {
+      "top10HP": 22.6385353,
+      "top25HP": 52.236479200000005,
+      "top50HP": 81.32145554619822,
+      "text": "10-22.64%, 25-52.24%, 50-81.32%"
+    },
+    "initialPrice": {
+      "price": 0.000404428,
+      "date": "2025-01-03T18:44:51.933Z"
+    },
+    "highestPrice": {
+      "price": 0.000423878,
+      "date": "2025-01-03T18:49:01.648Z"
+    },
+    "currentPrice": {
+      "price": 0.00000769067,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 500,
+    "history": [
+      {
+        "MC": 408654,
+        "price": 0.000434679,
+        "boost": 1000,
+        "date": "2025-01-03T18:46:34.446Z"
+      },
+      {
+        "MC": 414284,
+        "price": 0.000394,
+        "boost": 1500,
+        "date": "2025-01-03T18:50:45.578Z"
+      },
+      {
+        "MC": 414284,
+        "price": 0.000394,
+        "boost": 1500,
+        "date": "2025-01-03T18:50:45.578Z"
+      },
+      {
+        "MC": 413392,
+        "price": 0.000388393,
+        "boost": 2000,
+        "date": "2025-01-03T18:51:59.314Z"
+      },
+      {
+        "MC": 413392,
+        "price": 0.000388393,
+        "boost": 2000,
+        "date": "2025-01-03T18:51:59.315Z"
+      },
+      {
+        "MC": 413392,
+        "price": 0.000388393,
+        "boost": 2000,
+        "date": "2025-01-03T18:51:59.315Z"
+      },
+      {
+        "MC": 413392,
+        "price": 0.000388393,
+        "boost": 2000,
+        "date": "2025-01-03T18:51:59.315Z"
+      },
+      {
+        "MC": 347966,
+        "price": 0.000349024,
+        "boost": 2500,
+        "date": "2025-01-03T18:53:47.561Z"
+      },
+      {
+        "MC": 347966,
+        "price": 0.000349024,
+        "boost": 2500,
+        "date": "2025-01-03T18:53:47.561Z"
+      },
+      {
+        "MC": 347966,
+        "price": 0.000349024,
+        "boost": 2500,
+        "date": "2025-01-03T18:53:47.561Z"
+      },
+      {
+        "MC": 347966,
+        "price": 0.000349024,
+        "boost": 2500,
+        "date": "2025-01-03T18:53:47.561Z"
+      },
+      {
+        "MC": 347966,
+        "price": 0.000349024,
+        "boost": 2500,
+        "date": "2025-01-03T18:53:47.562Z"
+      },
+      {
+        "MC": 361676,
+        "price": 0.000349376,
+        "boost": 3000,
+        "date": "2025-01-03T18:54:25.144Z"
+      },
+      {
+        "MC": 361676,
+        "price": 0.000349376,
+        "boost": 3000,
+        "date": "2025-01-03T18:54:25.144Z"
+      },
+      {
+        "MC": 327747,
+        "price": 0.000347595,
+        "boost": 3500,
+        "date": "2025-01-03T18:56:15.006Z"
+      },
+      {
+        "MC": 327747,
+        "price": 0.000347595,
+        "boost": 3500,
+        "date": "2025-01-03T18:56:15.006Z"
+      },
+      {
+        "MC": 327747,
+        "price": 0.000347595,
+        "boost": 3500,
+        "date": "2025-01-03T18:56:15.006Z"
+      },
+      {
+        "MC": 327747,
+        "price": 0.000347595,
+        "boost": 3500,
+        "date": "2025-01-03T18:56:15.006Z"
+      },
+      {
+        "MC": 327747,
+        "price": 0.000347595,
+        "boost": 3500,
+        "date": "2025-01-03T18:56:15.006Z"
+      },
+      {
+        "MC": 327747,
+        "price": 0.000347595,
+        "boost": 3500,
+        "date": "2025-01-03T18:56:15.006Z"
+      },
+      {
+        "MC": 327747,
+        "price": 0.000347595,
+        "boost": 3500,
+        "date": "2025-01-03T18:56:15.006Z"
+      },
+      {
+        "MC": 328061,
+        "price": 0.000325011,
+        "boost": 4000,
+        "date": "2025-01-03T18:56:52.688Z"
+      },
+      {
+        "MC": 328061,
+        "price": 0.000325011,
+        "boost": 4000,
+        "date": "2025-01-03T18:56:52.689Z"
+      },
+      {
+        "MC": 328061,
+        "price": 0.000325011,
+        "boost": 4000,
+        "date": "2025-01-03T18:56:52.689Z"
+      },
+      {
+        "MC": 328061,
+        "price": 0.000325011,
+        "boost": 4000,
+        "date": "2025-01-03T18:56:52.689Z"
+      },
+      {
+        "MC": 328061,
+        "price": 0.000325011,
+        "boost": 4000,
+        "date": "2025-01-03T18:56:52.689Z"
+      },
+      {
+        "MC": 328061,
+        "price": 0.000325011,
+        "boost": 4000,
+        "date": "2025-01-03T18:56:52.689Z"
+      },
+      {
+        "MC": 322813,
+        "price": 0.000335392,
+        "boost": 4500,
+        "date": "2025-01-03T18:59:17.275Z"
+      },
+      {
+        "MC": 322813,
+        "price": 0.000335392,
+        "boost": 4500,
+        "date": "2025-01-03T18:59:17.275Z"
+      },
+      {
+        "MC": 322813,
+        "price": 0.000335392,
+        "boost": 4500,
+        "date": "2025-01-03T18:59:17.275Z"
+      },
+      {
+        "MC": 322813,
+        "price": 0.000335392,
+        "boost": 4500,
+        "date": "2025-01-03T18:59:17.275Z"
+      },
+      {
+        "MC": 322813,
+        "price": 0.000335392,
+        "boost": 4500,
+        "date": "2025-01-03T18:59:17.275Z"
+      },
+      {
+        "MC": 322813,
+        "price": 0.000335392,
+        "boost": 4500,
+        "date": "2025-01-03T18:59:17.275Z"
+      },
+      {
+        "MC": 322813,
+        "price": 0.000335392,
+        "boost": 4500,
+        "date": "2025-01-03T18:59:17.275Z"
+      },
+      {
+        "MC": 322813,
+        "price": 0.000335392,
+        "boost": 4500,
+        "date": "2025-01-03T18:59:17.275Z"
+      },
+      {
+        "MC": 316983,
+        "price": 0.000337618,
+        "boost": 5000,
+        "date": "2025-01-03T18:59:47.631Z"
+      },
+      {
+        "MC": 316983,
+        "price": 0.000337618,
+        "boost": 5000,
+        "date": "2025-01-03T18:59:47.631Z"
+      },
+      {
+        "MC": 316983,
+        "price": 0.000337618,
+        "boost": 5000,
+        "date": "2025-01-03T18:59:47.631Z"
+      },
+      {
+        "MC": 316983,
+        "price": 0.000337618,
+        "boost": 5000,
+        "date": "2025-01-03T18:59:47.631Z"
+      },
+      {
+        "MC": 316983,
+        "price": 0.000337618,
+        "boost": 5000,
+        "date": "2025-01-03T18:59:47.631Z"
+      },
+      {
+        "MC": 316983,
+        "price": 0.000337618,
+        "boost": 5000,
+        "date": "2025-01-03T18:59:47.631Z"
+      },
+      {
+        "MC": 316983,
+        "price": 0.000337618,
+        "boost": 5000,
+        "date": "2025-01-03T18:59:47.631Z"
+      },
+      {
+        "MC": 316983,
+        "price": 0.000337618,
+        "boost": 5000,
+        "date": "2025-01-03T18:59:47.631Z"
+      }
+    ]
+  },
+  {
+    "address": "5SRer48NRfmhsut1n4ZwSAVUJAErNjdKcXTMVaxdpump",
+    "url": "https://dexscreener.com/solana/5srer48nrfmhsut1n4zwsavujaernjdkcxtmvaxdpump",
+    "initialMC": 104285,
+    "hpData": {
+      "top10HP": 21.8826819681668,
+      "top25HP": 39.885105961980486,
+      "top50HP": 55.06359421219642,
+      "text": "10-21.88%, 25-39.89%, 50-55.06%"
+    },
+    "initialPrice": {
+      "price": 0.000103971,
+      "date": "2025-01-03T18:47:12.180Z"
+    },
+    "highestPrice": {
+      "price": 0.000323208,
+      "date": "2025-01-05T21:53:39.947Z"
+    },
+    "currentPrice": {
+      "price": 0.000310362,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "GS6Zag6XdRANcXWJ6hoUxcbaH2ZpFwCfWV1uS7Hwpump",
+    "url": "https://dexscreener.com/solana/gs6zag6xdrancxwj6houxcbah2zpfwcfwv1us7hwpump",
+    "initialMC": 586651,
+    "hpData": {
+      "top10HP": 43.02483861883642,
+      "top25HP": 60.27497180556357,
+      "top50HP": 72.90875668367859,
+      "text": "10-43.02%, 25-60.27%, 50-72.91%"
+    },
+    "initialPrice": {
+      "price": 0.000586926,
+      "date": "2025-01-03T18:49:39.945Z"
+    },
+    "highestPrice": {
+      "price": 0.000595665,
+      "date": "2025-01-03T20:22:57.029Z"
+    },
+    "currentPrice": {
+      "price": 0.000419654,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "7sVrBVNdH9qKRnf5whUfpKM34TNicUBR6by4oTqVpump",
+    "url": "https://dexscreener.com/solana/7svrbvndh9qkrnf5whufpkm34tnicubr6by4otqvpump",
+    "initialMC": 12640,
+    "hpData": {
+      "top10HP": 19.438781454772702,
+      "top25HP": 29.9600231413016,
+      "top50HP": 38.37396732290931,
+      "text": "10-19.44%, 25-29.96%, 50-38.37%"
+    },
+    "initialPrice": {
+      "price": 0.0000127792,
+      "date": "2025-01-03T18:49:40.472Z"
+    },
+    "highestPrice": {
+      "price": 0.0000127792,
+      "date": "2025-01-03T18:49:40.472Z"
+    },
+    "currentPrice": {
+      "price": 0.00000446937,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "CyRj6sRsHchbVfYxNEsvnz8acFh2WePJJ1TBrNJKqa2m",
+    "url": "https://dexscreener.com/solana/cyrj6srshchbvfyxnesvnz8acfh2wepjj1tbrnjkqa2m",
+    "initialMC": 70320,
+    "hpData": {
+      "top10HP": 47.06224199555122,
+      "top25HP": 73.81429322386798,
+      "top50HP": 77.66604760779767,
+      "text": "10-47.06%, 25-73.81%, 50-77.67%"
+    },
+    "initialPrice": {
+      "price": 0.0000753872982,
+      "date": "2025-01-03T18:55:02.584Z"
+    },
+    "highestPrice": {
+      "price": 0.000104352651,
+      "date": "2025-01-04T20:00:13.876Z"
+    },
+    "currentPrice": {
+      "price": 0.0000714134905,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 50,
+    "history": [
+      {
+        "MC": 82836,
+        "price": 0.0000836617809,
+        "boost": 30,
+        "date": "2025-01-04T16:12:37.709Z"
+      }
+    ]
+  },
+  {
+    "address": "7oNvRaxyxYh1k8R7LmH9zRQeLVCHJvECve2eRH3wpump",
+    "url": "https://dexscreener.com/solana/7onvraxyxyh1k8r7lmh9zrqelvchjvecve2erh3wpump",
+    "initialMC": 28127,
+    "hpData": {
+      "top10HP": 25.93979097,
+      "top25HP": 55.57153525920876,
+      "top50HP": 82.26434650032078,
+      "text": "10-25.94%, 25-55.57%, 50-82.26%"
+    },
+    "initialPrice": {
+      "price": 0.0000273122471,
+      "date": "2025-01-03T19:02:50.882Z"
+    },
+    "highestPrice": {
+      "price": 0.0000273122471,
+      "date": "2025-01-03T19:02:50.882Z"
+    },
+    "currentPrice": {
+      "price": 0.00000172578104,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "3kD5DN4bbA3nykb1abjS66VF7cYZkKdirX8bZ6ShJjBB",
+    "url": "https://dexscreener.com/solana/3kd5dn4bba3nykb1abjs66vf7cyzkkdirx8bz6shjjbb",
+    "initialMC": 321353,
+    "hpData": {
+      "top10HP": 23.938096211876314,
+      "top25HP": 40.84815743264456,
+      "top50HP": 54.987690109634876,
+      "text": "10-23.94%, 25-40.85%, 50-54.99%"
+    },
+    "initialPrice": {
+      "price": 0.000322248,
+      "date": "2025-01-03T19:07:05.993Z"
+    },
+    "highestPrice": {
+      "price": 0.00155821,
+      "date": "2025-01-05T02:14:40.018Z"
+    },
+    "currentPrice": {
+      "price": 0.000852859,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 110,
+    "history": [
+      {
+        "MC": 318515,
+        "price": 0.000313023,
+        "boost": 100,
+        "date": "2025-01-03T19:27:47.230Z"
+      },
+      {
+        "MC": 661365,
+        "price": 0.000597612,
+        "boost": 10,
+        "date": "2025-01-05T16:37:22.541Z"
+      }
+    ]
+  },
+  {
+    "address": "AHQVGN6d4z3xwS6dLjPrbfZByYK8wJRfNrZaCjPur5U8",
+    "url": "https://dexscreener.com/solana/ahqvgn6d4z3xws6dljprbfzbyyk8wjrfnrzacjpur5u8",
+    "initialMC": 18173,
+    "hpData": {
+      "top10HP": 22.96201979062297,
+      "top25HP": 42.43674422521073,
+      "top50HP": 59.93132894118159,
+      "text": "10-22.96%, 25-42.44%, 50-59.93%"
+    },
+    "initialPrice": {
+      "price": 0.0000182657009,
+      "date": "2025-01-03T19:07:37.065Z"
+    },
+    "highestPrice": {
+      "price": 0.0000519152896,
+      "date": "2025-01-03T19:32:28.883Z"
+    },
+    "currentPrice": {
+      "price": 0.00000304533766,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "3m1K8LSukPtzyHHeaYn7JQrwuFSHYeLLZ7qij4Rupump",
+    "url": "https://dexscreener.com/solana/3m1k8lsukptzyhheayn7jqrwufshyellz7qij4rupump",
+    "initialMC": 324045,
+    "hpData": {
+      "top10HP": 5.3262450108569,
+      "top25HP": 7.6827628274359006,
+      "top50HP": 9.454825719811602,
+      "text": "10-5.33%, 25-7.68%, 50-9.45%"
+    },
+    "initialPrice": {
+      "price": 0.000356035,
+      "date": "2025-01-03T19:15:28.329Z"
+    },
+    "highestPrice": {
+      "price": 0.0032949,
+      "date": "2025-01-04T01:04:45.575Z"
+    },
+    "currentPrice": {
+      "price": 0.0000435451,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 1000,
+    "history": [
+      {
+        "MC": 518708,
+        "price": 0.000509707,
+        "boost": 2000,
+        "date": "2025-01-03T19:18:20.719Z"
+      },
+      {
+        "MC": 518708,
+        "price": 0.000509707,
+        "boost": 2000,
+        "date": "2025-01-03T19:18:20.719Z"
+      },
+      {
+        "MC": 518708,
+        "price": 0.000509707,
+        "boost": 2000,
+        "date": "2025-01-03T19:18:20.719Z"
+      },
+      {
+        "MC": 518708,
+        "price": 0.000509707,
+        "boost": 2000,
+        "date": "2025-01-03T19:18:20.719Z"
+      },
+      {
+        "MC": 807963,
+        "price": 0.000795031,
+        "boost": 3000,
+        "date": "2025-01-03T20:02:41.440Z"
+      },
+      {
+        "MC": 807963,
+        "price": 0.000795031,
+        "boost": 3000,
+        "date": "2025-01-03T20:02:41.440Z"
+      },
+      {
+        "MC": 1073635,
+        "price": 0.00108612,
+        "boost": 3500,
+        "date": "2025-01-03T20:31:41.023Z"
+      },
+      {
+        "MC": 1073635,
+        "price": 0.00108612,
+        "boost": 3500,
+        "date": "2025-01-03T20:31:41.023Z"
+      }
+    ]
+  },
+  {
+    "address": "GmxyCTRdBE7erqbfNEDfarJ4ch5Zu5roRf3Uewmxpump",
+    "url": "https://dexscreener.com/solana/gmxyctrdbe7erqbfnedfarj4ch5zu5rorf3uewmxpump",
+    "initialMC": 62666,
+    "hpData": {
+      "top10HP": 29.704605372284224,
+      "top25HP": 45.62495096739238,
+      "top50HP": 58.84396684902053,
+      "text": "10-29.70%, 25-45.62%, 50-58.84%"
+    },
+    "initialPrice": {
+      "price": 0.0000699507,
+      "date": "2025-01-03T19:15:28.856Z"
+    },
+    "highestPrice": {
+      "price": 0.000450956,
+      "date": "2025-01-03T19:29:58.114Z"
+    },
+    "currentPrice": {
+      "price": 0.0000105934,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": [
+      {
+        "MC": 155383,
+        "price": 0.00020798,
+        "boost": 200,
+        "date": "2025-01-03T19:38:52.001Z"
+      }
+    ]
+  },
+  {
+    "address": "CNmNPMjofsjBoMLNhAGiWxK2RbzM8ACodp5JmH5pump",
+    "url": "https://dexscreener.com/solana/cnmnpmjofsjbomlnhagiwxk2rbzm8acodp5jmh5pump",
+    "initialMC": 64127,
+    "hpData": {
+      "top10HP": 60.4477438710417,
+      "top25HP": 75.0127030640307,
+      "top50HP": 76.32614039188807,
+      "text": "10-60.45%, 25-75.01%, 50-76.33%"
+    },
+    "initialPrice": {
+      "price": 0.0000646156,
+      "date": "2025-01-03T19:19:31.966Z"
+    },
+    "highestPrice": {
+      "price": 0.000108963,
+      "date": "2025-01-03T19:27:25.681Z"
+    },
+    "currentPrice": {
+      "price": 0.00000376637,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "FWZJfKv5V1XnjL8HaRLLE5Aw8fNjdvmLhgg4RwNxxGZq",
+    "url": "https://dexscreener.com/solana/fwzjfkv5v1xnjl8harlle5aw8fnjdvmlhgg4rwnxxgzq",
+    "initialMC": 22439,
+    "hpData": {
+      "top10HP": 14.149887500000002,
+      "top25HP": 29.581369740987505,
+      "top50HP": 50.65508288986051,
+      "text": "10-14.15%, 25-29.58%, 50-50.66%"
+    },
+    "initialPrice": {
+      "price": 0.0000238713,
+      "date": "2025-01-03T19:19:32.619Z"
+    },
+    "highestPrice": {
+      "price": 0.0000290279,
+      "date": "2025-01-03T19:22:25.041Z"
+    },
+    "currentPrice": {
+      "price": 4.07948e-7,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "Bkn34e6T1ZD5tZiVgTfkQQNGX5kAuLD4fWtST3tZmoon",
+    "url": "https://dexscreener.com/solana/bkn34e6t1zd5tzivgtfkqqngx5kauld4fwtst3tzmoon",
+    "initialMC": 81709,
+    "hpData": {
+      "top10HP": 50.70824257984897,
+      "top25HP": 65.09590825833298,
+      "top50HP": 77.6415015991975,
+      "text": "10-50.71%, 25-65.10%, 50-77.64%"
+    },
+    "initialPrice": {
+      "price": 0.0000898006535,
+      "date": "2025-01-03T19:24:12.309Z"
+    },
+    "highestPrice": {
+      "price": 0.000282873794,
+      "date": "2025-01-04T00:23:49.907Z"
+    },
+    "currentPrice": {
+      "price": 0.000142497427,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": [
+      {
+        "MC": 86719,
+        "price": 0.0000964319111,
+        "boost": 150,
+        "date": "2025-01-03T22:52:22.515Z"
+      }
+    ]
+  },
+  {
+    "address": "A6TfrrvuH8RLwZmGuE7zE41nkyrvyQskPLwnDzmKpump",
+    "url": "https://dexscreener.com/solana/a6tfrrvuh8rlwzmgue7ze41nkyrvyqskplwndzmkpump",
+    "initialMC": 67821,
+    "hpData": {
+      "top10HP": 20.930014370271202,
+      "top25HP": 35.9345658372514,
+      "top50HP": 51.9587673697814,
+      "text": "10-20.93%, 25-35.93%, 50-51.96%"
+    },
+    "initialPrice": {
+      "price": 0.0000846549,
+      "date": "2025-01-03T19:28:59.089Z"
+    },
+    "highestPrice": {
+      "price": 0.000102593,
+      "date": "2025-01-03T19:37:34.178Z"
+    },
+    "currentPrice": {
+      "price": 0.00000780826,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "JCuP2gWHsWNuAtqWoftPciS25sgdvbTPHz9uMMtynWcZ",
+    "url": "https://dexscreener.com/solana/jcup2gwhswnuatqwoftpcis25sgdvbtphz9ummtynwcz",
+    "initialMC": 32533,
+    "hpData": {
+      "top10HP": 31.466290949518104,
+      "top25HP": 42.95954424794357,
+      "top50HP": 50.947861598074375,
+      "text": "10-31.47%, 25-42.96%, 50-50.95%"
+    },
+    "initialPrice": {
+      "price": 0.0000325258,
+      "date": "2025-01-03T19:29:00.267Z"
+    },
+    "highestPrice": {
+      "price": 0.000088422,
+      "date": "2025-01-04T17:04:40.448Z"
+    },
+    "currentPrice": {
+      "price": 0.0000280953,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "H2gq3RmRYB6LrFNUErY59YhD8LEP6PA4h3kLKWC3bSuP",
+    "url": "https://dexscreener.com/solana/h2gq3rmryb6lrfnuery59yhd8lep6pa4h3klkwc3bsup",
+    "initialMC": 5283,
+    "hpData": {
+      "top10HP": 46.0512012099687,
+      "top25HP": 70.483048923907,
+      "top50HP": 91.86319400288316,
+      "text": "10-46.05%, 25-70.48%, 50-91.86%"
+    },
+    "initialPrice": {
+      "price": 0.00000523857,
+      "date": "2025-01-03T19:32:20.353Z"
+    },
+    "highestPrice": {
+      "price": 0.0000123888,
+      "date": "2025-01-03T21:40:57.819Z"
+    },
+    "currentPrice": {
+      "price": 6.99078e-7,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "FZnuZKf6S3RkBCrL8bvKcbsBqpRoUbnkY3jK3iEkpump",
+    "url": "https://dexscreener.com/solana/fznuzkf6s3rkbcrl8bvkcbsbqproubnky3jk3iekpump",
+    "initialMC": 310952,
+    "hpData": {
+      "top10HP": 22.02186382572852,
+      "top25HP": 33.46050347785864,
+      "top50HP": 46.32864324357737,
+      "text": "10-22.02%, 25-33.46%, 50-46.33%"
+    },
+    "initialPrice": {
+      "price": 0.00032637,
+      "date": "2025-01-03T19:32:58.649Z"
+    },
+    "highestPrice": {
+      "price": 0.00179494,
+      "date": "2025-01-03T22:39:22.962Z"
+    },
+    "currentPrice": {
+      "price": 0.000201283,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": [
+      {
+        "MC": 554366,
+        "price": 0.000561649,
+        "boost": 200,
+        "date": "2025-01-03T20:02:45.895Z"
+      },
+      {
+        "MC": 508924,
+        "price": 0.000532357,
+        "boost": 300,
+        "date": "2025-01-03T20:17:21.935Z"
+      },
+      {
+        "MC": 508924,
+        "price": 0.000532357,
+        "boost": 300,
+        "date": "2025-01-03T20:17:21.935Z"
+      },
+      {
+        "MC": 804192,
+        "price": 0.000711774,
+        "boost": 400,
+        "date": "2025-01-03T21:23:32.861Z"
+      },
+      {
+        "MC": 851932,
+        "price": 0.000824827,
+        "boost": 500,
+        "date": "2025-01-03T21:36:53.879Z"
+      },
+      {
+        "MC": 851932,
+        "price": 0.000824827,
+        "boost": 500,
+        "date": "2025-01-03T21:36:53.879Z"
+      },
+      {
+        "MC": 836505,
+        "price": 0.000819488,
+        "boost": 600,
+        "date": "2025-01-03T21:37:26.646Z"
+      },
+      {
+        "MC": 836505,
+        "price": 0.000819488,
+        "boost": 600,
+        "date": "2025-01-03T21:37:26.646Z"
+      },
+      {
+        "MC": 836505,
+        "price": 0.000819488,
+        "boost": 600,
+        "date": "2025-01-03T21:37:26.646Z"
+      },
+      {
+        "MC": 1001885,
+        "price": 0.00100279,
+        "boost": 510,
+        "date": "2025-01-04T19:59:56.503Z"
+      },
+      {
+        "MC": 997497,
+        "price": 0.00100462,
+        "boost": 410,
+        "date": "2025-01-04T20:02:16.132Z"
+      },
+      {
+        "MC": 933230,
+        "price": 0.000934684,
+        "boost": 310,
+        "date": "2025-01-04T20:16:50.301Z"
+      },
+      {
+        "MC": 419564,
+        "price": 0.000420055,
+        "boost": 110,
+        "date": "2025-01-05T00:52:29.444Z"
+      }
+    ]
+  },
+  {
+    "address": "HAVVqPQf4MKVjvuFVi8y7g3xkArdWQemaJPBvKmEpump",
+    "url": "https://dexscreener.com/solana/havvqpqf4mkvjvufvi8y7g3xkardwqemajpbvkmepump",
+    "initialMC": 1133919,
+    "hpData": {
+      "top10HP": 16.168755378507612,
+      "top25HP": 26.297478840645052,
+      "top50HP": 34.51016439696973,
+      "text": "10-16.17%, 25-26.30%, 50-34.51%"
+    },
+    "initialPrice": {
+      "price": 0.00114896,
+      "date": "2025-01-03T19:35:59.713Z"
+    },
+    "highestPrice": {
+      "price": 0.00119756,
+      "date": "2025-01-04T14:14:30.982Z"
+    },
+    "currentPrice": {
+      "price": 0.000498806,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "6Xe6MKoa1D1h44nWYQiQHupvhg1Cy3ag49Jw9FuRpump",
+    "url": "https://dexscreener.com/solana/6xe6mkoa1d1h44nwyqiqhupvhg1cy3ag49jw9furpump",
+    "initialMC": 106172,
+    "hpData": {
+      "top10HP": 31.0560235189174,
+      "top25HP": 54.36311862279422,
+      "top50HP": 72.69625337409742,
+      "text": "10-31.06%, 25-54.36%, 50-72.70%"
+    },
+    "initialPrice": {
+      "price": 0.00010199,
+      "date": "2025-01-03T19:36:28.819Z"
+    },
+    "highestPrice": {
+      "price": 0.000244089,
+      "date": "2025-01-03T19:57:42.884Z"
+    },
+    "currentPrice": {
+      "price": 0.0000072155,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 163272,
+        "price": 0.000186442,
+        "boost": 510,
+        "date": "2025-01-03T19:50:36.958Z"
+      },
+      {
+        "MC": 163272,
+        "price": 0.000186442,
+        "boost": 510,
+        "date": "2025-01-03T19:50:36.958Z"
+      }
+    ]
+  },
+  {
+    "address": "CAaYRcifrKqdesvk72tXhwRteZWhKbEtKgpeEVsYnhqu",
+    "url": "https://dexscreener.com/solana/caayrcifrkqdesvk72txhwrtezwhkbetkgpeevsynhqu",
+    "initialMC": 4578,
+    "hpData": {
+      "top10HP": 2.4591339583300003,
+      "top25HP": 2.485629350840001,
+      "top50HP": 2.487003814340001,
+      "text": "10-2.46%, 25-2.49%, 50-2.49%"
+    },
+    "initialPrice": {
+      "price": 0.000457819,
+      "date": "2025-01-03T19:36:29.234Z"
+    },
+    "highestPrice": {
+      "price": 38.758309,
+      "date": "2025-01-03T20:12:50.924Z"
+    },
+    "currentPrice": {
+      "price": 0.879241,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "8fRCT9mYdSnCEveLmAv9eYqFR8FaMPgkfKPZ7ar3w5cj",
+    "url": "https://dexscreener.com/solana/8frct9mydsncevelmav9eyqfr8fampgkfkpz7ar3w5cj",
+    "initialMC": 6198,
+    "hpData": {
+      "top10HP": 97.21028751387352,
+      "top25HP": 99.96472880339913,
+      "top50HP": 99.99999999999999,
+      "text": "10-97.21%, 25-99.96%, 50-100.00%"
+    },
+    "initialPrice": {
+      "price": 0.00000626300323,
+      "date": "2025-01-03T19:39:28.074Z"
+    },
+    "highestPrice": {
+      "price": 0.0000159777029,
+      "date": "2025-01-03T21:35:04.445Z"
+    },
+    "currentPrice": {
+      "price": 5.96506674e-7,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "yJm88Z8xVV5CbZ5cvMisiuQCN8FysNyft7t9nkmpump",
+    "url": "https://dexscreener.com/solana/yjm88z8xvv5cbz5cvmisiuqcn8fysnyft7t9nkmpump",
+    "initialMC": 103573,
+    "hpData": {
+      "top10HP": 21.37921770764858,
+      "top25HP": 37.95675490241701,
+      "top50HP": 52.15772499163666,
+      "text": "10-21.38%, 25-37.96%, 50-52.16%"
+    },
+    "initialPrice": {
+      "price": 0.000104559,
+      "date": "2025-01-03T19:40:04.861Z"
+    },
+    "highestPrice": {
+      "price": 0.00013979,
+      "date": "2025-01-03T20:28:16.317Z"
+    },
+    "currentPrice": {
+      "price": 0.0000282006,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "FqveHfaf96iTjA3KgX1W5LWPnLFYv8EfUf6TQSWPpump",
+    "url": "https://dexscreener.com/solana/fqvehfaf96itja3kgx1w5lwpnlfyv8efuf6tqswppump",
+    "initialMC": 1004916,
+    "hpData": {
+      "top10HP": 9.195288099985733,
+      "top25HP": 16.861699905798822,
+      "top50HP": 28.309816517036253,
+      "text": "10-9.20%, 25-16.86%, 50-28.31%"
+    },
+    "initialPrice": {
+      "price": 0.00108256,
+      "date": "2025-01-03T19:43:33.156Z"
+    },
+    "highestPrice": {
+      "price": 0.00970961,
+      "date": "2025-01-05T21:35:41.138Z"
+    },
+    "currentPrice": {
+      "price": 0.00870723,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 500,
+    "history": []
+  },
+  {
+    "address": "FnxkP7CUBX9zmMPUpsMD2A3kFwxkmWpg6SnrhqGgoAfs",
+    "url": "https://dexscreener.com/solana/fnxkp7cubx9zmmpupsmd2a3kfwxkmwpg6snrhqggoafs",
+    "initialMC": 33868,
+    "hpData": {
+      "top10HP": 22.646271764852703,
+      "top25HP": 46.53527285992647,
+      "top50HP": 74.86330074698557,
+      "text": "10-22.65%, 25-46.54%, 50-74.86%"
+    },
+    "initialPrice": {
+      "price": 0.0000119494677,
+      "date": "2025-01-03T19:48:19.212Z"
+    },
+    "highestPrice": {
+      "price": 0.0000324279758,
+      "date": "2025-01-03T20:49:38.135Z"
+    },
+    "currentPrice": {
+      "price": 0.00000118524337,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": [
+      {
+        "MC": 45018,
+        "price": 0.00000954347036,
+        "boost": 200,
+        "date": "2025-01-03T19:48:54.747Z"
+      },
+      {
+        "MC": 45171,
+        "price": 0.0000116845083,
+        "boost": 300,
+        "date": "2025-01-03T19:51:48.382Z"
+      },
+      {
+        "MC": 45171,
+        "price": 0.0000116845083,
+        "boost": 300,
+        "date": "2025-01-03T19:51:48.382Z"
+      },
+      {
+        "MC": 45171,
+        "price": 0.0000116845083,
+        "boost": 300,
+        "date": "2025-01-03T19:51:48.383Z"
+      },
+      {
+        "MC": 41583,
+        "price": 0.0000123491076,
+        "boost": 400,
+        "date": "2025-01-03T19:52:23.920Z"
+      },
+      {
+        "MC": 41583,
+        "price": 0.0000123491076,
+        "boost": 400,
+        "date": "2025-01-03T19:52:23.921Z"
+      },
+      {
+        "MC": 41583,
+        "price": 0.0000123491076,
+        "boost": 400,
+        "date": "2025-01-03T19:52:23.921Z"
+      },
+      {
+        "MC": 44028,
+        "price": 0.0000111998987,
+        "boost": 500,
+        "date": "2025-01-03T19:55:23.712Z"
+      },
+      {
+        "MC": 44028,
+        "price": 0.0000111998987,
+        "boost": 500,
+        "date": "2025-01-03T19:55:23.712Z"
+      },
+      {
+        "MC": 44028,
+        "price": 0.0000111998987,
+        "boost": 500,
+        "date": "2025-01-03T19:55:23.712Z"
+      },
+      {
+        "MC": 44028,
+        "price": 0.0000111998987,
+        "boost": 500,
+        "date": "2025-01-03T19:55:23.712Z"
+      },
+      {
+        "MC": 44028,
+        "price": 0.0000111998987,
+        "boost": 500,
+        "date": "2025-01-03T19:55:23.712Z"
+      }
+    ]
+  },
+  {
+    "address": "NJnoHi83z67Xc8DszQoooNCotKiL7BaqNpoRA8Epump",
+    "url": "https://dexscreener.com/solana/njnohi83z67xc8dszqoooncotkil7baqnpora8epump",
+    "initialMC": 179701,
+    "hpData": {
+      "top10HP": 17.659323867176113,
+      "top25HP": 30.555968338832237,
+      "top50HP": 43.81519263270685,
+      "text": "10-17.66%, 25-30.56%, 50-43.82%"
+    },
+    "initialPrice": {
+      "price": 0.000173208,
+      "date": "2025-01-03T19:50:06.812Z"
+    },
+    "highestPrice": {
+      "price": 0.000180808,
+      "date": "2025-01-03T20:20:25.681Z"
+    },
+    "currentPrice": {
+      "price": 0.00000660209,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": []
+  },
+  {
+    "address": "H5LH3XDh3szBjKonbqj9yF4yBzUcJYADdZsnYmRfTGJ6",
+    "url": "https://dexscreener.com/solana/h5lh3xdh3szbjkonbqj9yf4ybzucjyaddzsnymrftgj6",
+    "initialMC": 8344,
+    "hpData": {
+      "top10HP": 36.32117120248499,
+      "top25HP": 59.061171202484964,
+      "top50HP": 74.89461167868538,
+      "text": "10-36.32%, 25-59.06%, 50-74.89%"
+    },
+    "initialPrice": {
+      "price": 0.00000820683,
+      "date": "2025-01-03T19:50:37.490Z"
+    },
+    "highestPrice": {
+      "price": 0.00000820683,
+      "date": "2025-01-03T19:50:37.490Z"
+    },
+    "currentPrice": {
+      "price": 0.00000128272,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "9qfPQJfwixqGwwkR59Tn7jFfeMnkvWaakHUkWnyzpump",
+    "url": "https://dexscreener.com/solana/9qfpqjfwixqgwwkr59tn7jffemnkvwaakhukwnyzpump",
+    "initialMC": 110900,
+    "hpData": {
+      "top10HP": 22.6048037413923,
+      "top25HP": 41.20674203849898,
+      "top50HP": 53.08808651734388,
+      "text": "10-22.60%, 25-41.21%, 50-53.09%"
+    },
+    "initialPrice": {
+      "price": 0.000110756,
+      "date": "2025-01-03T19:55:25.526Z"
+    },
+    "highestPrice": {
+      "price": 0.000195063,
+      "date": "2025-01-04T03:41:10.180Z"
+    },
+    "currentPrice": {
+      "price": 0.0000948702,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": [
+      {
+        "MC": 110982,
+        "price": 0.000110688,
+        "boost": 60,
+        "date": "2025-01-03T20:00:48.167Z"
+      },
+      {
+        "MC": 110982,
+        "price": 0.000110688,
+        "boost": 60,
+        "date": "2025-01-03T20:00:48.167Z"
+      }
+    ]
+  },
+  {
+    "address": "5FrD5jS1gHqNeNGCB9JEcDGAiwsinpfq1gcN4Mkupump",
+    "url": "https://dexscreener.com/solana/5frd5js1ghqnengcb9jecdgaiwsinpfq1gcn4mkupump",
+    "initialMC": 297038,
+    "hpData": {
+      "top10HP": 27.47765772908732,
+      "top25HP": 42.13548224790993,
+      "top50HP": 53.57395916696752,
+      "text": "10-27.48%, 25-42.14%, 50-53.57%"
+    },
+    "initialPrice": {
+      "price": 0.000301296,
+      "date": "2025-01-03T19:56:37.951Z"
+    },
+    "highestPrice": {
+      "price": 0.000911359,
+      "date": "2025-01-05T19:22:37.740Z"
+    },
+    "currentPrice": {
+      "price": 0.000720772,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 50,
+    "history": []
+  },
+  {
+    "address": "2oZgrwkykmunmFFMmxxEnhbYZYXzpLfXz8LEqXg8pump",
+    "url": "https://dexscreener.com/solana/2ozgrwkykmunmffmmxxenhbyzyxzplfxz8leqxg8pump",
+    "initialMC": 120778,
+    "hpData": {
+      "top10HP": 22.557160319695438,
+      "top25HP": 47.47636789996514,
+      "top50HP": 71.00545748673134,
+      "text": "10-22.56%, 25-47.48%, 50-71.01%"
+    },
+    "initialPrice": {
+      "price": 0.00012037,
+      "date": "2025-01-03T20:02:45.895Z"
+    },
+    "highestPrice": {
+      "price": 0.000149687,
+      "date": "2025-01-03T20:10:21.237Z"
+    },
+    "currentPrice": {
+      "price": 0.00000705449,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 500,
+    "history": [
+      {
+        "MC": 147162,
+        "price": 0.000144688,
+        "boost": 1000,
+        "date": "2025-01-03T20:08:31.594Z"
+      },
+      {
+        "MC": 147162,
+        "price": 0.000144688,
+        "boost": 1000,
+        "date": "2025-01-03T20:08:31.594Z"
+      },
+      {
+        "MC": 160152,
+        "price": 0.000153796,
+        "boost": 1500,
+        "date": "2025-01-03T20:12:42.449Z"
+      },
+      {
+        "MC": 160152,
+        "price": 0.000153796,
+        "boost": 1500,
+        "date": "2025-01-03T20:12:42.449Z"
+      },
+      {
+        "MC": 160152,
+        "price": 0.000153796,
+        "boost": 1500,
+        "date": "2025-01-03T20:12:42.449Z"
+      },
+      {
+        "MC": 80829,
+        "price": 0.0000836408,
+        "boost": 2000,
+        "date": "2025-01-03T20:45:55.319Z"
+      },
+      {
+        "MC": 80829,
+        "price": 0.0000836408,
+        "boost": 2000,
+        "date": "2025-01-03T20:45:55.319Z"
+      },
+      {
+        "MC": 80829,
+        "price": 0.0000836408,
+        "boost": 2000,
+        "date": "2025-01-03T20:45:55.319Z"
+      },
+      {
+        "MC": 111662,
+        "price": 0.000112141,
+        "boost": 2010,
+        "date": "2025-01-03T22:41:45.170Z"
+      },
+      {
+        "MC": 39614,
+        "price": 0.0000421475,
+        "boost": 2020,
+        "date": "2025-01-03T23:04:12.652Z"
+      },
+      {
+        "MC": 39614,
+        "price": 0.0000421475,
+        "boost": 2020,
+        "date": "2025-01-03T23:04:12.652Z"
+      }
+    ]
+  },
+  {
+    "address": "EC8VkVubray7C5cWYa7mUnLoBtP7KuEv7d7s16Bjmoon",
+    "url": "https://dexscreener.com/solana/ec8vkvubray7c5cwya7munlobtp7kuev7d7s16bjmoon",
+    "initialMC": 74155.73,
+    "hpData": {
+      "top10HP": 61.669187100834776,
+      "top25HP": 92.48849663869603,
+      "top50HP": 98.80481820871498,
+      "text": "10-61.67%, 25-92.49%, 50-98.80%"
+    },
+    "initialPrice": {
+      "price": 0.000075600715,
+      "date": "2025-01-03T20:06:49.683Z"
+    },
+    "highestPrice": {
+      "price": 0.0000911459557,
+      "date": "2025-01-04T14:40:38.287Z"
+    },
+    "currentPrice": {
+      "price": 0.00000670527117,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 30,
+    "history": [
+      {
+        "MC": 80446.24,
+        "price": 0.0000820142383,
+        "boost": 10,
+        "date": "2025-01-04T08:12:52.630Z"
+      }
+    ]
+  },
+  {
+    "address": "97nUTS65NYqxAYqi8ZgmAed73zCzhUw77ymXztqtehat",
+    "url": "https://dexscreener.com/solana/97nuts65nyqxayqi8zgmaed73zczhuw77ymxztqtehat",
+    "initialMC": 206425,
+    "hpData": {
+      "top10HP": 34.719061342419884,
+      "top25HP": 58.195392963503444,
+      "top50HP": 72.14007285970226,
+      "text": "10-34.72%, 25-58.20%, 50-72.14%"
+    },
+    "initialPrice": {
+      "price": 0.000206021,
+      "date": "2025-01-03T20:06:50.958Z"
+    },
+    "highestPrice": {
+      "price": 0.000493291,
+      "date": "2025-01-05T16:28:41.672Z"
+    },
+    "currentPrice": {
+      "price": 0.000401912,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "8AgjDEQZg2zico5aBbAepxCLrNRbVHbwCracgF2ymoon",
+    "url": "https://dexscreener.com/solana/8agjdeqzg2zico5abbaepxclrnrbvhbwcracgf2ymoon",
+    "initialMC": 27208,
+    "hpData": {
+      "top10HP": 30.672369172429107,
+      "top25HP": 51.508752190182385,
+      "top50HP": 61.87356599923784,
+      "text": "10-30.67%, 25-51.51%, 50-61.87%"
+    },
+    "initialPrice": {
+      "price": 0.0000273221375,
+      "date": "2025-01-03T20:08:32.521Z"
+    },
+    "highestPrice": {
+      "price": 0.0000331632408,
+      "date": "2025-01-03T20:22:57.029Z"
+    },
+    "currentPrice": {
+      "price": 0.00000432365114,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "2ZJCEZUSKJTaeBS2jiA4eGyrzcP9zcxPyva2crVSpump",
+    "url": "https://dexscreener.com/solana/2zjcezuskjtaebs2jia4egyrzcp9zcxpyva2crvspump",
+    "initialMC": 496337,
+    "hpData": {
+      "top10HP": 27.01871455430591,
+      "top25HP": 45.80230177867467,
+      "top50HP": 60.66378867719453,
+      "text": "10-27.02%, 25-45.80%, 50-60.66%"
+    },
+    "initialPrice": {
+      "price": 0.000493153,
+      "date": "2025-01-03T20:08:33.307Z"
+    },
+    "highestPrice": {
+      "price": 0.000604898,
+      "date": "2025-01-04T09:34:04.225Z"
+    },
+    "currentPrice": {
+      "price": 0.000145149,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": []
+  },
+  {
+    "address": "GYFCPKNTLC1Ha9uHqaf4zb8hH3giuxMin8bmmBmspump",
+    "url": "https://dexscreener.com/solana/gyfcpkntlc1ha9uhqaf4zb8hh3giuxmin8bmmbmspump",
+    "initialMC": 10719,
+    "hpData": {
+      "top10HP": 18.139975439906586,
+      "top25HP": 27.191340492064597,
+      "top50HP": 31.83547390370192,
+      "text": "10-18.14%, 25-27.19%, 50-31.84%"
+    },
+    "initialPrice": {
+      "price": 0.0000106137,
+      "date": "2025-01-03T20:08:34.026Z"
+    },
+    "highestPrice": {
+      "price": 0.00001069,
+      "date": "2025-01-04T00:00:35.850Z"
+    },
+    "currentPrice": {
+      "price": 0.00000840335,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "A3bVFffc4rHTkMyY3ryPFmMwpie4bG2VErXseMVhSiRi",
+    "url": "https://dexscreener.com/solana/a3bvfffc4rhtkmyy3rypfmmwpie4bg2verxsemvhsiri",
+    "initialMC": 17400,
+    "hpData": {
+      "top10HP": 30.648884105671304,
+      "top25HP": 54.7957488866142,
+      "top50HP": 71.58184892533455,
+      "text": "10-30.65%, 25-54.80%, 50-71.58%"
+    },
+    "initialPrice": {
+      "price": 0.0000169397,
+      "date": "2025-01-03T20:15:35.833Z"
+    },
+    "highestPrice": {
+      "price": 0.0000169397,
+      "date": "2025-01-03T20:15:35.833Z"
+    },
+    "currentPrice": {
+      "price": 0.00000392975,
+      "date": "2025-01-03T21:20:29.784Z"
+    },
+    "intialBoost": 10,
+    "history": []
+  },
+  {
+    "address": "eh2sdumcevQErCjwzUDZAvJjfdaTkBxd8578ybmpump",
+    "url": "https://dexscreener.com/solana/eh2sdumcevqercjwzudzavjjfdatkbxd8578ybmpump",
+    "initialMC": 383435,
+    "hpData": {
+      "top10HP": 21.398054573062876,
+      "top25HP": 37.15684091663852,
+      "top50HP": 51.74385181781071,
+      "text": "10-21.40%, 25-37.16%, 50-51.74%"
+    },
+    "initialPrice": {
+      "price": 0.0003824,
+      "date": "2025-01-03T20:17:23.466Z"
+    },
+    "highestPrice": {
+      "price": 0.000495276,
+      "date": "2025-01-04T10:35:23.003Z"
+    },
+    "currentPrice": {
+      "price": 0.00020799,
+      "date": "2025-01-05T22:26:21.099Z"
+    },
+    "intialBoost": 100,
+    "history": [
+      {
+        "MC": 220247,
+        "price": 0.000220327,
+        "boost": 10,
+        "date": "2025-01-05T14:28:46.681Z"
+      }
+    ]
+  }
+]
