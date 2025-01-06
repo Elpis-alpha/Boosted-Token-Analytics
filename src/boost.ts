@@ -6,6 +6,7 @@ import path from "path";
 import {
   basicBoostAPIResponse,
   basicBoostParsedResponse,
+  basicMCRawData,
   DetectedToken,
 } from "./types";
 
@@ -47,7 +48,7 @@ const getBoosted = async () => {
 };
 
 const detectedTokens = new Map<string, DetectedToken>();
-const detectedTokenMarketCap = new Map<string, number>();
+const detectedTokenPrice = new Map<string, number>();
 const moreThan2MTokens = new Map<string, number>();
 
 const checkAndSaveTokens = async () => {
@@ -58,7 +59,11 @@ const checkAndSaveTokens = async () => {
   const specialTokens: {
     token: basicBoostParsedResponse;
     existingToken: DetectedToken | undefined;
-    MC: number;
+    MC: {
+      mc: number | undefined;
+      volume: number | undefined;
+      price: string | undefined;
+    };
   }[] = [];
   for (let i = 0; i < boostedTokens.length; i++) {
     const token = boostedTokens[i];
@@ -83,13 +88,17 @@ const checkAndSaveTokens = async () => {
     }
 
     const MC = await fetchMarketCap(token.address);
-    if (!MC || typeof MC !== "number" || MC <= 0) continue;
-    if (MC > 2_000_000) {
+    if (!MC?.mc || typeof MC.mc !== "number" || MC.mc <= 0) continue;
+    if (MC.mc > 2_000_000) {
       moreThan2MTokens.set(token.address, 1);
       // console.log(
       //   chalk.redBright(`\nToken ${token.address} MC is more than 2M`)
       // );
       continue;
+    }
+
+    if (!isNaN(Number(MC.price))) {
+      detectedTokenPrice.set(token.address, Number(MC.price));
     }
 
     const tokensSaved = detectedTokens.size;
@@ -106,21 +115,10 @@ const checkAndSaveTokens = async () => {
   }
   if (specialTokens.length <= 0) return false;
 
-  const _prices = await fetchPricesV2(
-    specialTokens.map((x) => x.token.address)
-  );
-  const prices =
-    _prices ?? (await fetchPricesV2(specialTokens.map((x) => x.token.address)));
-  if (!prices) {
-    console.log(chalk.red("\nFailed to get token prices from jupiter api\n"));
-    return false;
-  }
-
   for (let i = 0; i < specialTokens.length; i++) {
     const { token, existingToken, MC } = specialTokens[i];
-    const priceData = prices?.[token.address];
-    const price = Number(priceData?.price);
-    if (!priceData || !priceData?.price || isNaN(price)) {
+    const price = Number(MC.price);
+    if (isNaN(price)) {
       console.log(
         chalk.red(`\nFailed to get the price of token ${token.address}\n`)
       );
@@ -138,6 +136,7 @@ const checkAndSaveTokens = async () => {
           top10HP: 0,
           top25HP: 0,
           top50HP: 0,
+          total: 0,
         };
       }
       // New token detected
@@ -146,12 +145,18 @@ const checkAndSaveTokens = async () => {
       console.log(chalk.cyanBright(`- Boost: ${token.boost}`));
       console.log(chalk.cyanBright(`- Price: ${price}`));
       console.log(chalk.cyanBright(`- Holders: ${hpData.text}`));
-      console.log(chalk.cyanBright(`- Market Cap: ${shortenNumber(MC)} USD\n`));
+      console.log(
+        chalk.cyanBright(`- Volume 24H: ${shortenNumber(MC.volume ?? 0)} USD`)
+      );
+      console.log(
+        chalk.cyanBright(`- Market Cap: ${shortenNumber(MC.mc ?? 0)} USD\n`)
+      );
 
       const newToken: DetectedToken = {
         address: token.address,
         url: token.url,
-        initialMC: MC,
+        initialMC: MC.mc ?? 0,
+        initialVolume: MC.volume ?? 0,
         hpData,
         initialPrice: {
           price,
@@ -186,11 +191,15 @@ const checkAndSaveTokens = async () => {
         chalk.greenBright(`- Old Boost: ${existingToken.intialBoost}`)
       );
       console.log(
-        chalk.greenBright(`- Market Cap: ${shortenNumber(MC)} USD\n`)
+        chalk.greenBright(`- Volume 24H: ${shortenNumber(MC.volume ?? 0)} USD`)
+      );
+      console.log(
+        chalk.greenBright(`- Market Cap: ${shortenNumber(MC.mc ?? 0)} USD\n`)
       );
 
       existingToken.history.push({
-        MC,
+        MC: MC.mc ?? 0,
+        volume: MC.volume ?? 0,
         price,
         boost: token.boost,
         date: new Date(),
@@ -206,8 +215,13 @@ const checkAndSaveTokens = async () => {
 const checkDetectedTokensMarketCapChange = async () => {
   const allTokens = Array.from(detectedTokens.keys());
 
-  const _prices = await fetchPricesV2(allTokens);
-  const prices = _prices ?? (await fetchPricesV2(allTokens));
+  const tokensWithoutPrice = allTokens.filter((token) => {
+    if (!detectedTokenPrice.has(token)) return true;
+    else return false;
+  });
+
+  const _prices = await fetchPricesV2(tokensWithoutPrice);
+  const prices = _prices ?? (await fetchPricesV2(tokensWithoutPrice));
   if (!prices) {
     console.log(chalk.red("\nFailed to get token prices from jupiter api\n"));
     return false;
@@ -216,8 +230,8 @@ const checkDetectedTokensMarketCapChange = async () => {
   for (let i = 0; i < allTokens.length; i++) {
     const token = allTokens[i];
     const priceData = prices?.[token];
-    const price = Number(priceData?.price);
-    if (!priceData || !priceData?.price || isNaN(price)) {
+    const price = detectedTokenPrice.get(token) || Number(priceData?.price);
+    if (isNaN(price)) {
       console.log(chalk.red(`\nFailed to get the price of token ${token}\n`));
       continue;
     }
@@ -225,6 +239,7 @@ const checkDetectedTokensMarketCapChange = async () => {
     const existingToken = detectedTokens.get(token);
     if (!existingToken) continue;
 
+    detectedTokenPrice.set(token, price);
     existingToken.currentPrice = {
       price,
       date: new Date(),
@@ -242,36 +257,10 @@ const checkDetectedTokensMarketCapChange = async () => {
   }
 };
 
-const fetchPrices = async (contractAddresses: string[]) => {
-  try {
-    const ids = contractAddresses.map((c) => c.trim()).join(",");
-    const response = await fetch(`https://api.jup.ag/price/v2?ids=${ids}`);
-    const data = await response.json();
-    if (!data || !data.data) return null;
-    if (!data.timeTaken || data.timeTaken <= 0) return null;
-
-    interface AllMarketCapsData {
-      [key: string]: {
-        id: string;
-        type: string;
-        price: string;
-      };
-    }
-
-    console.log(
-      chalk.blue(
-        `\nTime taken to fetch ${contractAddresses.length} tokens: ${data.timeTaken}s\n`
-      )
-    );
-    return data.data as AllMarketCapsData;
-  } catch (error) {
-    console.error("Error fetching market cap:", error);
-    return null;
-  }
-};
-
 const fetchPricesV2 = async (contractAddresses: string[]) => {
   try {
+    if (!contractAddresses || contractAddresses.length <= 0) return {};
+
     const batchSize = 100;
     const batches = [];
 
@@ -330,8 +319,14 @@ const fetchMarketCap = async (contractAddress: string) => {
       `https://api.dexscreener.com/latest/dex/tokens/${contractAddress}`
     );
     const data = await response.json();
-    const marketCap = data.pairs[0].fdv;
-    return marketCap as number;
+    const dexData = data.pairs[0] as Partial<basicMCRawData>;
+    if (!dexData) return null;
+
+    return {
+      mc: dexData.fdv,
+      volume: dexData.volume?.h24,
+      price: dexData.priceUsd,
+    };
   } catch (error) {
     console.error("Error fetching market cap:", error);
     return null;
@@ -373,7 +368,7 @@ export const analyzePerformance = async () => {
 
   while (true) {
     try {
-      detectedTokenMarketCap.clear();
+      detectedTokenPrice.clear();
       console.log(chalk.blueBright("\nChecking for boosted tokens...\n"));
 
       const changed = await checkAndSaveTokens();
@@ -399,7 +394,7 @@ export const analyzePerformance = async () => {
       }
 
       const timeString = getTimeString(start);
-      detectedTokenMarketCap.clear();
+      detectedTokenPrice.clear();
       console.log(
         chalk.blueBright(`${timeString}. Waiting for 5 seconds...\n\n`)
       );
@@ -499,6 +494,7 @@ const getTopHolderInfo = async (mint: string) => {
       top10HP,
       top25HP,
       top50HP,
+      total: holders.length,
       text: `10-${top10HP.toFixed(2)}%, 25-${top25HP.toFixed(
         2
       )}%, 50-${top50HP.toFixed(2)}%`,
